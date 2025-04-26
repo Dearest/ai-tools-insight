@@ -412,5 +412,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/fc727358d2a0536894e6d419d8afef3b.jpeg",
     "description": "Replit is a collaborative IDE with over 50 programming languages, providing a powerful compiler and interpreter.",
     "rank": "46"
+  },
+  {
+    "slug": "candy-ai",
+    "detail_url": "https://www.toolify.ai/tool/candy-ai",
+    "name": "Candy.ai",
+    "website": "https://candy.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170350444590255185.jpg",
+    "description": "Immerse yourself in the ultimate AI girlfriend experience.",
+    "rank": "47"
   }
 ]
