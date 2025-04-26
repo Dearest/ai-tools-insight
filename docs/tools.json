@@ -466,5 +466,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349964871879944.jpg",
     "description": "Intelligent marketing automation for faster growth.",
     "rank": "52"
+  },
+  {
+    "slug": "you",
+    "detail_url": "https://www.toolify.ai/tool/you",
+    "name": "The Search Control",
+    "website": "https://you.com",
+    "snapshot": "https://cdn-images.toolify.ai/168182973213460790.png",
+    "description": "Control your own search engine.",
+    "rank": "53"
   }
 ]
