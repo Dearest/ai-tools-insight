@@ -8,6 +8,10 @@ export default defineConfig({
   description: "深入分析 AI 工具的商业洞察",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    outline: {
+      level: [2, 3],
+      label: "页面导航",
+    },
     nav: [
       { text: "首页", link: "/" },
       { text: "AI 工具分析", link: "/tool/" },
