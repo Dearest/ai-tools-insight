@@ -331,5 +331,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/b6d5647300437121a7941a8933ca40a1.jpeg",
     "description": "InVideo is an online video editor with premium templates, images, and music.",
     "rank": "37"
+  },
+  {
+    "slug": "chub-ai",
+    "detail_url": "https://www.toolify.ai/tool/chub-ai",
+    "name": "Chub",
+    "website": "https://chub.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170350440860412821.jpg",
+    "description": "Manage and collaborate on characters for language models.",
+    "rank": "38"
   }
 ]
