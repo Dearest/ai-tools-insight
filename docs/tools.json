@@ -457,5 +457,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349916049388227.jpg",
     "description": "A router for AI models and LLMs.",
     "rank": "51"
+  },
+  {
+    "slug": "klaviyo-com",
+    "detail_url": "https://www.toolify.ai/tool/klaviyo-com",
+    "name": "Klaviyo",
+    "website": "https://klaviyo.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349964871879944.jpg",
+    "description": "Intelligent marketing automation for faster growth.",
+    "rank": "52"
   }
 ]
