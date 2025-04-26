@@ -367,5 +367,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350413878793168.jpg",
     "description": "Study resources, notes, test prep, homework help, and expert tutors at your fingertips.",
     "rank": "41"
+  },
+  {
+    "slug": "turboscribe-ai",
+    "detail_url": "https://www.toolify.ai/tool/turboscribe-ai",
+    "name": "TurboScribe",
+    "website": "https://turboscribe.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349857147610723.jpg",
+    "description": "Unlimited AI transcription with 99.8% accuracy in 98+ languages.",
+    "rank": "42"
   }
 ]
