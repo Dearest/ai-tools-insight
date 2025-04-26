@@ -115,6 +115,47 @@ export class Crawler {
     }
   }
 
+  private async gitCommitAndPush(tool: Tool): Promise<void> {
+    try {
+      const slug = tool.detail_url.split("/").at(-1)
+      const commitMessage = `feat: add analysis for ${slug}`
+
+      // Check if we're in a GitHub Action environment
+      const isGitHubAction = process.env.GITHUB_ACTIONS === "true"
+
+      if (isGitHubAction) {
+        // In GitHub Actions, we need to configure Git
+        await this.runGitCommand('config --global user.name "GitHub Action"')
+        await this.runGitCommand('config --global user.email "action@github.com"')
+      }
+
+      // Add all changed files
+      await this.runGitCommand("add .")
+      // Commit changes
+      await this.runGitCommand(`commit -m "${commitMessage}"`)
+      // Push to master branch
+      await this.runGitCommand("push origin master")
+
+      console.log("Successfully committed and pushed changes to master")
+    } catch (error) {
+      console.error(`Failed to commit and push changes: ${error instanceof Error ? error.message : String(error)}`)
+      throw error
+    }
+  }
+
+  private async runGitCommand(command: string): Promise<void> {
+    const { exec } = require("child_process")
+    return new Promise((resolve, reject) => {
+      exec(`git ${command}`, (error: Error | null) => {
+        if (error) {
+          reject(error)
+        } else {
+          resolve()
+        }
+      })
+    })
+  }
+
   private async parseToolAttempt(tool: Tool): Promise<void> {
     try {
       console.log(`Fetching content from ${tool.detail_url}...`)
@@ -138,6 +179,9 @@ export class Crawler {
 
       console.log(`Updating tools.json...`)
       await this.updateToolsJson(tool)
+
+      console.log(`Committing and pushing changes...`)
+      await this.gitCommitAndPush(tool)
 
       console.log(`Successfully completed all steps for ${tool.website}`)
     } catch (error) {

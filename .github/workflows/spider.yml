@@ -4,6 +4,10 @@ on:
   workflow_dispatch:
     # Allow manual triggering
 
+# Add permissions configuration
+permissions:
+  contents: write
+
 jobs:
   spider:
     runs-on: ubuntu-latest
