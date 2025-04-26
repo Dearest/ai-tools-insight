@@ -53,3 +53,4 @@ https://klaviyo.com
 https://you.com
 https://datacamp.com
 https://transkriptor.com
+https://www.mailerlite.com

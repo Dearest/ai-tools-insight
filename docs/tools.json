@@ -493,5 +493,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349852667488509.jpg",
     "description": "Convert audio and video to text with Transkriptor's powerful AI.",
     "rank": "55"
+  },
+  {
+    "slug": "mailerlite-ai-drag-drop-editor",
+    "detail_url": "https://www.toolify.ai/tool/mailerlite-ai-drag-drop-editor",
+    "name": "MailerLite",
+    "website": "https://www.mailerlite.com",
+    "snapshot": "https://cdn-images.toolify.ai/169003638369892070.jpg",
+    "description": "MailerLite is a platform providing tools for businesses to grow their audience and drive revenue.",
+    "rank": "56"
   }
 ]
