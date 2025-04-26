@@ -340,5 +340,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350440860412821.jpg",
     "description": "Manage and collaborate on characters for language models.",
     "rank": "38"
+  },
+  {
+    "slug": "pixlr",
+    "detail_url": "https://www.toolify.ai/tool/pixlr",
+    "name": "Pixlr",
+    "website": "https://pixlr.com",
+    "snapshot": "https://cdn-images.toolify.ai/168248899781024204.jpg",
+    "description": "Pixlr is a free online tool for photo editing, design, and AI-powered image creation.",
+    "rank": "39"
   }
 ]
