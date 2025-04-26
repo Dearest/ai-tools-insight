@@ -376,5 +376,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349857147610723.jpg",
     "description": "Unlimited AI transcription with 99.8% accuracy in 98+ languages.",
     "rank": "42"
+  },
+  {
+    "slug": "otter-ai",
+    "detail_url": "https://www.toolify.ai/tool/otter-ai",
+    "name": "Otter.ai",
+    "website": "https://otter.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/e46c43f00f3b428d585a9b9827ca8543.jpeg",
+    "description": "Otter.ai is a platform that provides automatic meeting notes, transcriptions, and summaries, improving productivity and collaboration.",
+    "rank": "43"
   }
 ]
