@@ -394,5 +394,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350415727375190.jpg",
     "description": "Creativity, productivity, and utility solutions.",
     "rank": "44"
+  },
+  {
+    "slug": "zapier-com",
+    "detail_url": "https://www.toolify.ai/tool/zapier-com",
+    "name": "Zapier",
+    "website": "https://zapier.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349876089253576.jpg",
+    "description": "Automate work across thousands of app integrations.",
+    "rank": "45"
   }
 ]
