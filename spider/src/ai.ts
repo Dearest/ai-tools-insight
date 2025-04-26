@@ -35,6 +35,7 @@ export class AI {
           {
             ...tool,
             ...article,
+            modelId: process.env.PROVIDER_MODEL_ID || "",
           },
           null,
           2
