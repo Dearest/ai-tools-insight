@@ -322,5 +322,14 @@
     "snapshot": "https://cdn-images.toolify.ai/16832955972067848.jpg",
     "description": "Your personal AI assistant for effortless chatting and copywriting.",
     "rank": "36"
+  },
+  {
+    "slug": "invideo",
+    "detail_url": "https://www.toolify.ai/tool/invideo",
+    "name": "InVideo",
+    "website": "https://invideo.io",
+    "snapshot": "https://cdn-images.toolify.ai/image/b6d5647300437121a7941a8933ca40a1.jpeg",
+    "description": "InVideo is an online video editor with premium templates, images, and music.",
+    "rank": "37"
   }
 ]
