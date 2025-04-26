@@ -448,5 +448,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349959663340439.jpg",
     "description": "Immerse yourself in character-driven conversations on Joyland.",
     "rank": "50"
+  },
+  {
+    "slug": "openrouter-ai",
+    "detail_url": "https://www.toolify.ai/tool/openrouter-ai",
+    "name": "OpenRouter",
+    "website": "https://openrouter.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349916049388227.jpg",
+    "description": "A router for AI models and LLMs.",
+    "rank": "51"
   }
 ]
