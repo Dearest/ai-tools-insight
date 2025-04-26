@@ -304,5 +304,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350418441260041.jpg",
     "description": "Free AI video editor with text to video, avatars, auto-subtitles, voice translations.",
     "rank": "34"
+  },
+  {
+    "slug": "zerogpt",
+    "detail_url": "https://www.toolify.ai/tool/zerogpt",
+    "name": "ZeroGPT",
+    "website": "https://www.zerogpt.com",
+    "snapshot": "https://cdn-images.toolify.ai/168517594649377207.jpg",
+    "description": "ZeroGPT is a powerful, accurate AI tool for detecting chatGPT content, OpenAI-generated text, and plagiarism.",
+    "rank": "35"
   }
 ]
