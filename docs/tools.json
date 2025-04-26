@@ -349,5 +349,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168248899781024204.jpg",
     "description": "Pixlr is a free online tool for photo editing, design, and AI-powered image creation.",
     "rank": "39"
+  },
+  {
+    "slug": "gauthmath-com",
+    "detail_url": "https://www.toolify.ai/tool/gauthmath-com",
+    "name": "Gauthmath",
+    "website": "https://gauthmath.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350416277838907.jpg",
+    "description": "Free math homework help with accurate answers.",
+    "rank": "40"
   }
 ]
