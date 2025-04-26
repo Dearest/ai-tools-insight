@@ -1,0 +1,810 @@
+[
+  {
+    "detail_url": "https://www.toolify.ai/tool/chatgpt-com",
+    "name": "ChatGPT",
+    "website": "https://chatgpt.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350397495108913.jpg",
+    "description": "Engaging AI conversations and task automation.",
+    "rank": "1"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/openai",
+    "name": "OpenAI",
+    "website": "https://openai.com",
+    "snapshot": "https://cdn-images.toolify.ai/168267311532311562.jpg",
+    "description": "OpenAI creates safe AGI for humanity through research and advanced models.",
+    "rank": "2"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/adobe",
+    "name": "Adobe",
+    "website": "https://adobe.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350412560472027.jpg",
+    "description": "Leading company providing creative, marketing, and document management solutions.",
+    "rank": "3"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/notion-ai",
+    "name": "Notion",
+    "website": "https://www.notion.so",
+    "snapshot": "https://cdn-images.toolify.ai/167897593403178097.png",
+    "description": "Notion is a versatile workspace that integrates wiki, docs, and project management.",
+    "rank": "4"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/force-com",
+    "name": "Salesforce Einstein",
+    "website": "https://force.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350382821828742.jpg",
+    "description": "Unifying data, AI, CRM, development, and security into a comprehensive platform.",
+    "rank": "5"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/perplexity-ai",
+    "name": "Perplexity AI",
+    "website": "https://www.perplexity.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/3ea5defa13eec237374d9f7eceadc105.jpeg",
+    "description": "An AI search engine utilizing large language models and search engines.",
+    "rank": "6"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/claude-2",
+    "name": "Anthropic",
+    "website": "https://claude.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168924963861681340.jpg",
+    "description": "The AI assistant named Claude, called Anthropic, offers various capabilities and services.",
+    "rank": "7"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/shop-app",
+    "name": "Shop: Your AI-Powered Shopping Assistant",
+    "website": "https://shop.app",
+    "snapshot": "https://cdn-images.toolify.ai/170350442042132367.jpg",
+    "description": "AI-powered shopping assistant and mobile app for convenient and personalized online shopping.",
+    "rank": "8"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/site-com",
+    "name": "Salesforce Einstein 1 Platform for Application Development",
+    "website": "https://site.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349895010883436.jpg",
+    "description": "A platform for efficient and collaborative software application development.",
+    "rank": "9"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/remove-bg",
+    "name": "remove.bg",
+    "website": "https://www.remove.bg",
+    "snapshot": "https://cdn-images.toolify.ai/167932311937561733.png",
+    "description": "A free tool - remove.bg - can automatically remove image backgrounds with one click.",
+    "rank": "10"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/quillbot-paraphraser",
+    "name": "Quillbot",
+    "website": "https://quillbot.com",
+    "snapshot": "https://cdn-images.toolify.ai/16915101786011945.png",
+    "description": "An online tool for rewriting text.",
+    "rank": "11"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/grammarly",
+    "name": "Grammarly",
+    "website": "https://www.grammarly.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/d9bc4ea5f203c970f9640808562488ea.jpeg",
+    "description": "Grammarly - Enhance writing skills and communicate confidently with AI writing assistance.",
+    "rank": "12"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/shutterstock-com",
+    "name": "Shutterstock",
+    "website": "https://shutterstock.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350419957343320.jpg",
+    "description": "Stock images, photos, vectors, video, and music.",
+    "rank": "13"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/hubspot-com",
+    "name": "HubSpot",
+    "website": "https://hubspot.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350408974843671.jpg",
+    "description": "Grow your business faster with HubSpot's customer platform.",
+    "rank": "14"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/spicychat-ai",
+    "name": "SpicyChat AI",
+    "website": "https://spicychat.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170373310470085106.jpg",
+    "description": "Create and interact with AI characters using SpicyChat AI.",
+    "rank": "15"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/capcut-com",
+    "name": "CapCut",
+    "website": "https://capcut.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350414718083204.jpg",
+    "description": "AI-powered video editor and graphic design tool for all platforms.",
+    "rank": "16"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/miro",
+    "name": "Miro",
+    "website": "https://miro.com",
+    "snapshot": "https://cdn-images.toolify.ai/168248936914786180.jpg",
+    "description": "Summary: Miro helps distributed teams collaborate and co-create efficiently across different locations.",
+    "rank": "17"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/poe",
+    "name": "Poe",
+    "website": "https://poe.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/b8f175eb703798c01cd2415e95353122.jpeg",
+    "description": "AI-powered platform for instant question answering and interactive conversations.",
+    "rank": "18"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/hugging-face",
+    "name": "Hugging Face",
+    "website": "https://huggingface.co",
+    "snapshot": "https://cdn-images.toolify.ai/170349952477517677.jpg",
+    "description": "AI community building the future",
+    "rank": "19"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/crushon-ai",
+    "name": "CrushOn.AI",
+    "website": "https://crushon.ai",
+    "snapshot": "https://cdn-images.toolify.ai/169790167776932300.png",
+    "description": "Unbounded conversations and authentic interactions.",
+    "rank": "20"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/civitai",
+    "name": "Civitai",
+    "website": "https://civitai.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/18c130531744ba885667b165e3f38bd5.jpeg",
+    "description": "A platform for Stable Diffusion AI Art models with a large collection and active community.",
+    "rank": "21"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/prolific-com",
+    "name": "Prolific",
+    "website": "https://prolific.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350444142871808.jpg",
+    "description": "Trustworthy research participants in minutes.",
+    "rank": "22"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/leonardo-ai",
+    "name": "Leonardo.ai",
+    "website": "https://leonardo.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/f4c20f8d9e088eb64f12224d8a60e427.jpeg",
+    "description": "AI-driven asset generation for creative projects.",
+    "rank": "23"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/elevenlabs-io",
+    "name": "ElevenLabs",
+    "website": "https://elevenlabs.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349993442883512.jpg",
+    "description": "Generate high-quality AI voices in minutes.",
+    "rank": "24"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/liner-ai-1",
+    "name": "LINER",
+    "website": "https://getliner.com",
+    "snapshot": "https://cdn-images.toolify.ai/173163895829255560.png",
+    "description": "LINER is an AI workspace that helps users find and learn reliable information faster.",
+    "rank": "25"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/pixelcut-ai",
+    "name": "Pixelcut",
+    "website": "https://pixelcut.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349928911474567.jpg",
+    "description": "A free online design tool for creating product photos and ads, with easy background removal and object erasing capabilities.",
+    "rank": "26"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/pixai-ai-art-generator",
+    "name": "PixAI - AI Art Generator",
+    "website": "https://pixai.art",
+    "snapshot": "https://cdn-images.toolify.ai/170373468047797453.jpg",
+    "description": "Create stunning anime art effortlessly.",
+    "rank": "27"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/beacons-ai-2-0",
+    "name": "Beacons",
+    "website": "https://beacons.ai",
+    "snapshot": "https://cdn-images.toolify.ai/169909908399997900.jpg",
+    "description": "AI-powered all-in-one platform for content creators.",
+    "rank": "28"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/gptzero-me",
+    "name": "GPTZero",
+    "website": "https://gptzero.me",
+    "snapshot": "https://cdn-images.toolify.ai/168354660803933464.jpg",
+    "description": "GPTZero detects AI models in text to bring transparency, distinguishing human written content.",
+    "rank": "29"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/deepai-org",
+    "name": "DeepAI",
+    "website": "https://deepai.org",
+    "snapshot": "https://cdn-images.toolify.ai/170349986838785319.jpg",
+    "description": "AI tools for creative people.",
+    "rank": "30"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/getimg-ai",
+    "name": "getimg.ai",
+    "website": "https://getimg.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/ed86bf5efda0abb8151608e4ab061f98.jpeg",
+    "description": "A suite of magical AI tools for generating, modifying, and expanding images.",
+    "rank": "31"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/photoroom",
+    "name": "PhotoRoom",
+    "website": "https://www.photoroom.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/03ea8b8ed9a1abb7d20394a691efbef5.jpeg",
+    "description": "Create professional product and portrait pictures with just your phone using PhotoRoom app.",
+    "rank": "32"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/openart",
+    "name": "OpenArt",
+    "website": "https://openart.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/a698b1f563ae5d31cbea5bcdd966b4f1.jpeg",
+    "description": "OpenArt is an AI image generator that enhances creativity and productivity with various AI models and styles.",
+    "rank": "33"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/veed-io",
+    "name": "VEED.IO",
+    "website": "https://veed.io",
+    "snapshot": "https://cdn-images.toolify.ai/170350418441260041.jpg",
+    "description": "Free AI video editor with text to video, avatars, auto-subtitles, voice translations.",
+    "rank": "34"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/zerogpt",
+    "name": "ZeroGPT",
+    "website": "https://www.zerogpt.com",
+    "snapshot": "https://cdn-images.toolify.ai/168517594649377207.jpg",
+    "description": "ZeroGPT is a powerful, accurate AI tool for detecting chatGPT content, OpenAI-generated text, and plagiarism.",
+    "rank": "35"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/monica-ai",
+    "name": "Monica - Your ChatGPT AI Assistant Chrome Extension",
+    "website": "https://monica.im",
+    "snapshot": "https://cdn-images.toolify.ai/16832955972067848.jpg",
+    "description": "Your personal AI assistant for effortless chatting and copywriting.",
+    "rank": "36"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/invideo",
+    "name": "InVideo",
+    "website": "https://invideo.io",
+    "snapshot": "https://cdn-images.toolify.ai/image/b6d5647300437121a7941a8933ca40a1.jpeg",
+    "description": "InVideo is an online video editor with premium templates, images, and music.",
+    "rank": "37"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/chub-ai",
+    "name": "Chub",
+    "website": "https://chub.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170350440860412821.jpg",
+    "description": "Manage and collaborate on characters for language models.",
+    "rank": "38"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/pixlr",
+    "name": "Pixlr",
+    "website": "https://pixlr.com",
+    "snapshot": "https://cdn-images.toolify.ai/168248899781024204.jpg",
+    "description": "Pixlr is a free online tool for photo editing, design, and AI-powered image creation.",
+    "rank": "39"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/gauthmath-com",
+    "name": "Gauthmath",
+    "website": "https://gauthmath.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350416277838907.jpg",
+    "description": "Free math homework help with accurate answers.",
+    "rank": "40"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/coursehero-com",
+    "name": "Course Hero",
+    "website": "https://coursehero.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350413878793168.jpg",
+    "description": "Study resources, notes, test prep, homework help, and expert tutors at your fingertips.",
+    "rank": "41"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/turboscribe-ai",
+    "name": "TurboScribe",
+    "website": "https://turboscribe.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349857147610723.jpg",
+    "description": "Unlimited AI transcription with 99.8% accuracy in 98+ languages.",
+    "rank": "42"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/otter-ai",
+    "name": "Otter.ai",
+    "website": "https://otter.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/e46c43f00f3b428d585a9b9827ca8543.jpeg",
+    "description": "Otter.ai is a platform that provides automatic meeting notes, transcriptions, and summaries, improving productivity and collaboration.",
+    "rank": "43"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/wondershare-com",
+    "name": "Wondershare",
+    "website": "https://wondershare.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350415727375190.jpg",
+    "description": "Creativity, productivity, and utility solutions.",
+    "rank": "44"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/zapier-com",
+    "name": "Zapier",
+    "website": "https://zapier.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349876089253576.jpg",
+    "description": "Automate work across thousands of app integrations.",
+    "rank": "45"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/replit",
+    "name": "Replit",
+    "website": "https://replit.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/fc727358d2a0536894e6d419d8afef3b.jpeg",
+    "description": "Replit is a collaborative IDE with over 50 programming languages, providing a powerful compiler and interpreter.",
+    "rank": "46"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/candy-ai",
+    "name": "Candy.ai",
+    "website": "https://candy.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170350444590255185.jpg",
+    "description": "Immerse yourself in the ultimate AI girlfriend experience.",
+    "rank": "47"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/runwayml",
+    "name": "Runway",
+    "website": "https://runwayml.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/fbe999b1a3a47e4717e8ccc64bfbe093.jpeg",
+    "description": "Runway develops AI systems for creative tools in art and entertainment.",
+    "rank": "48"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/123rf-ai-search-engine",
+    "name": "123RF",
+    "website": "https://www.123rf.com",
+    "snapshot": "https://cdn-images.toolify.ai/168684700829131754.jpg",
+    "description": "123RF is a platform for royalty-free stock photos, vectors, cliparts, and illustrations.",
+    "rank": "49"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/joyland-ai",
+    "name": "Joyland",
+    "website": "https://joyland.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349959663340439.jpg",
+    "description": "Immerse yourself in character-driven conversations on Joyland.",
+    "rank": "50"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/openrouter-ai",
+    "name": "OpenRouter",
+    "website": "https://openrouter.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349916049388227.jpg",
+    "description": "A router for AI models and LLMs.",
+    "rank": "51"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/klaviyo-com",
+    "name": "Klaviyo",
+    "website": "https://klaviyo.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349964871879944.jpg",
+    "description": "Intelligent marketing automation for faster growth.",
+    "rank": "52"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/you",
+    "name": "The Search Control",
+    "website": "https://you.com",
+    "snapshot": "https://cdn-images.toolify.ai/168182973213460790.png",
+    "description": "Control your own search engine.",
+    "rank": "53"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/datacamp-com",
+    "name": "DataCamp",
+    "website": "https://datacamp.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350416412465752.jpg",
+    "description": "Learn Data Science & AI online at your own pace.",
+    "rank": "54"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/transkriptor-com",
+    "name": "Transkriptor",
+    "website": "https://transkriptor.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349852667488509.jpg",
+    "description": "Convert audio and video to text with Transkriptor's powerful AI.",
+    "rank": "55"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/mailerlite-ai-drag-drop-editor",
+    "name": "MailerLite",
+    "website": "https://www.mailerlite.com",
+    "snapshot": "https://cdn-images.toolify.ai/169003638369892070.jpg",
+    "description": "MailerLite is a platform providing tools for businesses to grow their audience and drive revenue.",
+    "rank": "56"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/clipto-com",
+    "name": "Clipto",
+    "website": "https://clipto.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349979733015309.jpg",
+    "description": "Advanced AI transcription service for audio, video, and YouTube files.",
+    "rank": "57"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/sider",
+    "name": "Sider",
+    "website": "https://sider.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170705528367492892.jpg",
+    "description": "Seamlessly integrate AI into your daily workflow.",
+    "rank": "58"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/hellosign",
+    "name": "Dropbox Sign",
+    "website": "https://www.hellosign.com",
+    "snapshot": "https://cdn-images.toolify.ai/168241349582523109.jpg",
+    "description": "The easiest way to send and manage electronic signatures.",
+    "rank": "59"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/intercom-com",
+    "name": "Intercom",
+    "website": "https://intercom.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350409443508358.jpg",
+    "description": "Automation and human support for faster resolutions.",
+    "rank": "60"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/voicemod",
+    "name": "Voicemod",
+    "website": "https://www.voicemod.net",
+    "snapshot": "https://cdn-images.toolify.ai/image/f8f011d6b0b9535534b242a7bd516232.jpeg",
+    "description": "Voicemod: free voice changer for Windows and macOS, perfect for gaming and content creation.",
+    "rank": "61"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/kapwing-com",
+    "name": "Kapwing",
+    "website": "https://kapwing.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349961587617039.jpg",
+    "description": "Create, edit, and grow content with Kapwing's collaborative online platform.",
+    "rank": "62"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/gobranded-com",
+    "name": "Branded",
+    "website": "https://gobranded.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350413597378668.jpg",
+    "description": "Real consumer data and insights platform.",
+    "rank": "63"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/picwish-com",
+    "name": "PicWish",
+    "website": "https://picwish.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350407937806033.jpg",
+    "description": "AI-powered image processing tool",
+    "rank": "64"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/spoiledchild-com",
+    "name": "SpoiledChild™",
+    "website": "https://spoiledchild.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350412793215136.jpg",
+    "description": "Intelligent skincare & hair products for anti-aging.",
+    "rank": "65"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/flowgpt",
+    "name": "FlowGPT",
+    "website": "https://flowgpt.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/dc3bbeef933c83340c682cdc1baa0bfb.jpeg",
+    "description": "FlowGPT is a chat prompt gallery with diverse ChatGPT prompts for enhanced communication.",
+    "rank": "66"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/undetectable-ai",
+    "name": "AI Content Solutions",
+    "website": "https://undetectable.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168545598150807201.jpg",
+    "description": "AI Content Solutions transforms AI-generated content into high-quality writing, aligning it with your brand.",
+    "rank": "67"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/speechify",
+    "name": "Speechify",
+    "website": "https://speechify.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/aec43977e760aa74753918bcce0b983a.jpeg",
+    "description": "Speechify is a popular text-to-speech app for Chrome, iOS, and Android.",
+    "rank": "68"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/framer-ai",
+    "name": "Framer",
+    "website": "https://www.framer.com",
+    "snapshot": "https://cdn-images.toolify.ai/169150815901166099.jpg",
+    "description": "Framer allows users to create, design, and publish professional websites without coding.",
+    "rank": "69"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/gptgirlfriend",
+    "name": "GirlfriendGPT - The AI Companion Chatroom",
+    "website": "https://gptgirlfriend.online",
+    "snapshot": "https://cdn-images.toolify.ai/170009903124175196.jpg",
+    "description": "An uncensored AI companion chatroom for SFW and NSFW conversations.",
+    "rank": "70"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/novelai",
+    "name": "NovelAI - The AI Storyteller",
+    "website": "https://novelai.net",
+    "snapshot": "https://cdn-images.toolify.ai/image/ceddea236e1766381aaaca3b6f26aefa.jpeg",
+    "description": "AI-powered subscription service for creating unique and engaging literature.",
+    "rank": "71"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/thestorygraph-com",
+    "name": "The StoryGraph",
+    "website": "https://thestorygraph.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349849235172263.jpg",
+    "description": "Track and choose books based on your mood and preferences.",
+    "rank": "72"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/mailchi-mp",
+    "name": "Mailchimp",
+    "website": "https://mailchi.mp",
+    "snapshot": "https://cdn-images.toolify.ai/170350382674426729.jpg",
+    "description": "Convert more customers with Mailchimp's marketing and automation platform.",
+    "rank": "73"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/artguru-ai-art-generator",
+    "name": "Artguru",
+    "website": "https://www.artguru.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168804540535257073.jpg",
+    "description": "Create beautiful art with the power of AI.",
+    "rank": "74"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/veo-co",
+    "name": "Veo Sports Camera",
+    "website": "https://veo.co",
+    "snapshot": "https://cdn-images.toolify.ai/170349863468184571.jpg",
+    "description": "The ultimate team sports camera.",
+    "rank": "75"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/vidiq",
+    "name": "vidIQ",
+    "website": "https://vidiq.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/b79113ce6ef94d1061177a3a1de97571.jpeg",
+    "description": "YouTube growth tool with AI-powered prompts and analytics.",
+    "rank": "76"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/naturalreaders",
+    "name": "NaturalReader",
+    "website": "https://www.naturalreaders.com",
+    "snapshot": "https://cdn-images.toolify.ai/168329242839663830.jpg",
+    "description": "NaturalReader converts text into spoken audio for users to listen to their documents.",
+    "rank": "77"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/sourcenext-com",
+    "name": "ソースネクスト・サイト TOP",
+    "website": "https://www.sourcenext.com",
+    "snapshot": "https://cdn-images.toolify.ai/170375483964484077.jpg",
+    "description": "AI 通訳、音声録音、ウイルス対策、年賀状作成のソリューション。",
+    "rank": "78"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/easysbc-io",
+    "name": "EasySBC",
+    "website": "https://easysbc.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349992538083601.jpg",
+    "description": "Solutions, AI, Ratings, and Database for FC 24 Squad Building Challenges.",
+    "rank": "79"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/uplearn-co-uk",
+    "name": "Up Learn",
+    "website": "https://uplearn.co.uk",
+    "snapshot": "https://cdn-images.toolify.ai/170349860533996718.jpg",
+    "description": "AI and cognitive science ensure A* at A Level.",
+    "rank": "80"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/chatpdf",
+    "name": "ChatPDF",
+    "website": "https://www.chatpdf.com",
+    "snapshot": "https://cdn-images.toolify.ai/168197409571939545.jpg",
+    "description": "AI-powered service ChatPDF allows users to chat with any PDF, providing instant answers and better understanding.",
+    "rank": "81"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/coda-io",
+    "name": "Coda",
+    "website": "https://coda.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349979895813812.jpg",
+    "description": "All-in-one collaborative workspace.",
+    "rank": "82"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/knowt-com",
+    "name": "Knowt",
+    "website": "https://knowt.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349964844048657.jpg",
+    "description": "AI-powered study app with flashcards, study guides, and practice tests.",
+    "rank": "83"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/snapedit-all-in-one-ai-photo-editor",
+    "name": "SnapEdit.App",
+    "website": "https://snapedit.app",
+    "snapshot": "https://cdn-images.toolify.ai/168577931569751752.jpg",
+    "description": "SnapEdit.App is a free online photo editor that utilizes AI to remove objects/people and enhance photos.",
+    "rank": "84"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/cognitoedu-org",
+    "name": "Cognito",
+    "website": "https://cognitoedu.org",
+    "snapshot": "https://cdn-images.toolify.ai/170349980846576578.jpg",
+    "description": "Intelligent learning platform for GCSE Science and Maths.",
+    "rank": "85"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/aiseo",
+    "name": "AISEO - AI writing assistant, Copywriting & Paraphrasing Tool",
+    "website": "https://aiseo.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/a24d6ed61e07f2db10f95ad628e6772f.jpeg",
+    "description": "AISEO is a writing assistant that generates optimized content quickly and has an advanced paraphrasing tool.",
+    "rank": "86"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/stealthwriter",
+    "name": "Stealth Writer AI",
+    "website": "https://stealthwriter.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168528462630388629.jpg",
+    "description": "Protects AI-generated text from detection.",
+    "rank": "87"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/tabsquare-com",
+    "name": "TabSquare",
+    "website": "https://tabsquare.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349906157906923.jpg",
+    "description": "Restaurant technology platform optimizing operations and enhancing customer experience.",
+    "rank": "88"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/moises",
+    "name": "Moises App",
+    "website": "https://moises.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168267256479195940.jpg",
+    "description": "A music practice app that uses AI to enhance and personalize the practicing experience.",
+    "rank": "89"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/kittl",
+    "name": "Kittl - Unleash Your Creative Power",
+    "website": "https://www.kittl.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/f73dedddbc6dd8294fd0f4dbe07d465a.jpeg",
+    "description": "Create stunning designs easily with Kittl's intuitive platform and powerful design tools.",
+    "rank": "90"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/cursor-sh",
+    "name": "Cursor",
+    "website": "https://cursor.sh",
+    "snapshot": "https://cdn-images.toolify.ai/170349984616123851.jpg",
+    "description": "The AI-first Code Editor for fast software development.",
+    "rank": "91"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/wondershare-net",
+    "name": "Wondershare",
+    "website": "https://wondershare.net",
+    "snapshot": "https://cdn-images.toolify.ai/170350416713181352.jpg",
+    "description": "Software solutions for video editing, PDF management, diagramming, and more.",
+    "rank": "92"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/descript",
+    "name": "Descript",
+    "website": "https://www.descript.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/3ebd7a653ecae95571bcc74258b36f3e.jpeg",
+    "description": "An all-in-one editing software for videos and podcasts with AI technology.",
+    "rank": "93"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/the-new-riverside",
+    "name": "Riverside.fm",
+    "website": "https://riverside.fm",
+    "snapshot": "https://cdn-images.toolify.ai/168575969684676597.jpg",
+    "description": "Riverside.fm is a virtual studio enabling podcasters to create professional content remotely.",
+    "rank": "94"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/dify-ai",
+    "name": "Dify",
+    "website": "https://dify.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168493973560655657.jpg",
+    "description": "Dify empowers users to create sustainable applications effortlessly.",
+    "rank": "95"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/tactiq",
+    "name": "Tactiq",
+    "website": "https://tactiq.io",
+    "snapshot": "https://cdn-images.toolify.ai/168255955465847488.jpg",
+    "description": "Tactiq is a top transcription tool for online meetings, offering real-time transcription and meeting summaries.",
+    "rank": "96"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/casetext",
+    "name": "Casetext",
+    "website": "https://casetext.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/ef101a504b87e90b2c043d9a58cc9f34.jpeg",
+    "description": "Casetext develops AI legal assistant for legal professionals.",
+    "rank": "97"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/fathom-2-0",
+    "name": "Fathom",
+    "website": "https://fathom.video",
+    "snapshot": "https://cdn-images.toolify.ai/168517592383990383.jpg",
+    "description": "Fathom is a free AI Meeting Assistant that helps users focus on video calls without taking notes.",
+    "rank": "98"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/deep-dream-generator",
+    "name": "Deep Dream Generator",
+    "website": "https://deepdreamgenerator.com",
+    "snapshot": "https://cdn-images.toolify.ai/168329818158026666.jpg",
+    "description": "Deep Dream Generator is an AI image generator that creates unique and artistic images by using deep learning algorithms.",
+    "rank": "99"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/apeuni-com",
+    "name": "PTE APEUni",
+    "website": "https://apeuni.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350456258143897.jpg",
+    "description": "Pearson Test of English (PTE) is a computer-based academic exam with online mock tests available. Join APEUni to practice PTE for FREE and use AI scorings to evaluate your performance.",
+    "rank": "100"
+  },
+  {
+    "detail_url": "https://www.toolify.ai/tool/readtheory-org",
+    "name": "ReadTheory",
+    "website": "https://readtheory.org",
+    "snapshot": "https://cdn-images.toolify.ai/170349879699033763.jpg",
+    "description": "Free reading comprehension practice for students and teachers.",
+    "rank": "101"
+  }
+]

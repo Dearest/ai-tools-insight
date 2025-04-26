@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "chatgpt-com",
+    "detail_url": "https://www.toolify.ai/tool/chatgpt-com",
+    "name": "ChatGPT",
+    "website": "https://chatgpt.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350397495108913.jpg",
+    "description": "Engaging AI conversations and task automation.",
+    "rank": "1"
+  },
+  {
+    "slug": "openai",
+    "detail_url": "https://www.toolify.ai/tool/openai",
+    "name": "OpenAI",
+    "website": "https://openai.com",
+    "snapshot": "https://cdn-images.toolify.ai/168267311532311562.jpg",
+    "description": "OpenAI creates safe AGI for humanity through research and advanced models.",
+    "rank": "2"
+  },
+  {
+    "slug": "adobe",
+    "detail_url": "https://www.toolify.ai/tool/adobe",
+    "name": "Adobe",
+    "website": "https://adobe.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350412560472027.jpg",
+    "description": "Leading company providing creative, marketing, and document management solutions.",
+    "rank": "3"
+  },
+  {
+    "slug": "notion-ai",
+    "detail_url": "https://www.toolify.ai/tool/notion-ai",
+    "name": "Notion",
+    "website": "https://www.notion.so",
+    "snapshot": "https://cdn-images.toolify.ai/167897593403178097.png",
+    "description": "Notion is a versatile workspace that integrates wiki, docs, and project management.",
+    "rank": "4"
+  },
+  {
+    "slug": "force-com",
+    "detail_url": "https://www.toolify.ai/tool/force-com",
+    "name": "Salesforce Einstein",
+    "website": "https://force.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350382821828742.jpg",
+    "description": "Unifying data, AI, CRM, development, and security into a comprehensive platform.",
+    "rank": "5"
+  },
+  {
+    "slug": "perplexity-ai",
+    "detail_url": "https://www.toolify.ai/tool/perplexity-ai",
+    "name": "Perplexity AI",
+    "website": "https://www.perplexity.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/3ea5defa13eec237374d9f7eceadc105.jpeg",
+    "description": "An AI search engine utilizing large language models and search engines.",
+    "rank": "6"
+  },
+  {
+    "slug": "claude-2",
+    "detail_url": "https://www.toolify.ai/tool/claude-2",
+    "name": "Anthropic",
+    "website": "https://claude.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168924963861681340.jpg",
+    "description": "The AI assistant named Claude, called Anthropic, offers various capabilities and services.",
+    "rank": "7"
+  },
+  {
+    "slug": "shop-app",
+    "detail_url": "https://www.toolify.ai/tool/shop-app",
+    "name": "Shop: Your AI-Powered Shopping Assistant",
+    "website": "https://shop.app",
+    "snapshot": "https://cdn-images.toolify.ai/170350442042132367.jpg",
+    "description": "AI-powered shopping assistant and mobile app for convenient and personalized online shopping.",
+    "rank": "8"
+  },
+  {
+    "slug": "site-com",
+    "detail_url": "https://www.toolify.ai/tool/site-com",
+    "name": "Salesforce Einstein 1 Platform for Application Development",
+    "website": "https://site.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349895010883436.jpg",
+    "description": "A platform for efficient and collaborative software application development.",
+    "rank": "9"
+  },
+  {
+    "slug": "remove-bg",
+    "detail_url": "https://www.toolify.ai/tool/remove-bg",
+    "name": "remove.bg",
+    "website": "https://www.remove.bg",
+    "snapshot": "https://cdn-images.toolify.ai/167932311937561733.png",
+    "description": "A free tool - remove.bg - can automatically remove image backgrounds with one click.",
+    "rank": "10"
+  },
+  {
+    "slug": "quillbot-paraphraser",
+    "detail_url": "https://www.toolify.ai/tool/quillbot-paraphraser",
+    "name": "Quillbot",
+    "website": "https://quillbot.com",
+    "snapshot": "https://cdn-images.toolify.ai/16915101786011945.png",
+    "description": "An online tool for rewriting text.",
+    "rank": "11"
+  },
+  {
+    "slug": "grammarly",
+    "detail_url": "https://www.toolify.ai/tool/grammarly",
+    "name": "Grammarly",
+    "website": "https://www.grammarly.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/d9bc4ea5f203c970f9640808562488ea.jpeg",
+    "description": "Grammarly - Enhance writing skills and communicate confidently with AI writing assistance.",
+    "rank": "12"
+  },
+  {
+    "slug": "shutterstock-com",
+    "detail_url": "https://www.toolify.ai/tool/shutterstock-com",
+    "name": "Shutterstock",
+    "website": "https://shutterstock.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350419957343320.jpg",
+    "description": "Stock images, photos, vectors, video, and music.",
+    "rank": "13"
+  },
+  {
+    "slug": "hubspot-com",
+    "detail_url": "https://www.toolify.ai/tool/hubspot-com",
+    "name": "HubSpot",
+    "website": "https://hubspot.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350408974843671.jpg",
+    "description": "Grow your business faster with HubSpot's customer platform.",
+    "rank": "14"
+  },
+  {
+    "slug": "spicychat-ai",
+    "detail_url": "https://www.toolify.ai/tool/spicychat-ai",
+    "name": "SpicyChat AI",
+    "website": "https://spicychat.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170373310470085106.jpg",
+    "description": "Create and interact with AI characters using SpicyChat AI.",
+    "rank": "15"
+  },
+  {
+    "slug": "capcut-com",
+    "detail_url": "https://www.toolify.ai/tool/capcut-com",
+    "name": "CapCut",
+    "website": "https://capcut.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350414718083204.jpg",
+    "description": "AI-powered video editor and graphic design tool for all platforms.",
+    "rank": "16"
+  },
+  {
+    "slug": "miro",
+    "detail_url": "https://www.toolify.ai/tool/miro",
+    "name": "Miro",
+    "website": "https://miro.com",
+    "snapshot": "https://cdn-images.toolify.ai/168248936914786180.jpg",
+    "description": "Summary: Miro helps distributed teams collaborate and co-create efficiently across different locations.",
+    "rank": "17"
+  },
+  {
+    "slug": "poe",
+    "detail_url": "https://www.toolify.ai/tool/poe",
+    "name": "Poe",
+    "website": "https://poe.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/b8f175eb703798c01cd2415e95353122.jpeg",
+    "description": "AI-powered platform for instant question answering and interactive conversations.",
+    "rank": "18"
+  },
+  {
+    "slug": "hugging-face",
+    "detail_url": "https://www.toolify.ai/tool/hugging-face",
+    "name": "Hugging Face",
+    "website": "https://huggingface.co",
+    "snapshot": "https://cdn-images.toolify.ai/170349952477517677.jpg",
+    "description": "AI community building the future",
+    "rank": "19"
+  }
+]
