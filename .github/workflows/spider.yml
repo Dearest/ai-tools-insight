@@ -7,7 +7,10 @@ on:
 jobs:
   spider:
     runs-on: ubuntu-latest
-
+    env:
+      PROVIDER_API_KEY: ${{ secrets.PROVIDER_API_KEY }}
+      PROVIDER_BASE_URL: ${{ vars.PROVIDER_BASE_URL }}
+      PROVIDER_MODEL_ID: ${{ vars.PROVIDER_MODEL_ID }}
     steps:
       - uses: actions/checkout@v4
         with:
