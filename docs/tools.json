@@ -484,5 +484,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350416412465752.jpg",
     "description": "Learn Data Science & AI online at your own pace.",
     "rank": "54"
+  },
+  {
+    "slug": "transkriptor-com",
+    "detail_url": "https://www.toolify.ai/tool/transkriptor-com",
+    "name": "Transkriptor",
+    "website": "https://transkriptor.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349852667488509.jpg",
+    "description": "Convert audio and video to text with Transkriptor's powerful AI.",
+    "rank": "55"
   }
 ]
