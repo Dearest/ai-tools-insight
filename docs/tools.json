@@ -169,5 +169,131 @@
     "snapshot": "https://cdn-images.toolify.ai/170349952477517677.jpg",
     "description": "AI community building the future",
     "rank": "19"
+  },
+  {
+    "slug": "crushon-ai",
+    "detail_url": "https://www.toolify.ai/tool/crushon-ai",
+    "name": "CrushOn.AI",
+    "website": "https://crushon.ai",
+    "snapshot": "https://cdn-images.toolify.ai/169790167776932300.png",
+    "description": "Unbounded conversations and authentic interactions.",
+    "rank": "20"
+  },
+  {
+    "slug": "civitai",
+    "detail_url": "https://www.toolify.ai/tool/civitai",
+    "name": "Civitai",
+    "website": "https://civitai.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/18c130531744ba885667b165e3f38bd5.jpeg",
+    "description": "A platform for Stable Diffusion AI Art models with a large collection and active community.",
+    "rank": "21"
+  },
+  {
+    "slug": "prolific-com",
+    "detail_url": "https://www.toolify.ai/tool/prolific-com",
+    "name": "Prolific",
+    "website": "https://prolific.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350444142871808.jpg",
+    "description": "Trustworthy research participants in minutes.",
+    "rank": "22"
+  },
+  {
+    "slug": "leonardo-ai",
+    "detail_url": "https://www.toolify.ai/tool/leonardo-ai",
+    "name": "Leonardo.ai",
+    "website": "https://leonardo.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/f4c20f8d9e088eb64f12224d8a60e427.jpeg",
+    "description": "AI-driven asset generation for creative projects.",
+    "rank": "23"
+  },
+  {
+    "slug": "elevenlabs-io",
+    "detail_url": "https://www.toolify.ai/tool/elevenlabs-io",
+    "name": "ElevenLabs",
+    "website": "https://elevenlabs.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349993442883512.jpg",
+    "description": "Generate high-quality AI voices in minutes.",
+    "rank": "24"
+  },
+  {
+    "slug": "liner-ai-1",
+    "detail_url": "https://www.toolify.ai/tool/liner-ai-1",
+    "name": "LINER",
+    "website": "https://getliner.com",
+    "snapshot": "https://cdn-images.toolify.ai/173163895829255560.png",
+    "description": "LINER is an AI workspace that helps users find and learn reliable information faster.",
+    "rank": "25"
+  },
+  {
+    "slug": "pixelcut-ai",
+    "detail_url": "https://www.toolify.ai/tool/pixelcut-ai",
+    "name": "Pixelcut",
+    "website": "https://pixelcut.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349928911474567.jpg",
+    "description": "A free online design tool for creating product photos and ads, with easy background removal and object erasing capabilities.",
+    "rank": "26"
+  },
+  {
+    "slug": "pixai-ai-art-generator",
+    "detail_url": "https://www.toolify.ai/tool/pixai-ai-art-generator",
+    "name": "PixAI - AI Art Generator",
+    "website": "https://pixai.art",
+    "snapshot": "https://cdn-images.toolify.ai/170373468047797453.jpg",
+    "description": "Create stunning anime art effortlessly.",
+    "rank": "27"
+  },
+  {
+    "slug": "beacons-ai-2-0",
+    "detail_url": "https://www.toolify.ai/tool/beacons-ai-2-0",
+    "name": "Beacons",
+    "website": "https://beacons.ai",
+    "snapshot": "https://cdn-images.toolify.ai/169909908399997900.jpg",
+    "description": "AI-powered all-in-one platform for content creators.",
+    "rank": "28"
+  },
+  {
+    "slug": "gptzero-me",
+    "detail_url": "https://www.toolify.ai/tool/gptzero-me",
+    "name": "GPTZero",
+    "website": "https://gptzero.me",
+    "snapshot": "https://cdn-images.toolify.ai/168354660803933464.jpg",
+    "description": "GPTZero detects AI models in text to bring transparency, distinguishing human written content.",
+    "rank": "29"
+  },
+  {
+    "slug": "deepai-org",
+    "detail_url": "https://www.toolify.ai/tool/deepai-org",
+    "name": "DeepAI",
+    "website": "https://deepai.org",
+    "snapshot": "https://cdn-images.toolify.ai/170349986838785319.jpg",
+    "description": "AI tools for creative people.",
+    "rank": "30"
+  },
+  {
+    "slug": "getimg-ai",
+    "detail_url": "https://www.toolify.ai/tool/getimg-ai",
+    "name": "getimg.ai",
+    "website": "https://getimg.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/ed86bf5efda0abb8151608e4ab061f98.jpeg",
+    "description": "A suite of magical AI tools for generating, modifying, and expanding images.",
+    "rank": "31"
+  },
+  {
+    "slug": "photoroom",
+    "detail_url": "https://www.toolify.ai/tool/photoroom",
+    "name": "PhotoRoom",
+    "website": "https://www.photoroom.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/03ea8b8ed9a1abb7d20394a691efbef5.jpeg",
+    "description": "Create professional product and portrait pictures with just your phone using PhotoRoom app.",
+    "rank": "32"
+  },
+  {
+    "slug": "openart",
+    "detail_url": "https://www.toolify.ai/tool/openart",
+    "name": "OpenArt",
+    "website": "https://openart.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/a698b1f563ae5d31cbea5bcdd966b4f1.jpeg",
+    "description": "OpenArt is an AI image generator that enhances creativity and productivity with various AI models and styles.",
+    "rank": "33"
   }
 ]

@@ -20,7 +20,7 @@ export default defineConfig({
           items: [
             { text: "概述", link: "/tool/" },
             ...tools.map((tool) => ({
-              text: tool.name,
+              text: `${tool.rank}. ${tool.name}`,
               link: `/tool/${tool.slug}`,
             })),
           ],
