@@ -313,5 +313,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168517594649377207.jpg",
     "description": "ZeroGPT is a powerful, accurate AI tool for detecting chatGPT content, OpenAI-generated text, and plagiarism.",
     "rank": "35"
+  },
+  {
+    "slug": "monica-ai",
+    "detail_url": "https://www.toolify.ai/tool/monica-ai",
+    "name": "Monica - Your ChatGPT AI Assistant Chrome Extension",
+    "website": "https://monica.im",
+    "snapshot": "https://cdn-images.toolify.ai/16832955972067848.jpg",
+    "description": "Your personal AI assistant for effortless chatting and copywriting.",
+    "rank": "36"
   }
 ]
