@@ -16,7 +16,7 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "spider:run": "bun run spider/src/index.ts"
+    "spider": "bun run spider/src/index.ts"
   },
   "dependencies": {
     "@ai-sdk/openai-compatible": "^0.2.13",

@@ -1,0 +1,25 @@
+name: Run Spider
+
+on:
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  spider:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Run spider
+        run: bun run spider
