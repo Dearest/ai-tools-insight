@@ -358,5 +358,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350416277838907.jpg",
     "description": "Free math homework help with accurate answers.",
     "rank": "40"
+  },
+  {
+    "slug": "coursehero-com",
+    "detail_url": "https://www.toolify.ai/tool/coursehero-com",
+    "name": "Course Hero",
+    "website": "https://coursehero.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350413878793168.jpg",
+    "description": "Study resources, notes, test prep, homework help, and expert tutors at your fingertips.",
+    "rank": "41"
   }
 ]
