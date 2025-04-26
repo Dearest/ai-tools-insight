@@ -475,5 +475,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168182973213460790.png",
     "description": "Control your own search engine.",
     "rank": "53"
+  },
+  {
+    "slug": "datacamp-com",
+    "detail_url": "https://www.toolify.ai/tool/datacamp-com",
+    "name": "DataCamp",
+    "website": "https://datacamp.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350416412465752.jpg",
+    "description": "Learn Data Science & AI online at your own pace.",
+    "rank": "54"
   }
 ]
