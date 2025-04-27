@@ -808,5 +808,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/f73dedddbc6dd8294fd0f4dbe07d465a.jpeg",
     "description": "Create stunning designs easily with Kittl's intuitive platform and powerful design tools.",
     "rank": "90"
+  },
+  {
+    "slug": "cursor-sh",
+    "detail_url": "https://www.toolify.ai/tool/cursor-sh",
+    "name": "Cursor",
+    "website": "https://cursor.sh",
+    "snapshot": "https://cdn-images.toolify.ai/170349984616123851.jpg",
+    "description": "The AI-first Code Editor for fast software development.",
+    "rank": "91"
   }
 ]
