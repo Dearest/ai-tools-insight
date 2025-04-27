@@ -727,5 +727,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168197409571939545.jpg",
     "description": "AI-powered service ChatPDF allows users to chat with any PDF, providing instant answers and better understanding.",
     "rank": "81"
+  },
+  {
+    "slug": "coda-io",
+    "detail_url": "https://www.toolify.ai/tool/coda-io",
+    "name": "Coda",
+    "website": "https://coda.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349979895813812.jpg",
+    "description": "All-in-one collaborative workspace.",
+    "rank": "82"
   }
 ]
