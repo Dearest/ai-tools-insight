@@ -95,3 +95,4 @@ https://capcut.com
 https://miro.com
 https://poe.com
 https://huggingface.co
+https://crushon.ai
