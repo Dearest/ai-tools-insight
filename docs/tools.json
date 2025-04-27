@@ -682,5 +682,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/b79113ce6ef94d1061177a3a1de97571.jpeg",
     "description": "YouTube growth tool with AI-powered prompts and analytics.",
     "rank": "76"
+  },
+  {
+    "slug": "naturalreaders",
+    "detail_url": "https://www.toolify.ai/tool/naturalreaders",
+    "name": "NaturalReader",
+    "website": "https://www.naturalreaders.com",
+    "snapshot": "https://cdn-images.toolify.ai/168329242839663830.jpg",
+    "description": "NaturalReader converts text into spoken audio for users to listen to their documents.",
+    "rank": "77"
   }
 ]
