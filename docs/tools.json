@@ -790,5 +790,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349906157906923.jpg",
     "description": "Restaurant technology platform optimizing operations and enhancing customer experience.",
     "rank": "88"
+  },
+  {
+    "slug": "moises",
+    "detail_url": "https://www.toolify.ai/tool/moises",
+    "name": "Moises App",
+    "website": "https://moises.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168267256479195940.jpg",
+    "description": "A music practice app that uses AI to enhance and personalize the practicing experience.",
+    "rank": "89"
   }
 ]
