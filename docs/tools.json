@@ -583,5 +583,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350412793215136.jpg",
     "description": "Intelligent skincare & hair products for anti-aging.",
     "rank": "65"
+  },
+  {
+    "slug": "flowgpt",
+    "detail_url": "https://www.toolify.ai/tool/flowgpt",
+    "name": "FlowGPT",
+    "website": "https://flowgpt.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/dc3bbeef933c83340c682cdc1baa0bfb.jpeg",
+    "description": "FlowGPT is a chat prompt gallery with diverse ChatGPT prompts for enhanced communication.",
+    "rank": "66"
   }
 ]
