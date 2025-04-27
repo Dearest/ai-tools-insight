@@ -547,5 +547,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/f8f011d6b0b9535534b242a7bd516232.jpeg",
     "description": "Voicemod: free voice changer for Windows and macOS, perfect for gaming and content creation.",
     "rank": "61"
+  },
+  {
+    "slug": "kapwing-com",
+    "detail_url": "https://www.toolify.ai/tool/kapwing-com",
+    "name": "Kapwing",
+    "website": "https://kapwing.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349961587617039.jpg",
+    "description": "Create, edit, and grow content with Kapwing's collaborative online platform.",
+    "rank": "62"
   }
 ]
