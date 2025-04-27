@@ -889,5 +889,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168329818158026666.jpg",
     "description": "Deep Dream Generator is an AI image generator that creates unique and artistic images by using deep learning algorithms.",
     "rank": "99"
+  },
+  {
+    "slug": "apeuni-com",
+    "detail_url": "https://www.toolify.ai/tool/apeuni-com",
+    "name": "PTE APEUni",
+    "website": "https://apeuni.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350456258143897.jpg",
+    "description": "Pearson Test of English (PTE) is a computer-based academic exam with online mock tests available. Join APEUni to practice PTE for FREE and use AI scorings to evaluate your performance.",
+    "rank": "100"
   }
 ]
