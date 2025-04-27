@@ -601,5 +601,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168545598150807201.jpg",
     "description": "AI Content Solutions transforms AI-generated content into high-quality writing, aligning it with your brand.",
     "rank": "67"
+  },
+  {
+    "slug": "speechify",
+    "detail_url": "https://www.toolify.ai/tool/speechify",
+    "name": "Speechify",
+    "website": "https://speechify.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/aec43977e760aa74753918bcce0b983a.jpeg",
+    "description": "Speechify is a popular text-to-speech app for Chrome, iOS, and Android.",
+    "rank": "68"
   }
 ]
