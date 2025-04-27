@@ -736,5 +736,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349979895813812.jpg",
     "description": "All-in-one collaborative workspace.",
     "rank": "82"
+  },
+  {
+    "slug": "knowt-com",
+    "detail_url": "https://www.toolify.ai/tool/knowt-com",
+    "name": "Knowt",
+    "website": "https://knowt.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349964844048657.jpg",
+    "description": "AI-powered study app with flashcards, study guides, and practice tests.",
+    "rank": "83"
   }
 ]
