@@ -835,5 +835,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/3ebd7a653ecae95571bcc74258b36f3e.jpeg",
     "description": "An all-in-one editing software for videos and podcasts with AI technology.",
     "rank": "93"
+  },
+  {
+    "slug": "the-new-riverside",
+    "detail_url": "https://www.toolify.ai/tool/the-new-riverside",
+    "name": "Riverside.fm",
+    "website": "https://riverside.fm",
+    "snapshot": "https://cdn-images.toolify.ai/168575969684676597.jpg",
+    "description": "Riverside.fm is a virtual studio enabling podcasters to create professional content remotely.",
+    "rank": "94"
   }
 ]
