@@ -853,5 +853,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168493973560655657.jpg",
     "description": "Dify empowers users to create sustainable applications effortlessly.",
     "rank": "95"
+  },
+  {
+    "slug": "tactiq",
+    "detail_url": "https://www.toolify.ai/tool/tactiq",
+    "name": "Tactiq",
+    "website": "https://tactiq.io",
+    "snapshot": "https://cdn-images.toolify.ai/168255955465847488.jpg",
+    "description": "Tactiq is a top transcription tool for online meetings, offering real-time transcription and meeting summaries.",
+    "rank": "96"
   }
 ]
