@@ -691,5 +691,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168329242839663830.jpg",
     "description": "NaturalReader converts text into spoken audio for users to listen to their documents.",
     "rank": "77"
+  },
+  {
+    "slug": "sourcenext-com",
+    "detail_url": "https://www.toolify.ai/tool/sourcenext-com",
+    "name": "ソースネクスト・サイト TOP",
+    "website": "https://www.sourcenext.com",
+    "snapshot": "https://cdn-images.toolify.ai/170375483964484077.jpg",
+    "description": "AI 通訳、音声録音、ウイルス対策、年賀状作成のソリューション。",
+    "rank": "78"
   }
 ]
