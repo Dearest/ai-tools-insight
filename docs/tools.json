@@ -745,5 +745,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349964844048657.jpg",
     "description": "AI-powered study app with flashcards, study guides, and practice tests.",
     "rank": "83"
+  },
+  {
+    "slug": "snapedit-all-in-one-ai-photo-editor",
+    "detail_url": "https://www.toolify.ai/tool/snapedit-all-in-one-ai-photo-editor",
+    "name": "SnapEdit.App",
+    "website": "https://snapedit.app",
+    "snapshot": "https://cdn-images.toolify.ai/168577931569751752.jpg",
+    "description": "SnapEdit.App is a free online photo editor that utilizes AI to remove objects/people and enhance photos.",
+    "rank": "84"
   }
 ]
