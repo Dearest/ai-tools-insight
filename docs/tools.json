@@ -646,5 +646,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349849235172263.jpg",
     "description": "Track and choose books based on your mood and preferences.",
     "rank": "72"
+  },
+  {
+    "slug": "mailchi-mp",
+    "detail_url": "https://www.toolify.ai/tool/mailchi-mp",
+    "name": "Mailchimp",
+    "website": "https://mailchi.mp",
+    "snapshot": "https://cdn-images.toolify.ai/170350382674426729.jpg",
+    "description": "Convert more customers with Mailchimp's marketing and automation platform.",
+    "rank": "73"
   }
 ]
