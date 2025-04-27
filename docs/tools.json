@@ -700,5 +700,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170375483964484077.jpg",
     "description": "AI 通訳、音声録音、ウイルス対策、年賀状作成のソリューション。",
     "rank": "78"
+  },
+  {
+    "slug": "easysbc-io",
+    "detail_url": "https://www.toolify.ai/tool/easysbc-io",
+    "name": "EasySBC",
+    "website": "https://easysbc.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349992538083601.jpg",
+    "description": "Solutions, AI, Ratings, and Database for FC 24 Squad Building Challenges.",
+    "rank": "79"
   }
 ]
