@@ -619,5 +619,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169150815901166099.jpg",
     "description": "Framer allows users to create, design, and publish professional websites without coding.",
     "rank": "69"
+  },
+  {
+    "slug": "gptgirlfriend",
+    "detail_url": "https://www.toolify.ai/tool/gptgirlfriend",
+    "name": "GirlfriendGPT - The AI Companion Chatroom",
+    "website": "https://gptgirlfriend.online",
+    "snapshot": "https://cdn-images.toolify.ai/170009903124175196.jpg",
+    "description": "An uncensored AI companion chatroom for SFW and NSFW conversations.",
+    "rank": "70"
   }
 ]
