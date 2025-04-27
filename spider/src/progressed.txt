@@ -80,3 +80,4 @@ https://chatgpt.com
 https://openai.com
 https://adobe.com
 https://www.notion.so
+https://force.com
