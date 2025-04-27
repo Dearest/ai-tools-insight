@@ -673,5 +673,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349863468184571.jpg",
     "description": "The ultimate team sports camera.",
     "rank": "75"
+  },
+  {
+    "slug": "vidiq",
+    "detail_url": "https://www.toolify.ai/tool/vidiq",
+    "name": "vidIQ",
+    "website": "https://vidiq.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/b79113ce6ef94d1061177a3a1de97571.jpeg",
+    "description": "YouTube growth tool with AI-powered prompts and analytics.",
+    "rank": "76"
   }
 ]
