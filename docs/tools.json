@@ -502,5 +502,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169003638369892070.jpg",
     "description": "MailerLite is a platform providing tools for businesses to grow their audience and drive revenue.",
     "rank": "56"
+  },
+  {
+    "slug": "clipto-com",
+    "detail_url": "https://www.toolify.ai/tool/clipto-com",
+    "name": "Clipto",
+    "website": "https://clipto.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349979733015309.jpg",
+    "description": "Advanced AI transcription service for audio, video, and YouTube files.",
+    "rank": "57"
   }
 ]
