@@ -83,3 +83,4 @@ https://www.notion.so
 https://force.com
 https://www.perplexity.ai
 https://claude.ai
+https://shop.app
