@@ -871,5 +871,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/ef101a504b87e90b2c043d9a58cc9f34.jpeg",
     "description": "Casetext develops AI legal assistant for legal professionals.",
     "rank": "97"
+  },
+  {
+    "slug": "fathom-2-0",
+    "detail_url": "https://www.toolify.ai/tool/fathom-2-0",
+    "name": "Fathom",
+    "website": "https://fathom.video",
+    "snapshot": "https://cdn-images.toolify.ai/168517592383990383.jpg",
+    "description": "Fathom is a free AI Meeting Assistant that helps users focus on video calls without taking notes.",
+    "rank": "98"
   }
 ]
