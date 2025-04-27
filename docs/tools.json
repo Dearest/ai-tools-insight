@@ -511,5 +511,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349979733015309.jpg",
     "description": "Advanced AI transcription service for audio, video, and YouTube files.",
     "rank": "57"
+  },
+  {
+    "slug": "sider",
+    "detail_url": "https://www.toolify.ai/tool/sider",
+    "name": "Sider",
+    "website": "https://sider.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170705528367492892.jpg",
+    "description": "Seamlessly integrate AI into your daily workflow.",
+    "rank": "58"
   }
 ]
