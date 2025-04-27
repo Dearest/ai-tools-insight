@@ -77,3 +77,4 @@ https://tactiq.io
 https://casetext.com
 https://fathom.video
 https://chatgpt.com
+https://openai.com
