@@ -520,5 +520,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170705528367492892.jpg",
     "description": "Seamlessly integrate AI into your daily workflow.",
     "rank": "58"
+  },
+  {
+    "slug": "hellosign",
+    "detail_url": "https://www.toolify.ai/tool/hellosign",
+    "name": "Dropbox Sign",
+    "website": "https://www.hellosign.com",
+    "snapshot": "https://cdn-images.toolify.ai/168241349582523109.jpg",
+    "description": "The easiest way to send and manage electronic signatures.",
+    "rank": "59"
   }
 ]
