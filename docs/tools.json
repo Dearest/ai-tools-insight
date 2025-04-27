@@ -628,5 +628,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170009903124175196.jpg",
     "description": "An uncensored AI companion chatroom for SFW and NSFW conversations.",
     "rank": "70"
+  },
+  {
+    "slug": "novelai",
+    "detail_url": "https://www.toolify.ai/tool/novelai",
+    "name": "NovelAI - The AI Storyteller",
+    "website": "https://novelai.net",
+    "snapshot": "https://cdn-images.toolify.ai/image/ceddea236e1766381aaaca3b6f26aefa.jpeg",
+    "description": "AI-powered subscription service for creating unique and engaging literature.",
+    "rank": "71"
   }
 ]
