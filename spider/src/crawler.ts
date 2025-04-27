@@ -25,7 +25,7 @@ export class Crawler {
     this.processedFilePath = PROGRESSED_FILE_PATH
     this.toolsFilePath = TOOL_RESOURCE_PATH
     this.toolsJsonPath = TOOLS_JSON_PATH
-    this.delay = Math.max(1000, 500) // 确保最小延迟
+    this.delay = Math.max(1000 * 10, 500) // 确保最小延迟
     this.ai = new AI()
   }
 
