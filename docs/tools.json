@@ -574,5 +574,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350407937806033.jpg",
     "description": "AI-powered image processing tool",
     "rank": "64"
+  },
+  {
+    "slug": "spoiledchild-com",
+    "detail_url": "https://www.toolify.ai/tool/spoiledchild-com",
+    "name": "SpoiledChild™",
+    "website": "https://spoiledchild.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350412793215136.jpg",
+    "description": "Intelligent skincare & hair products for anti-aging.",
+    "rank": "65"
   }
 ]
