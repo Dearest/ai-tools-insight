@@ -754,5 +754,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168577931569751752.jpg",
     "description": "SnapEdit.App is a free online photo editor that utilizes AI to remove objects/people and enhance photos.",
     "rank": "84"
+  },
+  {
+    "slug": "cognitoedu-org",
+    "detail_url": "https://www.toolify.ai/tool/cognitoedu-org",
+    "name": "Cognito",
+    "website": "https://cognitoedu.org",
+    "snapshot": "https://cdn-images.toolify.ai/170349980846576578.jpg",
+    "description": "Intelligent learning platform for GCSE Science and Maths.",
+    "rank": "85"
   }
 ]
