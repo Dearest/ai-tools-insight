@@ -880,5 +880,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168517592383990383.jpg",
     "description": "Fathom is a free AI Meeting Assistant that helps users focus on video calls without taking notes.",
     "rank": "98"
+  },
+  {
+    "slug": "deep-dream-generator",
+    "detail_url": "https://www.toolify.ai/tool/deep-dream-generator",
+    "name": "Deep Dream Generator",
+    "website": "https://deepdreamgenerator.com",
+    "snapshot": "https://cdn-images.toolify.ai/168329818158026666.jpg",
+    "description": "Deep Dream Generator is an AI image generator that creates unique and artistic images by using deep learning algorithms.",
+    "rank": "99"
   }
 ]
