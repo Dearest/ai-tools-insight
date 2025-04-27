@@ -85,3 +85,4 @@ https://www.perplexity.ai
 https://claude.ai
 https://shop.app
 https://site.com
+https://www.remove.bg
