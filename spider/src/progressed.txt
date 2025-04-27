@@ -78,3 +78,4 @@ https://casetext.com
 https://fathom.video
 https://chatgpt.com
 https://openai.com
+https://adobe.com
