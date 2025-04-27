@@ -898,5 +898,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350456258143897.jpg",
     "description": "Pearson Test of English (PTE) is a computer-based academic exam with online mock tests available. Join APEUni to practice PTE for FREE and use AI scorings to evaluate your performance.",
     "rank": "100"
+  },
+  {
+    "slug": "readtheory-org",
+    "detail_url": "https://www.toolify.ai/tool/readtheory-org",
+    "name": "ReadTheory",
+    "website": "https://readtheory.org",
+    "snapshot": "https://cdn-images.toolify.ai/170349879699033763.jpg",
+    "description": "Free reading comprehension practice for students and teachers.",
+    "rank": "101"
   }
 ]
