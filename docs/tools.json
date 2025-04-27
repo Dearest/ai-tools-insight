@@ -799,5 +799,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168267256479195940.jpg",
     "description": "A music practice app that uses AI to enhance and personalize the practicing experience.",
     "rank": "89"
+  },
+  {
+    "slug": "kittl",
+    "detail_url": "https://www.toolify.ai/tool/kittl",
+    "name": "Kittl - Unleash Your Creative Power",
+    "website": "https://www.kittl.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/f73dedddbc6dd8294fd0f4dbe07d465a.jpeg",
+    "description": "Create stunning designs easily with Kittl's intuitive platform and powerful design tools.",
+    "rank": "90"
   }
 ]
