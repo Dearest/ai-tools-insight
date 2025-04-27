@@ -781,5 +781,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168528462630388629.jpg",
     "description": "Protects AI-generated text from detection.",
     "rank": "87"
+  },
+  {
+    "slug": "tabsquare-com",
+    "detail_url": "https://www.toolify.ai/tool/tabsquare-com",
+    "name": "TabSquare",
+    "website": "https://tabsquare.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349906157906923.jpg",
+    "description": "Restaurant technology platform optimizing operations and enhancing customer experience.",
+    "rank": "88"
   }
 ]
