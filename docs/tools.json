@@ -610,5 +610,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/aec43977e760aa74753918bcce0b983a.jpeg",
     "description": "Speechify is a popular text-to-speech app for Chrome, iOS, and Android.",
     "rank": "68"
+  },
+  {
+    "slug": "framer-ai",
+    "detail_url": "https://www.toolify.ai/tool/framer-ai",
+    "name": "Framer",
+    "website": "https://www.framer.com",
+    "snapshot": "https://cdn-images.toolify.ai/169150815901166099.jpg",
+    "description": "Framer allows users to create, design, and publish professional websites without coding.",
+    "rank": "69"
   }
 ]
