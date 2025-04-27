@@ -4,8 +4,8 @@ import tools from "../tools.json"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/",
-  title: "AI Tools Insight",
-  description: "深入分析 AI 工具的商业洞察",
+  title: "AI 工具分析",
+  description: "分析最赚钱的 AI 工具，探索独立开发者的可行之路",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: {
@@ -32,7 +32,7 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/Dearest/ai-tools-insight" }],
 
     search: {
       provider: "local",
