@@ -763,5 +763,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349980846576578.jpg",
     "description": "Intelligent learning platform for GCSE Science and Maths.",
     "rank": "85"
+  },
+  {
+    "slug": "aiseo",
+    "detail_url": "https://www.toolify.ai/tool/aiseo",
+    "name": "AISEO - AI writing assistant, Copywriting & Paraphrasing Tool",
+    "website": "https://aiseo.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/a24d6ed61e07f2db10f95ad628e6772f.jpeg",
+    "description": "AISEO is a writing assistant that generates optimized content quickly and has an advanced paraphrasing tool.",
+    "rank": "86"
   }
 ]
