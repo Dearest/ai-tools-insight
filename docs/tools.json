@@ -637,5 +637,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/ceddea236e1766381aaaca3b6f26aefa.jpeg",
     "description": "AI-powered subscription service for creating unique and engaging literature.",
     "rank": "71"
+  },
+  {
+    "slug": "thestorygraph-com",
+    "detail_url": "https://www.toolify.ai/tool/thestorygraph-com",
+    "name": "The StoryGraph",
+    "website": "https://thestorygraph.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349849235172263.jpg",
+    "description": "Track and choose books based on your mood and preferences.",
+    "rank": "72"
   }
 ]
