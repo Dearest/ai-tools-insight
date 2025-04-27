@@ -538,5 +538,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350409443508358.jpg",
     "description": "Automation and human support for faster resolutions.",
     "rank": "60"
+  },
+  {
+    "slug": "voicemod",
+    "detail_url": "https://www.toolify.ai/tool/voicemod",
+    "name": "Voicemod",
+    "website": "https://www.voicemod.net",
+    "snapshot": "https://cdn-images.toolify.ai/image/f8f011d6b0b9535534b242a7bd516232.jpeg",
+    "description": "Voicemod: free voice changer for Windows and macOS, perfect for gaming and content creation.",
+    "rank": "61"
   }
 ]
