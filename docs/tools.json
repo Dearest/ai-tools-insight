@@ -664,5 +664,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168804540535257073.jpg",
     "description": "Create beautiful art with the power of AI.",
     "rank": "74"
+  },
+  {
+    "slug": "veo-co",
+    "detail_url": "https://www.toolify.ai/tool/veo-co",
+    "name": "Veo Sports Camera",
+    "website": "https://veo.co",
+    "snapshot": "https://cdn-images.toolify.ai/170349863468184571.jpg",
+    "description": "The ultimate team sports camera.",
+    "rank": "75"
   }
 ]
