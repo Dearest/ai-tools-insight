@@ -1555,5 +1555,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349865440724866.jpg",
     "description": "Increase leads, accelerate pipeline, and delight customers with Vidyard.",
     "rank": "173"
+  },
+  {
+    "slug": "sudowrite",
+    "detail_url": "https://www.toolify.ai/tool/sudowrite",
+    "name": "Sudowrite",
+    "website": "https://www.sudowrite.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/aa1a91fec72ddaf18e27a6b7062da37c.jpeg",
+    "description": "An AI writing tool, Sudowrite, speeds up novel and screenplay writing, earning praise.",
+    "rank": "174"
   }
 ]
