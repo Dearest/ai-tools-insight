@@ -2437,5 +2437,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/1c70f8395eb350953f7f2e4b6d4d8e4f.jpeg",
     "description": "Palette.fm is an AI colorize tool for adding color to black and white images without signing up.",
     "rank": "271"
+  },
+  {
+    "slug": "gupshup-io",
+    "detail_url": "https://www.toolify.ai/tool/gupshup-io",
+    "name": "Gupshup",
+    "website": "https://gupshup.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349946684178984.jpg",
+    "description": "Conversational messaging platform for better customer engagement.",
+    "rank": "272"
   }
 ]
