@@ -2239,5 +2239,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/9faa13ee4607738a92ccdbc336f606c8.jpeg",
     "description": "Mage is an advanced A.I. platform that generates unique images easily and quickly.",
     "rank": "249"
+  },
+  {
+    "slug": "plantnet-org",
+    "detail_url": "https://www.toolify.ai/tool/plantnet-org",
+    "name": "Pl@ntNet",
+    "website": "https://plantnet.org",
+    "snapshot": "https://cdn-images.toolify.ai/170350440917340062.jpg",
+    "description": "Identify plants and contribute to plant biodiversity research.",
+    "rank": "250"
   }
 ]
