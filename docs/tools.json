@@ -1996,5 +1996,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349966655857999.jpg",
     "description": "Virtual companionship through immersive conversations.",
     "rank": "222"
+  },
+  {
+    "slug": "winston-ai",
+    "detail_url": "https://www.toolify.ai/tool/winston-ai",
+    "name": "Winston AI",
+    "website": "https://gowinston.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168517220750714460.jpg",
+    "description": "AI content detector and plagiarism checker.",
+    "rank": "223"
   }
 ]
