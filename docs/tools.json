@@ -1618,5 +1618,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350398047037431.jpg",
     "description": "Create trust with an AI-powered digital identity solution.",
     "rank": "180"
+  },
+  {
+    "slug": "ai-image-enlarger",
+    "detail_url": "https://www.toolify.ai/tool/ai-image-enlarger",
+    "name": "AI Image Enlarger",
+    "website": "https://imglarger.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/fc18de587da0c9e8ae6ab82db987fc44.jpeg",
+    "description": "AI Image Enlarger is a free online tool that enhances small images without losing quality.",
+    "rank": "181"
   }
 ]
