@@ -2068,5 +2068,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168492105892141805.jpeg",
     "description": "Rask AI provides top-quality AI video dubbing and localization with 130+ languages.",
     "rank": "230"
+  },
+  {
+    "slug": "tome",
+    "detail_url": "https://www.toolify.ai/tool/tome",
+    "name": "Tome",
+    "website": "https://tome.app",
+    "snapshot": "https://cdn-images.toolify.ai/image/13fcb9356203bb2ebb8a9cd7d0076817.jpeg",
+    "description": "\"A new AI-powered medium for shaping and sharing ideas through content, images, and presentations.\"",
+    "rank": "231"
   }
 ]
