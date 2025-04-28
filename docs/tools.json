@@ -1411,5 +1411,14 @@
     "snapshot": "https://cdn-images.toolify.ai/171427498124315083.webp",
     "description": "Easy-Peasy.AI is an AI tool that helps users generate original content faster and improve writing skills.",
     "rank": "157"
+  },
+  {
+    "slug": "lightpdf-com",
+    "detail_url": "https://www.toolify.ai/tool/lightpdf-com",
+    "name": "LightPDF",
+    "website": "https://lightpdf.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350402313300954.jpg",
+    "description": "Free AI-powered PDF editor, converter, and reader",
+    "rank": "158"
   }
 ]
