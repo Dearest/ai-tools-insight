@@ -1492,5 +1492,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/3f2f053f1666eed1517da038b6a4b309.jpeg",
     "description": "Algolia is an AI-powered platform for fast and relevant search experiences.",
     "rank": "166"
+  },
+  {
+    "slug": "talkpal-ai",
+    "detail_url": "https://www.toolify.ai/tool/talkpal-ai",
+    "name": "TalkPal",
+    "website": "https://talkpal.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168346447262949794.jpg",
+    "description": "TalkPal is an AI language tutor that provides instant feedback for language practice.",
+    "rank": "167"
   }
 ]
