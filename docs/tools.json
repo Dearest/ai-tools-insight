@@ -1933,5 +1933,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350468679063347.jpg",
     "description": "All-in-one customer messaging software.",
     "rank": "215"
+  },
+  {
+    "slug": "prompthero",
+    "detail_url": "https://www.toolify.ai/tool/prompthero",
+    "name": "PromptHero",
+    "website": "https://prompthero.com",
+    "snapshot": "https://cdn-images.toolify.ai/167932172791595033.png",
+    "description": "PromptHero is a top AI website with prompts and job opportunities.",
+    "rank": "216"
   }
 ]
