@@ -1267,5 +1267,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/99bc3fcaf6b38c05319f4961173c4924.jpeg",
     "description": "Beautiful.ai is a powerful tool that helps teams create stunning presentations easily.",
     "rank": "141"
+  },
+  {
+    "slug": "lalal-ai",
+    "detail_url": "https://www.toolify.ai/tool/lalal-ai",
+    "name": "LALAL.AI",
+    "website": "https://www.lalal.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/07309593e7a06b30a0b8849713a4d232.jpeg",
+    "description": "Fast and easy AI-powered vocal remover to extract stems from audio and video files.",
+    "rank": "142"
   }
 ]
