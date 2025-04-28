@@ -2626,5 +2626,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168622432939638040.jpg",
     "description": "Kome is a browser extension that enhances online browsing with AI-powered tools.",
     "rank": "292"
+  },
+  {
+    "slug": "cartoonize-net",
+    "detail_url": "https://www.toolify.ai/tool/cartoonize-net",
+    "name": "Cartoon Yourself",
+    "website": "https://cartoonize.net",
+    "snapshot": "https://cdn-images.toolify.ai/170350467512643108.jpg",
+    "description": "Turn your photos into cartoons with ease.",
+    "rank": "293"
   }
 ]
