@@ -2509,5 +2509,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349972214654702.jpg",
     "description": "Leading AI-powered music platform for creators.",
     "rank": "279"
+  },
+  {
+    "slug": "tabnine",
+    "detail_url": "https://www.toolify.ai/tool/tabnine",
+    "name": "Tabnine",
+    "website": "https://www.tabnine.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/899cb154d484f5716d9866bd298da153.jpeg",
+    "description": "Tabnine is an AI assistant that improves code delivery and safety for better development productivity.",
+    "rank": "280"
   }
 ]
