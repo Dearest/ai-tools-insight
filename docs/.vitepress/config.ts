@@ -61,4 +61,5 @@ export default defineConfig({
   sitemap: {
     hostname: "https://doc.korx.org",
   },
+  lastUpdated: true,
 })
