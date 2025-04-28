@@ -916,5 +916,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350402684769713.jpg",
     "description": "AI note-taking app with realistic handwriting experience.",
     "rank": "102"
+  },
+  {
+    "slug": "instantly",
+    "detail_url": "https://www.toolify.ai/tool/instantly",
+    "name": "Instantly.ai",
+    "website": "https://instantly.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/441bc049e8fe526a26a93d9dc0dc75fc.jpeg",
+    "description": "A cold email software, Instantly.ai, helps users scale outreach campaigns with unlimited accounts and smart AI.",
+    "rank": "103"
   }
 ]
