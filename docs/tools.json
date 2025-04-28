@@ -2419,5 +2419,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168577015977952355.jpg",
     "description": "Convert text into realistic human-like voices with DupDub Voice Generator.",
     "rank": "269"
+  },
+  {
+    "slug": "roast-dating",
+    "detail_url": "https://www.toolify.ai/tool/roast-dating",
+    "name": "ROAST",
+    "website": "https://roast.dating",
+    "snapshot": "https://cdn-images.toolify.ai/image/07fdf29f01c1edc8fa8dc7777775c545.jpeg",
+    "description": "Optimize dating profiles with ROAST for better matches on popular dating apps.",
+    "rank": "270"
   }
 ]
