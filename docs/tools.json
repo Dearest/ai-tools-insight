@@ -1951,5 +1951,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349914074808788.jpg",
     "description": "Revolutionary AI chatbot powered by ChatGPT.",
     "rank": "217"
+  },
+  {
+    "slug": "hyperwrite-ai",
+    "detail_url": "https://www.toolify.ai/tool/hyperwrite-ai",
+    "name": "HyperWrite",
+    "website": "https://www.hyperwriteai.com",
+    "snapshot": "https://cdn-images.toolify.ai/16833574444652006.jpg",
+    "description": "Your personal AI writing assistant.",
+    "rank": "218"
   }
 ]
