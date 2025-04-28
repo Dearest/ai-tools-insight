@@ -2671,5 +2671,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169470101450987894.jpg",
     "description": "Unlock real-time stock insights with AI.",
     "rank": "297"
+  },
+  {
+    "slug": "grabjobs-co",
+    "detail_url": "https://www.toolify.ai/tool/grabjobs-co",
+    "name": "GrabJobs",
+    "website": "https://grabjobs.co",
+    "snapshot": "https://cdn-images.toolify.ai/170349944893052355.jpg",
+    "description": "Find the best jobs and grow your career.",
+    "rank": "298"
   }
 ]
