@@ -1483,5 +1483,14 @@
     "snapshot": "https://cdn-images.toolify.ai/16832932100749575.jpg",
     "description": "A platform that helps researchers understand research articles by analyzing citations.",
     "rank": "165"
+  },
+  {
+    "slug": "algolia",
+    "detail_url": "https://www.toolify.ai/tool/algolia",
+    "name": "Algolia",
+    "website": "https://www.algolia.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/3f2f053f1666eed1517da038b6a4b309.jpeg",
+    "description": "Algolia is an AI-powered platform for fast and relevant search experiences.",
+    "rank": "166"
   }
 ]
