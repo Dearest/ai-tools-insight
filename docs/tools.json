@@ -1393,5 +1393,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/c90ef424fecdfc63c368433e4aa27d41.jpeg",
     "description": "Murf AI offers lifelike voiceovers with 120 voices in 20 languages for professional use.",
     "rank": "155"
+  },
+  {
+    "slug": "phind",
+    "detail_url": "https://www.toolify.ai/tool/phind",
+    "name": "Query Search",
+    "website": "https://phind.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/f4b48764abf0924103d83c5afe8ad579.jpeg",
+    "description": "Find development solutions using natural language.",
+    "rank": "156"
   }
 ]
