@@ -166,3 +166,4 @@ https://scite.ai
 https://www.algolia.com
 https://talkpal.ai
 https://stability.ai
+https://resumebuilder.com

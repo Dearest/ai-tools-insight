@@ -1510,5 +1510,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/a153b1aa57ace58e7711c83c97a6e7bd.jpeg",
     "description": "Stability AI activates human potential by building an AI foundation for and by the people.",
     "rank": "168"
+  },
+  {
+    "slug": "resumebuilder-com",
+    "detail_url": "https://www.toolify.ai/tool/resumebuilder-com",
+    "name": "ResumeBuilder.com",
+    "website": "https://resumebuilder.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349882931965065.jpg",
+    "description": "Free online resume builder with customizable templates and AI-powered suggestions.",
+    "rank": "169"
   }
 ]
