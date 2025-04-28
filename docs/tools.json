@@ -1978,5 +1978,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170145454299800304.jpg",
     "description": "A knowledge management tool for technical teams.",
     "rank": "220"
+  },
+  {
+    "slug": "sintra-ai",
+    "detail_url": "https://www.toolify.ai/tool/sintra-ai",
+    "name": "Sintra AI",
+    "website": "https://sintra.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349894788555092.jpg",
+    "description": "Unlock AI's potential to streamline work and automate tasks.",
+    "rank": "221"
   }
 ]
