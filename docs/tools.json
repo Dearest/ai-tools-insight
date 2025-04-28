@@ -2410,5 +2410,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/f286663ba2ccc3d70dbe59b7b6727fd9.jpeg",
     "description": "Uberduck is an AI music production platform with realistic voices and custom options.",
     "rank": "268"
+  },
+  {
+    "slug": "dupdub",
+    "detail_url": "https://www.toolify.ai/tool/dupdub",
+    "name": "DupDub Voice Generator",
+    "website": "https://www.dupdub.com",
+    "snapshot": "https://cdn-images.toolify.ai/168577015977952355.jpg",
+    "description": "Convert text into realistic human-like voices with DupDub Voice Generator.",
+    "rank": "269"
   }
 ]
