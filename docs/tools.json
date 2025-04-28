@@ -1771,5 +1771,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349909099709172.jpg",
     "description": "AI powered companion RPG for virtual interactions.",
     "rank": "197"
+  },
+  {
+    "slug": "fakeyou",
+    "detail_url": "https://www.toolify.ai/tool/fakeyou",
+    "name": "FakeYou - Deep Fake Text to Speech",
+    "website": "https://fakeyou.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/1fbc831ddaa20f2f8f6d1b2febbde10c.jpeg",
+    "description": "Generate realistic and natural speech with FakeYou using deep fake technology.",
+    "rank": "198"
   }
 ]
