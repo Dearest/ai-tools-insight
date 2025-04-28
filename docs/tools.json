@@ -2392,5 +2392,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170126081078690789.jpg",
     "description": "AI upscaler & enhancer with hallucinating details.",
     "rank": "266"
+  },
+  {
+    "slug": "resemble",
+    "detail_url": "https://www.toolify.ai/tool/resemble",
+    "name": "Resemble AI Voice Generator with Text-to-Speech and Speech-to-Speech",
+    "website": "https://www.resemble.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/e608598117ff1813165d855e27eda0de.jpeg",
+    "description": "Generate synthetic voices that resemble real humans in seconds.",
+    "rank": "267"
   }
 ]
