@@ -1240,5 +1240,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349861175386108.jpg",
     "description": "AI-powered app to boost productivity.",
     "rank": "138"
+  },
+  {
+    "slug": "docsbot-ai",
+    "detail_url": "https://www.toolify.ai/tool/docsbot-ai",
+    "name": "DocsBot AI",
+    "website": "https://docsbot.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168580619358482043.jpg",
+    "description": "Create custom chatbots, generate content from documentation, improve support experiences with AI-powered chatbots.",
+    "rank": "139"
   }
 ]
