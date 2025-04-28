@@ -1690,5 +1690,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168741808664078101.png",
     "description": "Gencraft is an AI platform for generating unique art using advanced algorithms and models.",
     "rank": "188"
+  },
+  {
+    "slug": "glideapps-com",
+    "detail_url": "https://www.toolify.ai/tool/glideapps-com",
+    "name": "Glide",
+    "website": "https://glideapps.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349943926458549.jpg",
+    "description": "AI-powered custom apps without code.",
+    "rank": "189"
   }
 ]
