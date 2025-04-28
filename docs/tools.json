@@ -1366,5 +1366,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350453572139180.jpg",
     "description": "AI-powered concept maps from any text.",
     "rank": "152"
+  },
+  {
+    "slug": "roboflow",
+    "detail_url": "https://www.toolify.ai/tool/roboflow",
+    "name": "Roboflow",
+    "website": "https://roboflow.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/d3b70e1ca9214ee6ed247bd320367a6c.jpeg",
+    "description": "Give your software the power to see objects in images and video.",
+    "rank": "153"
   }
 ]
