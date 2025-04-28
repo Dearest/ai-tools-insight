@@ -2446,5 +2446,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349946684178984.jpg",
     "description": "Conversational messaging platform for better customer engagement.",
     "rank": "272"
+  },
+  {
+    "slug": "mymind",
+    "detail_url": "https://www.toolify.ai/tool/mymind",
+    "name": "mymind",
+    "website": "https://mymind.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/1e364d3024115f598354ba7afdce9d6b.jpeg",
+    "description": "Save and organize your precious notes, images, quotes, and highlights with mymind's secure AI-powered platform.",
+    "rank": "273"
   }
 ]
