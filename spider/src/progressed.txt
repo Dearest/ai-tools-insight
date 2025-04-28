@@ -137,3 +137,4 @@ https://www.wordtune.com
 https://heroz.jp
 https://usemotion.com
 https://docsbot.ai
+https://coddy.tech
