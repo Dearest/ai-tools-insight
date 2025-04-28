@@ -1114,5 +1114,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350443688178485.jpg",
     "description": "Unleash Creativity with AI",
     "rank": "124"
+  },
+  {
+    "slug": "imagine-ai-art-generator",
+    "detail_url": "https://www.toolify.ai/tool/imagine-ai-art-generator",
+    "name": "Imagine AI Art Generator",
+    "website": "https://www.imagine.art",
+    "snapshot": "https://cdn-images.toolify.ai/169849084153438668.jpg",
+    "description": "AI-generated art from text prompts.",
+    "rank": "125"
   }
 ]
