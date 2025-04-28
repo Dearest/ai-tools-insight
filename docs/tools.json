@@ -2518,5 +2518,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/899cb154d484f5716d9866bd298da153.jpeg",
     "description": "Tabnine is an AI assistant that improves code delivery and safety for better development productivity.",
     "rank": "280"
+  },
+  {
+    "slug": "sendshort-ai",
+    "detail_url": "https://www.toolify.ai/tool/sendshort-ai",
+    "name": "SendShort",
+    "website": "https://sendshort.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349890114747987.jpg",
+    "description": "Create viral shorts with AI-powered video editing.",
+    "rank": "281"
   }
 ]
