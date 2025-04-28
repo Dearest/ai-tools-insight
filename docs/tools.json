@@ -2464,5 +2464,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350466578416396.jpg",
     "description": "Your AI assistant for job search tools.",
     "rank": "274"
+  },
+  {
+    "slug": "aragon-ai",
+    "detail_url": "https://www.toolify.ai/tool/aragon-ai",
+    "name": "Aragon",
+    "website": "https://www.aragon.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/8fe811613f4f3431a7f83d92efb9eff6.jpeg",
+    "description": "Aragon uses AI to turn selfies into professional headshots.",
+    "rank": "275"
   }
 ]
