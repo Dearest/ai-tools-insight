@@ -1699,5 +1699,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349943926458549.jpg",
     "description": "AI-powered custom apps without code.",
     "rank": "189"
+  },
+  {
+    "slug": "bigjpg-com",
+    "detail_url": "https://www.toolify.ai/tool/bigjpg-com",
+    "name": "Bigjpg",
+    "website": "https://bigjpg.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350419489650915.jpg",
+    "description": "AI Super-Resolution image enlarging tool using Deep Convolutional Neural Networks.",
+    "rank": "190"
   }
 ]
