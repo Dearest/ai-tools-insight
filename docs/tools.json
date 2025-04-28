@@ -1141,5 +1141,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350420948903518.jpg",
     "description": "AI Training Data and Data Management Services",
     "rank": "127"
+  },
+  {
+    "slug": "percipio-com",
+    "detail_url": "https://www.toolify.ai/tool/percipio-com",
+    "name": "Skillsoft Percipio",
+    "website": "https://percipio.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349923476434225.jpg",
+    "description": "Close skill gaps and drive workforce transformation with Skillsoft's AI-driven learning platform.",
+    "rank": "128"
   }
 ]
