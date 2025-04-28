@@ -1654,5 +1654,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/fd0785283dab624364b6ca33f01837b3.jpeg",
     "description": "Mindgrasp AI creates accurate notes and quizzes from different content types to aid learning and productivity.",
     "rank": "184"
+  },
+  {
+    "slug": "clay-2-0",
+    "detail_url": "https://www.toolify.ai/tool/clay-2-0",
+    "name": "Clay",
+    "website": "https://www.clay.com",
+    "snapshot": "https://cdn-images.toolify.ai/169220589748163268.jpg",
+    "description": "Clay automates lead generation with targeted data from over 50 sources.",
+    "rank": "185"
   }
 ]
