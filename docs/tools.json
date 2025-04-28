@@ -2617,5 +2617,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350441952549479.jpg",
     "description": "AI-powered career-services platform for success.",
     "rank": "291"
+  },
+  {
+    "slug": "kome-ai",
+    "detail_url": "https://www.toolify.ai/tool/kome-ai",
+    "name": "Kome: AI Summary and Bookmark Extension",
+    "website": "https://kome.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168622432939638040.jpg",
+    "description": "Kome is a browser extension that enhances online browsing with AI-powered tools.",
+    "rank": "292"
   }
 ]
