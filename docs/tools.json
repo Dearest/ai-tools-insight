@@ -925,5 +925,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/441bc049e8fe526a26a93d9dc0dc75fc.jpeg",
     "description": "A cold email software, Instantly.ai, helps users scale outreach campaigns with unlimited accounts and smart AI.",
     "rank": "103"
+  },
+  {
+    "slug": "synthesia",
+    "detail_url": "https://www.toolify.ai/tool/synthesia",
+    "name": "Synthesia",
+    "website": "https://www.synthesia.io",
+    "snapshot": "https://cdn-images.toolify.ai/image/fc04691749322e25e5372570bb58193d.jpeg",
+    "description": "Create professional videos using AI avatars and voiceovers in multiple languages without equipment or actors.",
+    "rank": "104"
   }
 ]
