@@ -1870,5 +1870,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/381f984320746c7aba5e9c1a848c9b12.jpeg",
     "description": "Lexica is a fast and accurate search engine powered by Stable Diffusion technology.",
     "rank": "208"
+  },
+  {
+    "slug": "photofeeler",
+    "detail_url": "https://www.toolify.ai/tool/photofeeler",
+    "name": "Photofeeler",
+    "website": "https://www.photofeeler.com",
+    "snapshot": "https://cdn-images.toolify.ai/168329402514584274.jpg",
+    "description": "Get unbiased feedback on your profile photos and understand the impression they create.",
+    "rank": "209"
   }
 ]
