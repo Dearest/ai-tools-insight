@@ -1285,5 +1285,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350446783944116.jpg",
     "description": "AI-powered online media tools for video, audio, and photos.",
     "rank": "143"
+  },
+  {
+    "slug": "tldv-io",
+    "detail_url": "https://www.toolify.ai/tool/tldv-io",
+    "name": "tl;dv",
+    "website": "https://tldv.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349850479949202.jpg",
+    "description": "An AI-powered meeting recorder for Zoom and Google Meet.",
+    "rank": "144"
   }
 ]
