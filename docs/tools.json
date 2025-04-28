@@ -1861,5 +1861,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168354752187774407.jpg",
     "description": "Summary: AIPRM is a prompt management tool and community-driven prompt library for generative AI.",
     "rank": "207"
+  },
+  {
+    "slug": "lexica",
+    "detail_url": "https://www.toolify.ai/tool/lexica",
+    "name": "Lexica",
+    "website": "https://lexica.art",
+    "snapshot": "https://cdn-images.toolify.ai/image/381f984320746c7aba5e9c1a848c9b12.jpeg",
+    "description": "Lexica is a fast and accurate search engine powered by Stable Diffusion technology.",
+    "rank": "208"
   }
 ]
