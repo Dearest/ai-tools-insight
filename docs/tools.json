@@ -1474,5 +1474,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349993680623764.jpg",
     "description": "Improve your English pronunciation with ELSA's AI-powered app.",
     "rank": "164"
+  },
+  {
+    "slug": "scite",
+    "detail_url": "https://www.toolify.ai/tool/scite",
+    "name": "scite",
+    "website": "https://scite.ai",
+    "snapshot": "https://cdn-images.toolify.ai/16832932100749575.jpg",
+    "description": "A platform that helps researchers understand research articles by analyzing citations.",
+    "rank": "165"
   }
 ]
