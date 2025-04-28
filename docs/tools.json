@@ -1438,5 +1438,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/aab189210efede00c57199bf40173d1e.jpeg",
     "description": "A user-friendly, all-in-one app for marketing teams that simplifies workflows and boosts creativity.",
     "rank": "160"
+  },
+  {
+    "slug": "writesonic",
+    "detail_url": "https://www.toolify.ai/tool/writesonic",
+    "name": "Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool",
+    "website": "https://writesonic.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/b5cda55d41fcb8f615d5ea8d443f635d.jpeg",
+    "description": "\"Writesonic is a free AI writer for creating SEO-friendly content quickly and easily.\"",
+    "rank": "161"
   }
 ]
