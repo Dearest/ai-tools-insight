@@ -1006,5 +1006,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168249346572711674.png",
     "description": "\"Fillout is a customizable tool for creating forms and collecting responses.\"",
     "rank": "112"
+  },
+  {
+    "slug": "mymap-ai",
+    "detail_url": "https://www.toolify.ai/tool/mymap-ai",
+    "name": "MyMap.AI",
+    "website": "https://mymap.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170367152352414460.jpg",
+    "description": "Convert text ideas into visuals easily.",
+    "rank": "113"
   }
 ]
