@@ -907,5 +907,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349879699033763.jpg",
     "description": "Free reading comprehension practice for students and teachers.",
     "rank": "101"
+  },
+  {
+    "slug": "goodnotes",
+    "detail_url": "https://www.toolify.ai/tool/goodnotes",
+    "name": "Goodnotes",
+    "website": "https://goodnotes.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350402684769713.jpg",
+    "description": "AI note-taking app with realistic handwriting experience.",
+    "rank": "102"
   }
 ]
