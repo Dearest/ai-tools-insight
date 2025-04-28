@@ -2536,5 +2536,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349862633060944.jpg",
     "description": "Automate compliance and streamline security with Vanta.",
     "rank": "282"
+  },
+  {
+    "slug": "nijijourney",
+    "detail_url": "https://www.toolify.ai/tool/nijijourney",
+    "name": "NijiJourney",
+    "website": "https://nijijourney.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/f02521f2fa45fa545ba4ad45297ae4f9.jpeg",
+    "description": "AI-powered tool for anime-style artwork.",
+    "rank": "283"
   }
 ]
