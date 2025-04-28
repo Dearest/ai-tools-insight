@@ -1537,5 +1537,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/2034653968231ed0f17f2b1f88cf49dd.jpeg",
     "description": "Clipdrop is a powerful AI-powered tool for effortless visual creation.",
     "rank": "171"
+  },
+  {
+    "slug": "submagic",
+    "detail_url": "https://www.toolify.ai/tool/submagic",
+    "name": "Submagic",
+    "website": "https://submagic.co",
+    "snapshot": "https://cdn-images.toolify.ai/168837651095791380.jpg",
+    "description": "Generate amazing captions with emojis for short-form content",
+    "rank": "172"
   }
 ]
