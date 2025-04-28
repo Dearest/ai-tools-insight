@@ -1384,5 +1384,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350421414591676.jpg",
     "description": "Premium multimedia software for burning, editing, and more.",
     "rank": "154"
+  },
+  {
+    "slug": "murf-ai",
+    "detail_url": "https://www.toolify.ai/tool/murf-ai",
+    "name": "Murf AI",
+    "website": "https://murf.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/c90ef424fecdfc63c368433e4aa27d41.jpeg",
+    "description": "Murf AI offers lifelike voiceovers with 120 voices in 20 languages for professional use.",
+    "rank": "155"
   }
 ]

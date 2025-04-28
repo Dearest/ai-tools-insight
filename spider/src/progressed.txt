@@ -152,3 +152,4 @@ https://jasper.ai
 https://algoreducation.com
 https://roboflow.com
 https://nero.com
+https://murf.ai
