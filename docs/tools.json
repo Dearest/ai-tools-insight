@@ -1150,5 +1150,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349923476434225.jpg",
     "description": "Close skill gaps and drive workforce transformation with Skillsoft's AI-driven learning platform.",
     "rank": "128"
+  },
+  {
+    "slug": "live3d-io",
+    "detail_url": "https://www.toolify.ai/tool/live3d-io",
+    "name": "Live3D",
+    "website": "https://live3d.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349971228668631.jpg",
+    "description": "The best VTuber Software Suite for creating fun avatars and engaging animations.",
+    "rank": "129"
   }
 ]
