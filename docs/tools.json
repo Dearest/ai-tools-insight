@@ -1645,5 +1645,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/1af4c7045a363eaf4a7928924378edd6.jpeg",
     "description": "Kaiber is a website for AI-based video creation.",
     "rank": "183"
+  },
+  {
+    "slug": "mindgrasp",
+    "detail_url": "https://www.toolify.ai/tool/mindgrasp",
+    "name": "Mindgrasp AI",
+    "website": "https://mindgrasp.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/fd0785283dab624364b6ca33f01837b3.jpeg",
+    "description": "Mindgrasp AI creates accurate notes and quizzes from different content types to aid learning and productivity.",
+    "rank": "184"
   }
 ]
