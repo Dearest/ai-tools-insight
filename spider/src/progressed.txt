@@ -235,3 +235,4 @@ https://www.softr.io
 https://www.evoto.ai
 https://flair.ai
 https://slidespeak.co
+https://www.raycast.com

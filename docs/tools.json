@@ -2131,5 +2131,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169134154888699785.jpg",
     "description": "SlideSpeak is a chat platform that allows users to interact with PowerPoint slides.",
     "rank": "237"
+  },
+  {
+    "slug": "raycast",
+    "detail_url": "https://www.toolify.ai/tool/raycast",
+    "name": "Raycast",
+    "website": "https://www.raycast.com",
+    "snapshot": "https://cdn-images.toolify.ai/168241489891035076.jpg",
+    "description": "A fast, customizable launcher that helps you stay focused by controlling your tools efficiently.",
+    "rank": "238"
   }
 ]
