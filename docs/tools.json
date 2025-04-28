@@ -2194,5 +2194,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/890b3a6ab41e4c33b2386dcd91784bc3.jpeg",
     "description": "Lumen5 is an AI-powered platform that allows anyone to create engaging videos quickly.",
     "rank": "244"
+  },
+  {
+    "slug": "speechgen-io",
+    "detail_url": "https://www.toolify.ai/tool/speechgen-io",
+    "name": "SpeechGen.io",
+    "website": "https://speechgen.io",
+    "snapshot": "https://cdn-images.toolify.ai/168477318094240074.jpg",
+    "description": "Generate high-quality voiceovers with SpeechGen.io's realistic Text-to-Speech AI technology.",
+    "rank": "245"
   }
 ]
