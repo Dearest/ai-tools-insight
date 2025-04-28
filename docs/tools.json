@@ -2527,5 +2527,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349890114747987.jpg",
     "description": "Create viral shorts with AI-powered video editing.",
     "rank": "281"
+  },
+  {
+    "slug": "vanta-com",
+    "detail_url": "https://www.toolify.ai/tool/vanta-com",
+    "name": "Vanta",
+    "website": "https://vanta.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349862633060944.jpg",
+    "description": "Automate compliance and streamline security with Vanta.",
+    "rank": "282"
   }
 ]
