@@ -952,5 +952,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169054819035381052.jpg",
     "description": "HIX.AI offers powerful AI writing tools for high-quality content generation.",
     "rank": "106"
+  },
+  {
+    "slug": "intercom-help",
+    "detail_url": "https://www.toolify.ai/tool/intercom-help",
+    "name": "Intercom",
+    "website": "https://intercom.help",
+    "snapshot": "https://cdn-images.toolify.ai/170349956791190998.jpg",
+    "description": "Deliver faster answers for customers and reduce support team's workload.",
+    "rank": "107"
   }
 ]
