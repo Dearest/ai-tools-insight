@@ -2230,5 +2230,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168741689470078188.png",
     "description": "Musicfy: Create AI voice clone, make music effortlessly.",
     "rank": "248"
+  },
+  {
+    "slug": "mage",
+    "detail_url": "https://www.toolify.ai/tool/mage",
+    "name": "Mage",
+    "website": "https://www.mage.space",
+    "snapshot": "https://cdn-images.toolify.ai/image/9faa13ee4607738a92ccdbc336f606c8.jpeg",
+    "description": "Mage is an advanced A.I. platform that generates unique images easily and quickly.",
+    "rank": "249"
   }
 ]
