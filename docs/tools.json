@@ -1321,5 +1321,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350460078883203.jpg",
     "description": "Protect your kids with Bark's Parental Controls.",
     "rank": "147"
+  },
+  {
+    "slug": "popai-pro",
+    "detail_url": "https://www.toolify.ai/tool/popai-pro",
+    "name": "PopAi",
+    "website": "https://popai.pro",
+    "snapshot": "https://cdn-images.toolify.ai/170349933930880859.jpg",
+    "description": "Boost productivity with PopAi's powerful AI tool!",
+    "rank": "148"
   }
 ]
