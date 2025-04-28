@@ -1069,5 +1069,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168741774714266333.jpg",
     "description": "Largest Japanese AI helps write engaging stories in Japanese.",
     "rank": "119"
+  },
+  {
+    "slug": "studyfetch-com",
+    "detail_url": "https://www.toolify.ai/tool/studyfetch-com",
+    "name": "Study Fetch",
+    "website": "https://studyfetch.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349902595541156.jpg",
+    "description": "Revolutionize your learning with AI.",
+    "rank": "120"
   }
 ]
