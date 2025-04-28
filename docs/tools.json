@@ -1852,5 +1852,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168491633957542175.jpg",
     "description": "PPSPY helps Shopify dropshipping stores find winning products and track competitor sales.",
     "rank": "206"
+  },
+  {
+    "slug": "aiprm",
+    "detail_url": "https://www.toolify.ai/tool/aiprm",
+    "name": "AIPRM",
+    "website": "https://www.aiprm.com",
+    "snapshot": "https://cdn-images.toolify.ai/168354752187774407.jpg",
+    "description": "Summary: AIPRM is a prompt management tool and community-driven prompt library for generative AI.",
+    "rank": "207"
   }
 ]
