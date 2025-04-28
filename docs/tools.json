@@ -1159,5 +1159,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349971228668631.jpg",
     "description": "The best VTuber Software Suite for creating fun avatars and engaging animations.",
     "rank": "129"
+  },
+  {
+    "slug": "kindroid-ai",
+    "detail_url": "https://www.toolify.ai/tool/kindroid-ai",
+    "name": "Kindroid",
+    "website": "https://kindroid.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349962465134309.jpg",
+    "description": "Build your custom AI character & companion for AI chat, selfies, and voices.",
+    "rank": "130"
   }
 ]
