@@ -1591,5 +1591,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/d0aeb84eae283793ff5a40225ab1e8ab.jpeg",
     "description": "Reclaim AI automates planning and scheduling tasks, optimizing productivity with Google Calendar.",
     "rank": "177"
+  },
+  {
+    "slug": "10web",
+    "detail_url": "https://www.toolify.ai/tool/10web",
+    "name": "10Web",
+    "website": "https://10web.io",
+    "snapshot": "https://cdn-images.toolify.ai/image/f9fc1fbb5b9b94e9080f41c779b39aec.jpeg",
+    "description": "10Web is an AI-powered website management platform with tools for hosting, building, optimizing, and securing websites.",
+    "rank": "178"
   }
 ]
