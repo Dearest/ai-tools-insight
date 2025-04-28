@@ -1429,5 +1429,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350409062368202.jpg",
     "description": "Business Messaging Platform for Startups & SMBs",
     "rank": "159"
+  },
+  {
+    "slug": "simplified",
+    "detail_url": "https://www.toolify.ai/tool/simplified",
+    "name": "Simplified",
+    "website": "https://simplified.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/aab189210efede00c57199bf40173d1e.jpeg",
+    "description": "A user-friendly, all-in-one app for marketing teams that simplifies workflows and boosts creativity.",
+    "rank": "160"
   }
 ]
