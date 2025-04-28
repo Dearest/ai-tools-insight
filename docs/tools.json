@@ -1915,5 +1915,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350456824679175.jpg",
     "description": "AI-powered chatbot assistant for instant answers and writing assistance.",
     "rank": "213"
+  },
+  {
+    "slug": "lingvanex",
+    "detail_url": "https://www.toolify.ai/tool/lingvanex",
+    "name": "Lingvanex",
+    "website": "http://www.lingvanex.com",
+    "snapshot": "https://cdn-images.toolify.ai/168258258273526876.jpg",
+    "description": "Lingvanex offers a range of translation tools, enhancing productivity with neural machine translation.",
+    "rank": "214"
   }
 ]
