@@ -2167,5 +2167,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168637739286021583.jpg",
     "description": "LOVO AI Voice Generator is a versatile text-to-speech software with realistic voices in multiple languages.",
     "rank": "241"
+  },
+  {
+    "slug": "taplio",
+    "detail_url": "https://www.toolify.ai/tool/taplio",
+    "name": "Taplio",
+    "website": "https://taplio.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/f0221cfa6aa50eefcc5d112de611bc73.jpeg",
+    "description": "Taplio is an AI-powered LinkedIn tool to improve personal branding, content creation, and engagement.",
+    "rank": "242"
   }
 ]
