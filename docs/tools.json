@@ -2401,5 +2401,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/e608598117ff1813165d855e27eda0de.jpeg",
     "description": "Generate synthetic voices that resemble real humans in seconds.",
     "rank": "267"
+  },
+  {
+    "slug": "uberduck",
+    "detail_url": "https://www.toolify.ai/tool/uberduck",
+    "name": "Uberduck",
+    "website": "https://uberduck.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/f286663ba2ccc3d70dbe59b7b6727fd9.jpeg",
+    "description": "Uberduck is an AI music production platform with realistic voices and custom options.",
+    "rank": "268"
   }
 ]
