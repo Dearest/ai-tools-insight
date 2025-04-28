@@ -1600,5 +1600,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/f9fc1fbb5b9b94e9080f41c779b39aec.jpeg",
     "description": "10Web is an AI-powered website management platform with tools for hosting, building, optimizing, and securing websites.",
     "rank": "178"
+  },
+  {
+    "slug": "uizard",
+    "detail_url": "https://www.toolify.ai/tool/uizard",
+    "name": "Uizard",
+    "website": "https://uizard.io",
+    "snapshot": "https://cdn-images.toolify.ai/image/f786c34832771137b6acc92a3d2b0352.jpeg",
+    "description": "Design apps and websites quickly with Uizard, the first AI-powered design tool!",
+    "rank": "179"
   }
 ]
