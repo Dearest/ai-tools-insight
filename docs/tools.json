@@ -1447,5 +1447,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/b5cda55d41fcb8f615d5ea8d443f635d.jpeg",
     "description": "\"Writesonic is a free AI writer for creating SEO-friendly content quickly and easily.\"",
     "rank": "161"
+  },
+  {
+    "slug": "d-id",
+    "detail_url": "https://www.toolify.ai/tool/d-id",
+    "name": "D-ID",
+    "website": "https://www.d-id.com",
+    "snapshot": "https://cdn-images.toolify.ai/168257854756927397.jpg",
+    "description": "D-ID is an AI platform for creating videos from photos and text.",
+    "rank": "162"
   }
 ]
