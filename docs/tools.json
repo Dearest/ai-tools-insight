@@ -2221,5 +2221,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/835162aeaebe23d703b27658ff646be1.jpeg",
     "description": "Turn ideas into Animated Stories using AI-generated assets.",
     "rank": "247"
+  },
+  {
+    "slug": "musicfy",
+    "detail_url": "https://www.toolify.ai/tool/musicfy",
+    "name": "Musicfy",
+    "website": "https://musicfy.lol",
+    "snapshot": "https://cdn-images.toolify.ai/168741689470078188.png",
+    "description": "Musicfy: Create AI voice clone, make music effortlessly.",
+    "rank": "248"
   }
 ]
