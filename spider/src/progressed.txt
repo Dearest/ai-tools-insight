@@ -261,3 +261,4 @@ https://appypie.com
 https://contentstudio.io
 https://suno.ai
 https://robly.com
+https://hex.tech
