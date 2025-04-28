@@ -1672,5 +1672,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/3d67f7ec8c1fedbee863d29166e64bdd.jpeg",
     "description": "Copy.ai is an AI-powered tool that simplifies marketing by generating high-quality content.",
     "rank": "186"
+  },
+  {
+    "slug": "ai-studios",
+    "detail_url": "https://www.toolify.ai/tool/ai-studios",
+    "name": "AI STUDIOS",
+    "website": "https://aistudios.com",
+    "snapshot": "https://cdn-images.toolify.ai/173166398879777541.jpg",
+    "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+    "rank": "187"
   }
 ]
