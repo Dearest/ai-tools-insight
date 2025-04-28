@@ -1258,5 +1258,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349980339826287.jpg",
     "description": "Immersive, hands-on learning, seamlessly integrated into daily routine.",
     "rank": "140"
+  },
+  {
+    "slug": "beautiful-ai",
+    "detail_url": "https://www.toolify.ai/tool/beautiful-ai",
+    "name": "Beautiful.ai",
+    "website": "https://www.beautiful.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/99bc3fcaf6b38c05319f4961173c4924.jpeg",
+    "description": "Beautiful.ai is a powerful tool that helps teams create stunning presentations easily.",
+    "rank": "141"
   }
 ]
