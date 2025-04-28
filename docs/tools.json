@@ -2257,5 +2257,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168546376180173994.jpg",
     "description": "AI chat app AskYourPDF extracts insights from uploaded PDF documents.",
     "rank": "251"
+  },
+  {
+    "slug": "promptbase",
+    "detail_url": "https://www.toolify.ai/tool/promptbase",
+    "name": "PromptBase",
+    "website": "https://promptbase.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/1d42505a37df4c7aa662b93af068532b.jpeg",
+    "description": "PromptBase is a marketplace for AI prompt trading, offering various high-quality prompts.",
+    "rank": "252"
   }
 ]
