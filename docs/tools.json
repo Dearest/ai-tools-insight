@@ -2455,5 +2455,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/1e364d3024115f598354ba7afdce9d6b.jpeg",
     "description": "Save and organize your precious notes, images, quotes, and highlights with mymind's secure AI-powered platform.",
     "rank": "273"
+  },
+  {
+    "slug": "careerflow-ai",
+    "detail_url": "https://www.toolify.ai/tool/careerflow-ai",
+    "name": "Careerflow",
+    "website": "https://careerflow.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170350466578416396.jpg",
+    "description": "Your AI assistant for job search tools.",
+    "rank": "274"
   }
 ]
