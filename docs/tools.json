@@ -1105,5 +1105,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349928826915875.jpg",
     "description": "Quickly create sleek decks with Pitch.",
     "rank": "123"
+  },
+  {
+    "slug": "hitpaw-com",
+    "detail_url": "https://www.toolify.ai/tool/hitpaw-com",
+    "name": "HitPaw Official",
+    "website": "https://hitpaw.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350443688178485.jpg",
+    "description": "Unleash Creativity with AI",
+    "rank": "124"
   }
 ]
