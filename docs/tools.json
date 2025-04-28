@@ -1960,5 +1960,14 @@
     "snapshot": "https://cdn-images.toolify.ai/16833574444652006.jpg",
     "description": "Your personal AI writing assistant.",
     "rank": "218"
+  },
+  {
+    "slug": "tarteel-ai",
+    "detail_url": "https://www.toolify.ai/tool/tarteel-ai",
+    "name": "Tarteel",
+    "website": "https://tarteel.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349845625364742.jpg",
+    "description": "Recite the Quran confidently with live feedback and AI assistance.",
+    "rank": "219"
   }
 ]
