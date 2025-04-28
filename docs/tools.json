@@ -2185,5 +2185,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/c7ef9fca7bd3b829a7d5234c42acd811.jpeg",
     "description": "Unbounce is an AI-powered platform that helps businesses create and optimize landing pages.",
     "rank": "243"
+  },
+  {
+    "slug": "lumen5",
+    "detail_url": "https://www.toolify.ai/tool/lumen5",
+    "name": "Lumen5",
+    "website": "https://lumen5.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/890b3a6ab41e4c33b2386dcd91784bc3.jpeg",
+    "description": "Lumen5 is an AI-powered platform that allows anyone to create engaging videos quickly.",
+    "rank": "244"
   }
 ]
