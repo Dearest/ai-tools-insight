@@ -2113,5 +2113,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/8d5bf9085b3f284d81d98cb8d9c1c3c0.jpeg",
     "description": "Next-gen AI photo editor for fast and high-quality photo processing.",
     "rank": "235"
+  },
+  {
+    "slug": "flair-ai",
+    "detail_url": "https://www.toolify.ai/tool/flair-ai",
+    "name": "Flair",
+    "website": "https://flair.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/54b016333bfb2ab4d18610fad5d008af.jpeg",
+    "description": "Flair is an AI tool that simplifies product photography customization.",
+    "rank": "236"
   }
 ]
