@@ -2266,5 +2266,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/1d42505a37df4c7aa662b93af068532b.jpeg",
     "description": "PromptBase is a marketplace for AI prompt trading, offering various high-quality prompts.",
     "rank": "252"
+  },
+  {
+    "slug": "jina-ai",
+    "detail_url": "https://www.toolify.ai/tool/jina-ai",
+    "name": "Jina AI",
+    "website": "https://jina.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349958829791309.jpg",
+    "description": "Democratizing AI for all.",
+    "rank": "253"
   }
 ]
