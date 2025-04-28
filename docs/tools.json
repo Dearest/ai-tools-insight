@@ -1636,5 +1636,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/7b6885fae218a039da4d67c9a6e0be2f.jpeg",
     "description": "RunPod is a global cloud platform for AI inference and training with GPU support.",
     "rank": "182"
+  },
+  {
+    "slug": "kaiber-ai",
+    "detail_url": "https://www.toolify.ai/tool/kaiber-ai",
+    "name": "Kaiber",
+    "website": "https://kaiber.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/1af4c7045a363eaf4a7928924378edd6.jpeg",
+    "description": "Kaiber is a website for AI-based video creation.",
+    "rank": "183"
   }
 ]
