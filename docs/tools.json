@@ -1753,5 +1753,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350398857236635.jpg",
     "description": "AI detector bypassing tool for undetectable content.",
     "rank": "195"
+  },
+  {
+    "slug": "kits-ai",
+    "detail_url": "https://www.toolify.ai/tool/kits-ai",
+    "name": "Kits AI",
+    "website": "https://kits.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349963035176873.jpg",
+    "description": "Transform your voice with AI artist voices. Create and train your own AI voice model.",
+    "rank": "196"
   }
 ]
