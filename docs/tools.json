@@ -1348,5 +1348,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350419399121922.jpg",
     "description": "Personalized visual marketing powered by Generative AI.",
     "rank": "150"
+  },
+  {
+    "slug": "jasper",
+    "detail_url": "https://www.toolify.ai/tool/jasper",
+    "name": "Jasper - AI Writer | AI Marketing Co-Pilot",
+    "website": "https://jasper.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/a6b84578e2e1b892f4c99f51fa1b3d6e.jpeg",
+    "description": "Jasper is an advanced AI content creation tool that helps enterprise teams generate high-quality, customizable content.",
+    "rank": "151"
   }
 ]
