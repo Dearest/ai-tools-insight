@@ -1204,5 +1204,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/65fdb9bfbf4e24e1d6be842a3c5be189.jpeg",
     "description": "Artbreeder enables users to create various content using AI-powered collaboration and multiple tools.",
     "rank": "134"
+  },
+  {
+    "slug": "landr",
+    "detail_url": "https://www.toolify.ai/tool/landr",
+    "name": "LANDR: Creative Tools for Musicians",
+    "website": "https://www.landr.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/9f2e14317e989637a8dae74f0a36f9b4.jpeg",
+    "description": "LANDR is an all-in-one platform for musicians to create, master, distribute, and promote their music.",
+    "rank": "135"
   }
 ]
