@@ -1195,5 +1195,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/483e9700b41d1f481bbd26f980d54ebe.jpeg",
     "description": "Swap faces in videos and GIFs with AI-powered Reface app and transform photos into cartoons.",
     "rank": "133"
+  },
+  {
+    "slug": "artbreeder",
+    "detail_url": "https://www.toolify.ai/tool/artbreeder",
+    "name": "Artbreeder",
+    "website": "https://www.artbreeder.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/65fdb9bfbf4e24e1d6be842a3c5be189.jpeg",
+    "description": "Artbreeder enables users to create various content using AI-powered collaboration and multiple tools.",
+    "rank": "134"
   }
 ]
