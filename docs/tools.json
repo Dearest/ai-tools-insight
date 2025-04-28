@@ -2545,5 +2545,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/f02521f2fa45fa545ba4ad45297ae4f9.jpeg",
     "description": "AI-powered tool for anime-style artwork.",
     "rank": "283"
+  },
+  {
+    "slug": "tensorpix-ai",
+    "detail_url": "https://www.toolify.ai/tool/tensorpix-ai",
+    "name": "TensorPix",
+    "website": "https://tensorpix.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349846796351623.jpg",
+    "description": "Enhance and upscale videos and images online with AI.",
+    "rank": "284"
   }
 ]
