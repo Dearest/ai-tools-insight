@@ -2302,5 +2302,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350438751882545.jpg",
     "description": "Powerful, private, and uncensored AI platform.",
     "rank": "256"
+  },
+  {
+    "slug": "craft-do",
+    "detail_url": "https://www.toolify.ai/tool/craft-do",
+    "name": "Craft",
+    "website": "https://craft.do",
+    "snapshot": "https://cdn-images.toolify.ai/170350398748797114.jpg",
+    "description": "Ideate, organize, and share work efficiently.",
+    "rank": "257"
   }
 ]
