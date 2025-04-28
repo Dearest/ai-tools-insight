@@ -1825,5 +1825,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349882233862865.jpg",
     "description": "Helping web designers win with no-code and generative AI.",
     "rank": "203"
+  },
+  {
+    "slug": "ai-profile-picture-maker",
+    "detail_url": "https://www.toolify.ai/tool/ai-profile-picture-maker",
+    "name": "AI Profile Picture Maker",
+    "website": "https://pfpmaker.com",
+    "snapshot": "https://cdn-images.toolify.ai/1683363616886782.jpg",
+    "description": "Generate professional profile pictures with AI, customize styles and settings for personalization.",
+    "rank": "204"
   }
 ]
