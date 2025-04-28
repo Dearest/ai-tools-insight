@@ -1726,5 +1726,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349864527105780.jpg",
     "description": "Create AI-generated videos in seconds.",
     "rank": "192"
+  },
+  {
+    "slug": "textcortex-ai",
+    "detail_url": "https://www.toolify.ai/tool/textcortex-ai",
+    "name": "TextCortex",
+    "website": "https://textcortex.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/6528e59237f2b30767a588383de03b92.jpeg",
+    "description": "TextCortex is a customizable AI assistant revolutionizing writing, research, and communication.",
+    "rank": "193"
   }
 ]
