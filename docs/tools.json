@@ -2491,5 +2491,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349896187077324.jpg",
     "description": "Improving spoken English proficiency with AI-powered simulation.",
     "rank": "277"
+  },
+  {
+    "slug": "deepfakes-web",
+    "detail_url": "https://www.toolify.ai/tool/deepfakes-web",
+    "name": "Deepfakes Web",
+    "website": "https://deepfakesweb.com",
+    "snapshot": "https://cdn-images.toolify.ai/168637914385231619.jpg",
+    "description": "An online app generates deepfake videos by swapping faces, ensuring user privacy.",
+    "rank": "278"
   }
 ]
