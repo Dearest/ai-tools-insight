@@ -2077,5 +2077,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/13fcb9356203bb2ebb8a9cd7d0076817.jpeg",
     "description": "\"A new AI-powered medium for shaping and sharing ideas through content, images, and presentations.\"",
     "rank": "231"
+  },
+  {
+    "slug": "dreampress-ai",
+    "detail_url": "https://www.toolify.ai/tool/dreampress-ai",
+    "name": "DREAMPRESS",
+    "website": "https://dreampress.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349991398373982.jpg",
+    "description": "Personalised story generation made easy.",
+    "rank": "232"
   }
 ]
