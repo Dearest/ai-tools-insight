@@ -1798,5 +1798,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/65e273c9aab0ba5d7e573af013346a28.jpeg",
     "description": "A free web app that removes unwanted elements from pictures with ease.",
     "rank": "200"
+  },
+  {
+    "slug": "hint-app",
+    "detail_url": "https://www.toolify.ai/tool/hint-app",
+    "name": "Hint",
+    "website": "https://hint.app",
+    "snapshot": "https://cdn-images.toolify.ai/170350420367221856.jpg",
+    "description": "Personalized astrology with AI and professional astrologers.",
+    "rank": "201"
   }
 ]
