@@ -1420,5 +1420,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350402313300954.jpg",
     "description": "Free AI-powered PDF editor, converter, and reader",
     "rank": "158"
+  },
+  {
+    "slug": "crisp-chat",
+    "detail_url": "https://www.toolify.ai/tool/crisp-chat",
+    "name": "Crisp",
+    "website": "https://crisp.chat",
+    "snapshot": "https://cdn-images.toolify.ai/170350409062368202.jpg",
+    "description": "Business Messaging Platform for Startups & SMBs",
+    "rank": "159"
   }
 ]
