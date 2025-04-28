@@ -1294,5 +1294,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349850479949202.jpg",
     "description": "An AI-powered meeting recorder for Zoom and Google Meet.",
     "rank": "144"
+  },
+  {
+    "slug": "hcaptcha-com",
+    "detail_url": "https://www.toolify.ai/tool/hcaptcha-com",
+    "name": "hCaptcha",
+    "website": "https://hcaptcha.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349947722454247.jpg",
+    "description": "Enterprise-grade AI security platform protecting against bots and human abuse.",
+    "rank": "145"
   }
 ]
