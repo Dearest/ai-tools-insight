@@ -1024,5 +1024,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350382890796213.jpg",
     "description": "Data-driven insights from customer interactions.",
     "rank": "114"
+  },
+  {
+    "slug": "happyscribe-com",
+    "detail_url": "https://www.toolify.ai/tool/happyscribe-com",
+    "name": "Happy Scribe",
+    "website": "https://happyscribe.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349947541881486.jpg",
+    "description": "Audio to text transcription and video subtitles with high accuracy.",
+    "rank": "115"
   }
 ]
