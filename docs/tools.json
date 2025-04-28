@@ -1573,5 +1573,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168319516119598870.png",
     "description": "Discover, understand, and learn languages from native materials with Language Reactor.",
     "rank": "175"
+  },
+  {
+    "slug": "fineshare",
+    "detail_url": "https://www.toolify.ai/tool/fineshare",
+    "name": "FineShare",
+    "website": "https://www.fineshare.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/c7882a278401782f5a7c7cf7fd956bbd.jpeg",
+    "description": "FineShare provides creative solutions like FineCam and FineVoice to foster connectivity.",
+    "rank": "176"
   }
 ]
