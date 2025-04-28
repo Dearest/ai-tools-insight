@@ -1339,5 +1339,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349883836598644.jpg",
     "description": "AI-powered learning resources for students and professionals.",
     "rank": "149"
+  },
+  {
+    "slug": "akool-com",
+    "detail_url": "https://www.toolify.ai/tool/akool-com",
+    "name": "Akool",
+    "website": "https://akool.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350419399121922.jpg",
+    "description": "Personalized visual marketing powered by Generative AI.",
+    "rank": "150"
   }
 ]
