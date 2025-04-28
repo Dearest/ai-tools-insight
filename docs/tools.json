@@ -1303,5 +1303,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349947722454247.jpg",
     "description": "Enterprise-grade AI security platform protecting against bots and human abuse.",
     "rank": "145"
+  },
+  {
+    "slug": "smartlead-ai",
+    "detail_url": "https://www.toolify.ai/tool/smartlead-ai",
+    "name": "Smartlead",
+    "website": "https://smartlead.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349896474599485.jpg",
+    "description": "Scale your cold email outreach with Smartlead's unlimited mailboxes and AI warm-up. Improve email deliverability and manage your entire revenue cycle in one place.",
+    "rank": "146"
   }
 ]
