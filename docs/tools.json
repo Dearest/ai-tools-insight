@@ -2176,5 +2176,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/f0221cfa6aa50eefcc5d112de611bc73.jpeg",
     "description": "Taplio is an AI-powered LinkedIn tool to improve personal branding, content creation, and engagement.",
     "rank": "242"
+  },
+  {
+    "slug": "unbounce",
+    "detail_url": "https://www.toolify.ai/tool/unbounce",
+    "name": "Unbounce",
+    "website": "https://unbounce.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/c7ef9fca7bd3b829a7d5234c42acd811.jpeg",
+    "description": "Unbounce is an AI-powered platform that helps businesses create and optimize landing pages.",
+    "rank": "243"
   }
 ]
