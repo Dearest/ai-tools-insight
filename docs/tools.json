@@ -1834,5 +1834,14 @@
     "snapshot": "https://cdn-images.toolify.ai/1683363616886782.jpg",
     "description": "Generate professional profile pictures with AI, customize styles and settings for personalization.",
     "rank": "204"
+  },
+  {
+    "slug": "starryai-2-0",
+    "detail_url": "https://www.toolify.ai/tool/starryai-2-0",
+    "name": "starryai",
+    "website": "https://starryai.com",
+    "snapshot": "https://cdn-images.toolify.ai/169269266763323725.jpg",
+    "description": "\"starryai is an AI app for creating art based on text prompts.\"",
+    "rank": "205"
   }
 ]
