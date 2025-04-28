@@ -1609,5 +1609,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/f786c34832771137b6acc92a3d2b0352.jpeg",
     "description": "Design apps and websites quickly with Uizard, the first AI-powered design tool!",
     "rank": "179"
+  },
+  {
+    "slug": "onfido-com",
+    "detail_url": "https://www.toolify.ai/tool/onfido-com",
+    "name": "Onfido",
+    "website": "https://onfido.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350398047037431.jpg",
+    "description": "Create trust with an AI-powered digital identity solution.",
+    "rank": "180"
   }
 ]
