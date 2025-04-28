@@ -2059,5 +2059,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349879894387310.jpg",
     "description": "Integrated customer service, live chat, and helpdesk platform.",
     "rank": "229"
+  },
+  {
+    "slug": "rask-ai",
+    "detail_url": "https://www.toolify.ai/tool/rask-ai",
+    "name": "Rask AI",
+    "website": "https://www.rask.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168492105892141805.jpeg",
+    "description": "Rask AI provides top-quality AI video dubbing and localization with 130+ languages.",
+    "rank": "230"
   }
 ]
