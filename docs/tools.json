@@ -1663,5 +1663,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169220589748163268.jpg",
     "description": "Clay automates lead generation with targeted data from over 50 sources.",
     "rank": "185"
+  },
+  {
+    "slug": "copy-ai",
+    "detail_url": "https://www.toolify.ai/tool/copy-ai",
+    "name": "Copy.ai",
+    "website": "https://www.copy.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/3d67f7ec8c1fedbee863d29166e64bdd.jpeg",
+    "description": "Copy.ai is an AI-powered tool that simplifies marketing by generating high-quality content.",
+    "rank": "186"
   }
 ]

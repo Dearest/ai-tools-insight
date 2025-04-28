@@ -183,3 +183,4 @@ https://www.runpod.io
 https://kaiber.ai
 https://mindgrasp.ai
 https://www.clay.com
+https://www.copy.ai
