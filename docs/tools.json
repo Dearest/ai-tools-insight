@@ -2104,5 +2104,14 @@
     "snapshot": "https://cdn-images.toolify.ai/167898142336971576.png",
     "description": "Build client portals and internal tools without coding using Softr's pre-built blocks.",
     "rank": "234"
+  },
+  {
+    "slug": "evoto-ai",
+    "detail_url": "https://www.toolify.ai/tool/evoto-ai",
+    "name": "Evoto",
+    "website": "https://www.evoto.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/8d5bf9085b3f284d81d98cb8d9c1c3c0.jpeg",
+    "description": "Next-gen AI photo editor for fast and high-quality photo processing.",
+    "rank": "235"
   }
 ]
