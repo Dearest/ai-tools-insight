@@ -1780,5 +1780,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/1fbc831ddaa20f2f8f6d1b2febbde10c.jpeg",
     "description": "Generate realistic and natural speech with FakeYou using deep fake technology.",
     "rank": "198"
+  },
+  {
+    "slug": "jenni",
+    "detail_url": "https://www.toolify.ai/tool/jenni",
+    "name": "Supercharge Your Writing with Jenni AI",
+    "website": "https://jenni.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/bee1b1da62f7934ef19362889c06f104.jpeg",
+    "description": "Jenni AI enhances writing by overcoming writer's block and providing tools for faster, efficient writing.",
+    "rank": "199"
   }
 ]
