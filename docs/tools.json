@@ -1078,5 +1078,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349902595541156.jpg",
     "description": "Revolutionize your learning with AI.",
     "rank": "120"
+  },
+  {
+    "slug": "seismic-com",
+    "detail_url": "https://www.toolify.ai/tool/seismic-com",
+    "name": "Seismic",
+    "website": "https://seismic.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350443425505605.jpg",
+    "description": "Empower your customer-facing team to delight clients and grow the business.",
+    "rank": "121"
   }
 ]
