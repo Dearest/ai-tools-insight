@@ -1708,5 +1708,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350419489650915.jpg",
     "description": "AI Super-Resolution image enlarging tool using Deep Convolutional Neural Networks.",
     "rank": "190"
+  },
+  {
+    "slug": "hotpot-ai",
+    "detail_url": "https://www.toolify.ai/tool/hotpot-ai",
+    "name": "Hotpot.ai",
+    "website": "https://hotpot.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/fdedfaeef52a26c1ef40f742c851ed6e.jpeg",
+    "description": "Hotpot.ai is a platform that provides AI tools for creative graphic design.",
+    "rank": "191"
   }
 ]
