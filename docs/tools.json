@@ -2653,5 +2653,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349892297023144.jpg",
     "description": "AI 活用先進国の質の高い情報と人材の集まる仕組みづくり",
     "rank": "295"
+  },
+  {
+    "slug": "deepmotion",
+    "detail_url": "https://www.toolify.ai/tool/deepmotion",
+    "name": "DeepMotion - AI Motion Capture & Body Tracking",
+    "website": "https://www.deepmotion.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/278a5837ad24fdc045571e22b809893e.jpeg",
+    "description": "DeepMotion is an AI motion capture solution that generates 3D animations from videos quickly.",
+    "rank": "296"
   }
 ]
