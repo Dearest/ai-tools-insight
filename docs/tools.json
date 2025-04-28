@@ -2122,5 +2122,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/54b016333bfb2ab4d18610fad5d008af.jpeg",
     "description": "Flair is an AI tool that simplifies product photography customization.",
     "rank": "236"
+  },
+  {
+    "slug": "slidespeak",
+    "detail_url": "https://www.toolify.ai/tool/slidespeak",
+    "name": "SlideSpeak",
+    "website": "https://slidespeak.co",
+    "snapshot": "https://cdn-images.toolify.ai/169134154888699785.jpg",
+    "description": "SlideSpeak is a chat platform that allows users to interact with PowerPoint slides.",
+    "rank": "237"
   }
 ]
