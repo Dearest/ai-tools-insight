@@ -1123,5 +1123,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169849084153438668.jpg",
     "description": "AI-generated art from text prompts.",
     "rank": "125"
+  },
+  {
+    "slug": "vizard",
+    "detail_url": "https://www.toolify.ai/tool/vizard",
+    "name": "Vizard.ai",
+    "website": "https://vizard.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/be898d23befd0f3afa6941b44061afc3.jpeg",
+    "description": "Vizard.ai enables quick creation of viral social media videos through AI-powered editing.",
+    "rank": "126"
   }
 ]
