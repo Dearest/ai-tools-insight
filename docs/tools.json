@@ -1546,5 +1546,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168837651095791380.jpg",
     "description": "Generate amazing captions with emojis for short-form content",
     "rank": "172"
+  },
+  {
+    "slug": "vidyard-com",
+    "detail_url": "https://www.toolify.ai/tool/vidyard-com",
+    "name": "Vidyard - Video Tools for Virtual Sales and Marketing Teams",
+    "website": "https://vidyard.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349865440724866.jpg",
+    "description": "Increase leads, accelerate pipeline, and delight customers with Vidyard.",
+    "rank": "173"
   }
 ]
