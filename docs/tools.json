@@ -1942,5 +1942,14 @@
     "snapshot": "https://cdn-images.toolify.ai/167932172791595033.png",
     "description": "PromptHero is a top AI website with prompts and job opportunities.",
     "rank": "216"
+  },
+  {
+    "slug": "novaapp-ai",
+    "detail_url": "https://www.toolify.ai/tool/novaapp-ai",
+    "name": "Nova - ChatGPT AI Chatbot",
+    "website": "https://novaapp.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349914074808788.jpg",
+    "description": "Revolutionary AI chatbot powered by ChatGPT.",
+    "rank": "217"
   }
 ]
