@@ -2329,5 +2329,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168648620599642090.jpg",
     "description": "Cockatoo is an AI-powered transcription service that provides accurate text and subtitle conversion in multiple languages.",
     "rank": "259"
+  },
+  {
+    "slug": "appypie-com",
+    "detail_url": "https://www.toolify.ai/tool/appypie-com",
+    "name": "Appy Pie",
+    "website": "https://appypie.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350413546561734.jpg",
+    "description": "Codeless app development with AI.",
+    "rank": "260"
   }
 ]
