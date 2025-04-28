@@ -2032,5 +2032,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349863986633375.jpg",
     "description": "One-stop platform for designing, building, and selling merch.",
     "rank": "226"
+  },
+  {
+    "slug": "chatfai",
+    "detail_url": "https://www.toolify.ai/tool/chatfai",
+    "name": "ChatFAI",
+    "website": "https://chatfai.com",
+    "snapshot": "https://cdn-images.toolify.ai/168337963117615672.jpg",
+    "description": "ChatFAI is an interactive website where users can chat with fictional characters.",
+    "rank": "227"
   }
 ]
