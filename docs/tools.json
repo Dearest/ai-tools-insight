@@ -1681,5 +1681,14 @@
     "snapshot": "https://cdn-images.toolify.ai/173166398879777541.jpg",
     "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
     "rank": "187"
+  },
+  {
+    "slug": "gencraft",
+    "detail_url": "https://www.toolify.ai/tool/gencraft",
+    "name": "Gencraft",
+    "website": "https://gencraft.com",
+    "snapshot": "https://cdn-images.toolify.ai/168741808664078101.png",
+    "description": "Gencraft is an AI platform for generating unique art using advanced algorithms and models.",
+    "rank": "188"
   }
 ]
