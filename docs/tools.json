@@ -2428,5 +2428,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/07fdf29f01c1edc8fa8dc7777775c545.jpeg",
     "description": "Optimize dating profiles with ROAST for better matches on popular dating apps.",
     "rank": "270"
+  },
+  {
+    "slug": "palette-fm",
+    "detail_url": "https://www.toolify.ai/tool/palette-fm",
+    "name": "Palette.fm",
+    "website": "https://palette.fm",
+    "snapshot": "https://cdn-images.toolify.ai/image/1c70f8395eb350953f7f2e4b6d4d8e4f.jpeg",
+    "description": "Palette.fm is an AI colorize tool for adding color to black and white images without signing up.",
+    "rank": "271"
   }
 ]
