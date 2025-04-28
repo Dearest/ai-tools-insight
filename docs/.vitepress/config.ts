@@ -33,7 +33,6 @@ export default defineConfig({
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/Dearest/ai-tools-insight" }],
-
     search: {
       provider: "local",
       options: {
@@ -58,5 +57,8 @@ export default defineConfig({
         },
       },
     },
+  },
+  sitemap: {
+    hostname: "https://doc.korx.org",
   },
 })
