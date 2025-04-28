@@ -1222,5 +1222,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/3e60e19d4e707cda05d74d637e4059ce.jpeg",
     "description": "Wordtune is an AI writing assistant that suggests rewriting and rephrasing to improve your writing.",
     "rank": "136"
+  },
+  {
+    "slug": "heroz-jp",
+    "detail_url": "https://www.toolify.ai/tool/heroz-jp",
+    "name": "HEROZ",
+    "website": "https://heroz.jp",
+    "snapshot": "https://cdn-images.toolify.ai/170349949750869363.jpg",
+    "description": "AI revolutionizing the future.",
+    "rank": "137"
   }
 ]
