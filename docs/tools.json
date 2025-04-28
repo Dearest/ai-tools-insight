@@ -1969,5 +1969,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349845625364742.jpg",
     "description": "Recite the Quran confidently with live feedback and AI assistance.",
     "rank": "219"
+  },
+  {
+    "slug": "the-new-gitbook",
+    "detail_url": "https://www.toolify.ai/tool/the-new-gitbook",
+    "name": "GitBook",
+    "website": "https://gitbook.com",
+    "snapshot": "https://cdn-images.toolify.ai/170145454299800304.jpg",
+    "description": "A knowledge management tool for technical teams.",
+    "rank": "220"
   }
 ]
