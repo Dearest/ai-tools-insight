@@ -1717,5 +1717,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/fdedfaeef52a26c1ef40f742c851ed6e.jpeg",
     "description": "Hotpot.ai is a platform that provides AI tools for creative graphic design.",
     "rank": "191"
+  },
+  {
+    "slug": "videogen-io",
+    "detail_url": "https://www.toolify.ai/tool/videogen-io",
+    "name": "VideoGen - AI Video Generator",
+    "website": "https://videogen.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349864527105780.jpg",
+    "description": "Create AI-generated videos in seconds.",
+    "rank": "192"
   }
 ]
