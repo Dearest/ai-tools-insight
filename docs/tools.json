@@ -2608,5 +2608,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/8e66b8bec41a3443b7ba5d6d84f36356.jpeg",
     "description": "Vizcom is a platform that turns sketches into concept drawings quickly and easily.",
     "rank": "290"
+  },
+  {
+    "slug": "career-io",
+    "detail_url": "https://www.toolify.ai/tool/career-io",
+    "name": "Career.io",
+    "website": "https://career.io",
+    "snapshot": "https://cdn-images.toolify.ai/170350441952549479.jpg",
+    "description": "AI-powered career-services platform for success.",
+    "rank": "291"
   }
 ]
