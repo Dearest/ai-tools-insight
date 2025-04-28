@@ -2086,5 +2086,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349991398373982.jpg",
     "description": "Personalised story generation made easy.",
     "rank": "232"
+  },
+  {
+    "slug": "magicslides",
+    "detail_url": "https://www.toolify.ai/tool/magicslides",
+    "name": "MagicSlides",
+    "website": "https://www.magicslides.app",
+    "snapshot": "https://cdn-images.toolify.ai/image/7499f96a7d38037f7946fe55d26d1d14.jpeg",
+    "description": "MagicSlides generates presentation slides using AI from any given text.",
+    "rank": "233"
   }
 ]
