@@ -1501,5 +1501,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168346447262949794.jpg",
     "description": "TalkPal is an AI language tutor that provides instant feedback for language practice.",
     "rank": "167"
+  },
+  {
+    "slug": "stable-diffusion",
+    "detail_url": "https://www.toolify.ai/tool/stable-diffusion",
+    "name": "Stability AI",
+    "website": "https://stability.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/a153b1aa57ace58e7711c83c97a6e7bd.jpeg",
+    "description": "Stability AI activates human potential by building an AI foundation for and by the people.",
+    "rank": "168"
   }
 ]
