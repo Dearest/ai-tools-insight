@@ -1042,5 +1042,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/b889f7505f1600eef041db127ad5754e.jpeg",
     "description": "Resume Worded provides free feedback on resumes and LinkedIn profiles, helping users improve their chances of job success.",
     "rank": "116"
+  },
+  {
+    "slug": "piktochart-com",
+    "detail_url": "https://www.toolify.ai/tool/piktochart-com",
+    "name": "Piktochart",
+    "website": "https://piktochart.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350404852944842.jpg",
+    "description": "Create professional-looking infographics and designs without any design experience.",
+    "rank": "117"
   }
 ]
