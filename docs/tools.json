@@ -2662,5 +2662,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/278a5837ad24fdc045571e22b809893e.jpeg",
     "description": "DeepMotion is an AI motion capture solution that generates 3D animations from videos quickly.",
     "rank": "296"
+  },
+  {
+    "slug": "aime",
+    "detail_url": "https://www.toolify.ai/tool/aime",
+    "name": "Aime",
+    "website": "https://www.ainvest.com",
+    "snapshot": "https://cdn-images.toolify.ai/169470101450987894.jpg",
+    "description": "Unlock real-time stock insights with AI.",
+    "rank": "297"
   }
 ]
