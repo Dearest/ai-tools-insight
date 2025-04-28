@@ -2203,5 +2203,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168477318094240074.jpg",
     "description": "Generate high-quality voiceovers with SpeechGen.io's realistic Text-to-Speech AI technology.",
     "rank": "245"
+  },
+  {
+    "slug": "nastia-ai",
+    "detail_url": "https://www.toolify.ai/tool/nastia-ai",
+    "name": "https://www.nastia.ai/",
+    "website": "https://www.nastia.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168648612931497163.jpg",
+    "description": "Nastia is an AI companion that offers uncensored conversations and emotional support to combat loneliness.",
+    "rank": "246"
   }
 ]
