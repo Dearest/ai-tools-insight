@@ -1456,5 +1456,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168257854756927397.jpg",
     "description": "D-ID is an AI platform for creating videos from photos and text.",
     "rank": "162"
+  },
+  {
+    "slug": "surferseo-com",
+    "detail_url": "https://www.toolify.ai/tool/surferseo-com",
+    "name": "Surfer",
+    "website": "https://surferseo.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349903950304938.jpg",
+    "description": "Powerful SEO tool for research, audit, write, optimize, and generate SEO optimized articles.",
+    "rank": "163"
   }
 ]
