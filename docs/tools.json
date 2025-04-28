@@ -2347,5 +2347,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350382610728926.jpg",
     "description": "Unified social media management platform",
     "rank": "261"
+  },
+  {
+    "slug": "suno-ai",
+    "detail_url": "https://www.toolify.ai/tool/suno-ai",
+    "name": "Suno AI",
+    "website": "https://suno.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349902584039382.jpg",
+    "description": "Make great music with Suno AI. No instruments needed, just imagination.",
+    "rank": "262"
   }
 ]
