@@ -1330,5 +1330,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349933930880859.jpg",
     "description": "Boost productivity with PopAi's powerful AI tool!",
     "rank": "148"
+  },
+  {
+    "slug": "revisely-com",
+    "detail_url": "https://www.toolify.ai/tool/revisely-com",
+    "name": "Revisely",
+    "website": "https://revisely.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349883836598644.jpg",
+    "description": "AI-powered learning resources for students and professionals.",
+    "rank": "149"
   }
 ]
