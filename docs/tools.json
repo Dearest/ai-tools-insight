@@ -2095,5 +2095,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/7499f96a7d38037f7946fe55d26d1d14.jpeg",
     "description": "MagicSlides generates presentation slides using AI from any given text.",
     "rank": "233"
+  },
+  {
+    "slug": "softr",
+    "detail_url": "https://www.toolify.ai/tool/softr",
+    "name": "Softr",
+    "website": "https://www.softr.io",
+    "snapshot": "https://cdn-images.toolify.ai/167898142336971576.png",
+    "description": "Build client portals and internal tools without coding using Softr's pre-built blocks.",
+    "rank": "234"
   }
 ]
