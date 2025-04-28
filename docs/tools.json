@@ -1924,5 +1924,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168258258273526876.jpg",
     "description": "Lingvanex offers a range of translation tools, enhancing productivity with neural machine translation.",
     "rank": "214"
+  },
+  {
+    "slug": "chaport-com",
+    "detail_url": "https://www.toolify.ai/tool/chaport-com",
+    "name": "Chaport",
+    "website": "https://chaport.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350468679063347.jpg",
+    "description": "All-in-one customer messaging software.",
+    "rank": "215"
   }
 ]
