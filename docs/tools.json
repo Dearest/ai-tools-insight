@@ -934,5 +934,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/fc04691749322e25e5372570bb58193d.jpeg",
     "description": "Create professional videos using AI avatars and voiceovers in multiple languages without equipment or actors.",
     "rank": "104"
+  },
+  {
+    "slug": "icons8-com",
+    "detail_url": "https://www.toolify.ai/tool/icons8-com",
+    "name": "Icons8",
+    "website": "https://icons8.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349953912256317.jpg",
+    "description": "A website offering free icons, clipart illustrations, photos, and music for design projects.",
+    "rank": "105"
   }
 ]
