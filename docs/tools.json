@@ -1051,5 +1051,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350404852944842.jpg",
     "description": "Create professional-looking infographics and designs without any design experience.",
     "rank": "117"
+  },
+  {
+    "slug": "img-upscaler",
+    "detail_url": "https://www.toolify.ai/tool/img-upscaler",
+    "name": "ImgUpscaler",
+    "website": "https://imgupscaler.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/f6a9e5db192b1801e816b1028ad1f800.jpeg",
+    "description": "Up to 400% image upscaling with AI technology for free.",
+    "rank": "118"
   }
 ]
