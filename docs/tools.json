@@ -1735,5 +1735,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/6528e59237f2b30767a588383de03b92.jpeg",
     "description": "TextCortex is a customizable AI assistant revolutionizing writing, research, and communication.",
     "rank": "193"
+  },
+  {
+    "slug": "dezgo",
+    "detail_url": "https://www.toolify.ai/tool/dezgo",
+    "name": "Dezgo",
+    "website": "https://dezgo.com",
+    "snapshot": "https://cdn-images.toolify.ai/168356269485492799.jpg",
+    "description": "Dezgo is an AI image generator that produces high-quality images from text descriptions.",
+    "rank": "194"
   }
 ]
