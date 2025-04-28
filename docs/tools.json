@@ -2014,5 +2014,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169164907845014584.jpg",
     "description": "Generate compelling content quickly with GravityWrite's AI-powered writing tool.",
     "rank": "224"
+  },
+  {
+    "slug": "appen-com",
+    "detail_url": "https://www.toolify.ai/tool/appen-com",
+    "name": "Appen",
+    "website": "https://appen.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350418230403615.jpg",
+    "description": "Trusted partner for innovative AI applications",
+    "rank": "225"
   }
 ]
