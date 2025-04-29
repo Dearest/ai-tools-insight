@@ -3328,5 +3328,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/0de3312e07e8c6f2d0889a0cf0c12d41.jpeg",
     "description": "Create stunning product photos in seconds with Pebblely AI Product Photography.",
     "rank": "372"
+  },
+  {
+    "slug": "charstar",
+    "detail_url": "https://www.toolify.ai/tool/charstar",
+    "name": "Charstar",
+    "website": "https://charstar.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170350396632193936.jpg",
+    "description": "Chat with virtual AI characters",
+    "rank": "373"
   }
 ]
