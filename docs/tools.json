@@ -4219,5 +4219,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168571845394937231.jpg",
     "description": "A platform that offers AI essay writing tools for students to create unique and plagiarism-free essays.",
     "rank": "471"
+  },
+  {
+    "slug": "profile-picture-ai",
+    "detail_url": "https://www.toolify.ai/tool/profile-picture-ai",
+    "name": "PFP.AI",
+    "website": "https://www.profilepicture.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/ceee7e391746c5ae2bf6471cfbdeaa12.jpeg",
+    "description": "PFP.AI uses AI to generate customized profile pictures, capturing individuality and style.",
+    "rank": "472"
   }
 ]
