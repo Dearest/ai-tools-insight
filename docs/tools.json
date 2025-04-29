@@ -4417,5 +4417,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349909488668595.jpg",
     "description": "Online essay writing service providing academic writing help to students.",
     "rank": "493"
+  },
+  {
+    "slug": "ai-lawyer",
+    "detail_url": "https://www.toolify.ai/tool/ai-lawyer",
+    "name": "AI-Lawyer",
+    "website": "https://ailawyer.pro",
+    "snapshot": "https://cdn-images.toolify.ai/image/e2364372817754194a11ba160df85b97.jpeg",
+    "description": "Instant AI-powered legal help and simplified legal jargon for lawyers and individuals.",
+    "rank": "494"
   }
 ]
