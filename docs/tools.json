@@ -2752,5 +2752,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349898765575754.jpg",
     "description": "Take control of your inbox with Spark.",
     "rank": "307"
+  },
+  {
+    "slug": "klap",
+    "detail_url": "https://www.toolify.ai/tool/klap",
+    "name": "Klap",
+    "website": "https://klap.app",
+    "snapshot": "https://cdn-images.toolify.ai/168622949461747042.jpg",
+    "description": "Generate TikTok, Shorts, and Reels from YouTube videos in one click with AI-powered tool Klap.",
+    "rank": "308"
   }
 ]
