@@ -4228,5 +4228,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/ceee7e391746c5ae2bf6471cfbdeaa12.jpeg",
     "description": "PFP.AI uses AI to generate customized profile pictures, capturing individuality and style.",
     "rank": "472"
+  },
+  {
+    "slug": "controlla-xyz",
+    "detail_url": "https://www.toolify.ai/tool/controlla-xyz",
+    "name": "Controlla: interactive, remixable songs",
+    "website": "https://controlla.xyz",
+    "snapshot": "https://cdn-images.toolify.ai/170349981731680322.jpg",
+    "description": "Interactive songs empowering fans and artists.",
+    "rank": "473"
   }
 ]
