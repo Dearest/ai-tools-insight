@@ -2761,5 +2761,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168622949461747042.jpg",
     "description": "Generate TikTok, Shorts, and Reels from YouTube videos in one click with AI-powered tool Klap.",
     "rank": "308"
+  },
+  {
+    "slug": "headshotpro",
+    "detail_url": "https://www.toolify.ai/tool/headshotpro",
+    "name": "HeadshotPro",
+    "website": "https://www.headshotpro.com",
+    "snapshot": "https://cdn-images.toolify.ai/168329675120440866.jpg",
+    "description": "HeadshotPro uses AI to quickly create high-quality headshots without a physical photo shoot.",
+    "rank": "309"
   }
 ]
