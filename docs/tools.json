@@ -4012,5 +4012,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/b7d055a8b5c5d4a82cabcfaaaffcf829.jpeg",
     "description": "Mokker AI provides instant AI background replacement for product photos, eliminating manual editing.",
     "rank": "448"
+  },
+  {
+    "slug": "linkedin-gpt-assistant-by-dex",
+    "detail_url": "https://www.toolify.ai/tool/linkedin-gpt-assistant-by-dex",
+    "name": "Dex",
+    "website": "https://getdex.com",
+    "snapshot": "https://cdn-images.toolify.ai/168577712171680936.jpg",
+    "description": "Dex is a personal CRM that integrates with daily tools for managing relationships.",
+    "rank": "449"
   }
 ]
