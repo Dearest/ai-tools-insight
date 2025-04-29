@@ -3796,5 +3796,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349978620027117.jpg",
     "description": "The ultimate AI-powered reading tool.",
     "rank": "424"
+  },
+  {
+    "slug": "mem-ai",
+    "detail_url": "https://www.toolify.ai/tool/mem-ai",
+    "name": "Mem",
+    "website": "https://mem.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/e1e5befdab80d34970d29270992d630a.jpeg",
+    "description": "Mem is an AI-powered productivity platform that helps optimize team work.",
+    "rank": "425"
   }
 ]
