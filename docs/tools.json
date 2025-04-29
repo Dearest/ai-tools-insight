@@ -3625,5 +3625,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168354763630083165.jpg",
     "description": "cre8tiveAI is a photo editing platform that uses AI technology for fast, efficient solutions.",
     "rank": "405"
+  },
+  {
+    "slug": "castmagic",
+    "detail_url": "https://www.toolify.ai/tool/castmagic",
+    "name": "Castmagic",
+    "website": "https://www.castmagic.io",
+    "snapshot": "https://cdn-images.toolify.ai/image/c9f069b329f47ddffb787cd511387f87.jpeg",
+    "description": "Castmagic is an AI platform that converts long audio into usable content assets.",
+    "rank": "406"
   }
 ]
