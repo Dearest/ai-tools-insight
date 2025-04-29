@@ -4426,5 +4426,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/e2364372817754194a11ba160df85b97.jpeg",
     "description": "Instant AI-powered legal help and simplified legal jargon for lawyers and individuals.",
     "rank": "494"
+  },
+  {
+    "slug": "drippi-ai",
+    "detail_url": "https://www.toolify.ai/tool/drippi-ai",
+    "name": "Drippi.ai",
+    "website": "https://drippi.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349991690096447.jpg",
+    "description": "AI-powered automated outreach and inbox management.",
+    "rank": "495"
   }
 ]
