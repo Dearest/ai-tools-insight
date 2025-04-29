@@ -3634,5 +3634,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/c9f069b329f47ddffb787cd511387f87.jpeg",
     "description": "Castmagic is an AI platform that converts long audio into usable content assets.",
     "rank": "406"
+  },
+  {
+    "slug": "myjotbot-com",
+    "detail_url": "https://www.toolify.ai/tool/myjotbot-com",
+    "name": "JotBot AI",
+    "website": "https://myjotbot.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349909315173642.jpg",
+    "description": "AI-powered writing assistant mimicking your style.",
+    "rank": "407"
   }
 ]
