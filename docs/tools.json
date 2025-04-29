@@ -3823,5 +3823,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349845495893353.jpg",
     "description": "Supercharge chat engagement on your stream.",
     "rank": "427"
+  },
+  {
+    "slug": "numerous",
+    "detail_url": "https://www.toolify.ai/tool/numerous",
+    "name": "Numerous.ai",
+    "website": "https://numerous.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168518485488190994.jpg",
+    "description": "Numerous.ai is an AI plugin that brings ChatGPT to spreadsheets, allowing users to extract data and use ChatGPT.",
+    "rank": "428"
   }
 ]
