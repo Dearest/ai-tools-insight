@@ -2959,5 +2959,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/53f25f38acaa3a465c68e38db4fa4bd5.jpeg",
     "description": "SEO.ai is the top AI Writer for SEO, generating high-quality SEO keyword research and copywriting.",
     "rank": "330"
+  },
+  {
+    "slug": "dealmachine-com",
+    "detail_url": "https://www.toolify.ai/tool/dealmachine-com",
+    "name": "DealMachine",
+    "website": "https://dealmachine.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349986029673720.jpg",
+    "description": "All-in-one platform for real estate lead generation and marketing.",
+    "rank": "331"
   }
 ]
