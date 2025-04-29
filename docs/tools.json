@@ -3508,5 +3508,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349848019683009.jpg",
     "description": "Curated travel guides and planning services by local experts from around the world.",
     "rank": "392"
+  },
+  {
+    "slug": "inven-ai",
+    "detail_url": "https://www.toolify.ai/tool/inven-ai",
+    "name": "Inven",
+    "website": "https://inven.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170350411792473032.jpg",
+    "description": "Save time with AI-powered company search.",
+    "rank": "393"
   }
 ]
