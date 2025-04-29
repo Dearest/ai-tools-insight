@@ -4273,5 +4273,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168485711681505404.jpg",
     "description": "Texts is a messaging app that combines multiple platforms and prioritizes privacy.",
     "rank": "477"
+  },
+  {
+    "slug": "kaedim",
+    "detail_url": "https://www.toolify.ai/tool/kaedim",
+    "name": "Kaedim",
+    "website": "https://www.kaedim3d.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/7541306995bd42394b2b084253745555.jpeg",
+    "description": "Kaedim is a platform that creates 3D models from 2D images easily.",
+    "rank": "478"
   }
 ]
