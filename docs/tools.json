@@ -3184,5 +3184,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349926651810768.jpg",
     "description": "Online tool for creating photo collages.",
     "rank": "356"
+  },
+  {
+    "slug": "rosebud-app",
+    "detail_url": "https://www.toolify.ai/tool/rosebud-app",
+    "name": "Rosebud - AI Journal for Personal Growth",
+    "website": "https://rosebud.app",
+    "snapshot": "https://cdn-images.toolify.ai/170349886732033649.jpg",
+    "description": "AI-powered journal for personal growth.",
+    "rank": "357"
   }
 ]
