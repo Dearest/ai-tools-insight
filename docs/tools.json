@@ -3283,5 +3283,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350409997993448.jpg",
     "description": "The leading event & networking platform.",
     "rank": "367"
+  },
+  {
+    "slug": "upheal-io",
+    "detail_url": "https://www.toolify.ai/tool/upheal-io",
+    "name": "Upheal",
+    "website": "https://upheal.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349860347861803.jpg",
+    "description": "AI-powered platform for mental health professionals.",
+    "rank": "368"
   }
 ]
