@@ -3868,5 +3868,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350447835323227.jpg",
     "description": "Web accessibility solution for ADA compliance & WCAG.",
     "rank": "432"
+  },
+  {
+    "slug": "noplagio-it",
+    "detail_url": "https://www.toolify.ai/tool/noplagio-it",
+    "name": "NoPlagio",
+    "website": "https://noplagio.it",
+    "snapshot": "https://cdn-images.toolify.ai/170349913824133437.jpg",
+    "description": "Online plagiarism detection and prevention platform.",
+    "rank": "433"
   }
 ]
