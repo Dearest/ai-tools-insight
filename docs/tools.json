@@ -3220,5 +3220,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349974455372879.jpg",
     "description": "AI tools for content creators",
     "rank": "360"
+  },
+  {
+    "slug": "trancy",
+    "detail_url": "https://www.toolify.ai/tool/trancy",
+    "name": "Trancy for Chrome",
+    "website": "https://www.trancy.org",
+    "snapshot": "https://cdn-images.toolify.ai/168543976428785864.jpg",
+    "description": "Learn languages through watching YouTube and Netflix with Trancy, improving skills realistically.",
+    "rank": "361"
   }
 ]
