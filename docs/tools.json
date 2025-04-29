@@ -3040,5 +3040,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349967798748566.jpg",
     "description": "Automate job search with AI-powered application automation.",
     "rank": "339"
+  },
+  {
+    "slug": "araby-ai",
+    "detail_url": "https://www.toolify.ai/tool/araby-ai",
+    "name": "Araby.ai",
+    "website": "https://www.araby.ai",
+    "snapshot": "https://cdn-images.toolify.ai/16874491492692993.png",
+    "description": "Araby.ai offers cutting-edge Arabic AI tools for various fields.",
+    "rank": "340"
   }
 ]
