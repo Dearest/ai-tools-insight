@@ -3202,5 +3202,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349849839577017.jpg",
     "description": "AI-generated random human faces",
     "rank": "358"
+  },
+  {
+    "slug": "neural-frames",
+    "detail_url": "https://www.toolify.ai/tool/neural-frames",
+    "name": "neural frames",
+    "website": "https://www.neuralframes.com",
+    "snapshot": "https://cdn-images.toolify.ai/168510604532108231.jpg",
+    "description": "AI motion content generator converts text into videos using neural network.",
+    "rank": "359"
   }
 ]
