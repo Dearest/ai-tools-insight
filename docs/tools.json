@@ -3166,5 +3166,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350452246793106.jpg",
     "description": "Improve your gaming skills with Aimlabs, the ultimate platform for FPS and MOBA gamers.",
     "rank": "354"
+  },
+  {
+    "slug": "soulgen-net",
+    "detail_url": "https://www.toolify.ai/tool/soulgen-net",
+    "name": "SoulGen",
+    "website": "https://soulgen.net",
+    "snapshot": "https://cdn-images.toolify.ai/170349897246684266.jpg",
+    "description": "Create stunning art from text.",
+    "rank": "355"
   }
 ]
