@@ -3400,5 +3400,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/8879077ac115947726b2a2c69fdcee0e.jpeg",
     "description": "Visla is an AI-powered platform for easy video recording, editing, and sharing.",
     "rank": "380"
+  },
+  {
+    "slug": "summarize-tech",
+    "detail_url": "https://www.toolify.ai/tool/summarize-tech",
+    "name": "summarize.tech",
+    "website": "https://www.summarize.tech",
+    "snapshot": "https://cdn-images.toolify.ai/image/c65f80f26653903f4ded1e5f530c783b.jpeg",
+    "description": "AI platform summarizes long YouTube videos using ChatGPT.",
+    "rank": "381"
   }
 ]
