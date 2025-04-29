@@ -3742,5 +3742,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/d316c6874e3cb5fa7c6cc1d8acf8f5c2.jpeg",
     "description": "Transform ordinary pictures into stunning AI visuals.",
     "rank": "418"
+  },
+  {
+    "slug": "interiorai",
+    "detail_url": "https://www.toolify.ai/tool/interiorai",
+    "name": "InteriorAI",
+    "website": "https://interiorai.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/bafb3f8562cde3b73eb76720906c7330.jpeg",
+    "description": "Interior AI is an AI-powered tool that transforms users' interior photos into new styles, inspiring home decoration.",
+    "rank": "419"
   }
 ]
