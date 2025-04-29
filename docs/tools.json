@@ -2833,5 +2833,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350414464061039.jpg",
     "description": "The ultimate creative software for music makers.",
     "rank": "316"
+  },
+  {
+    "slug": "hypotenuse-ai",
+    "detail_url": "https://www.toolify.ai/tool/hypotenuse-ai",
+    "name": "Hypotenuse AI",
+    "website": "https://hypotenuse.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/a9f3b381bbbe0cb8e78074d6f712f750.jpeg",
+    "description": "Hypotenuse AI is an AI Writing Assistant that generates high-quality content based on keywords.",
+    "rank": "317"
   }
 ]
