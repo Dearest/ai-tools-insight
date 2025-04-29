@@ -3778,5 +3778,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169184948725578198.jpg",
     "description": "Create custom AI chatbots with Chaindesk for streamlined customer support.",
     "rank": "422"
+  },
+  {
+    "slug": "colossyan",
+    "detail_url": "https://www.toolify.ai/tool/colossyan",
+    "name": "Colossyan Creator",
+    "website": "https://www.colossyan.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/e6481a7900cb9bf67d69401a4ab87db1.jpeg",
+    "description": "Colossyan Creator is an AI video generator that creates videos in minutes using real actors.",
+    "rank": "423"
   }
 ]
