@@ -4201,5 +4201,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349978927033050.jpg",
     "description": "Aesthetic Clinic Software | Medical Record system | Clinicminds",
     "rank": "469"
+  },
+  {
+    "slug": "instatext-io",
+    "detail_url": "https://www.toolify.ai/tool/instatext-io",
+    "name": "InstaText",
+    "website": "https://instatext.io",
+    "snapshot": "https://cdn-images.toolify.ai/170350399516333134.jpg",
+    "description": "Improve your writing with InstaText, an AI-powered online tool that suggests improvements and corrections to make your texts sound more natural and native-like.",
+    "rank": "470"
   }
 ]
