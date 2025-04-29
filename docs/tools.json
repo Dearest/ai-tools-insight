@@ -2842,5 +2842,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/a9f3b381bbbe0cb8e78074d6f712f750.jpeg",
     "description": "Hypotenuse AI is an AI Writing Assistant that generates high-quality content based on keywords.",
     "rank": "317"
+  },
+  {
+    "slug": "pdf-ai",
+    "detail_url": "https://www.toolify.ai/tool/pdf-ai",
+    "name": "PDF.ai",
+    "website": "https://pdf.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168387142431622546.png",
+    "description": "Summary: PDF.ai is a ChatPDF app that enables users to chat with PDFs, ask questions, get summaries, and find information easily.",
+    "rank": "318"
   }
 ]
