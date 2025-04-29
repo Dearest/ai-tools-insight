@@ -3373,5 +3373,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168249024710415120.jpg",
     "description": "Create personalized videos easily using Elai.io's AI video generation platform.",
     "rank": "377"
+  },
+  {
+    "slug": "alpha3d-io",
+    "detail_url": "https://www.toolify.ai/tool/alpha3d-io",
+    "name": "Alpha3D",
+    "website": "https://alpha3d.io",
+    "snapshot": "https://cdn-images.toolify.ai/170350454023055822.jpg",
+    "description": "Transform 2D images into 3D assets with generative AI.",
+    "rank": "378"
   }
 ]
