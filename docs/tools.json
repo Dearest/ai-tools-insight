@@ -2896,5 +2896,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/544fa49c8bc7cdf8064bed07c7eb8998.jpeg",
     "description": "\"Tweet Hunter is an AI tool for Twitter that helps users grow their audience and personal brand.\"",
     "rank": "323"
+  },
+  {
+    "slug": "voicedub-ai",
+    "detail_url": "https://www.toolify.ai/tool/voicedub-ai",
+    "name": "VoiceDub",
+    "website": "https://voicedub.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349865697213001.jpg",
+    "description": "Generate AI voice covers for songs.",
+    "rank": "324"
   }
 ]
