@@ -3985,5 +3985,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349889689302491.jpg",
     "description": "Unlimited, high-quality online business education.",
     "rank": "445"
+  },
+  {
+    "slug": "soulgen",
+    "detail_url": "https://www.toolify.ai/tool/soulgen",
+    "name": "SoulGen",
+    "website": "https://www.soulgen.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168517656532736281.jpg",
+    "description": "Create beautiful AI characters of real or anime girls using text or prompts with SoulGen.",
+    "rank": "446"
   }
 ]
