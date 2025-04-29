@@ -2995,5 +2995,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/61b0237d42f57c3b1b53ca078e1cca1c.jpeg",
     "description": "NeuronWriter optimizes website content using semantic SEO techniques for better ranking.",
     "rank": "334"
+  },
+  {
+    "slug": "modal-com",
+    "detail_url": "https://www.toolify.ai/tool/modal-com",
+    "name": "Modal",
+    "website": "https://modal.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349908564884378.jpg",
+    "description": "Code execution in the cloud made easy.",
+    "rank": "335"
   }
 ]
