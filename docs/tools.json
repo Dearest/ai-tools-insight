@@ -3841,5 +3841,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169045632779157511.jpg",
     "description": "A revolutionary AI-powered tool helps students improve their writing skills and academic performance.",
     "rank": "429"
+  },
+  {
+    "slug": "prolific-co",
+    "detail_url": "https://www.toolify.ai/tool/prolific-co",
+    "name": "Prolific",
+    "website": "https://prolific.co",
+    "snapshot": "https://cdn-images.toolify.ai/170350412629548694.jpg",
+    "description": "Trusted research participants for high-quality data.",
+    "rank": "430"
   }
 ]
