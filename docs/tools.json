@@ -3751,5 +3751,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/bafb3f8562cde3b73eb76720906c7330.jpeg",
     "description": "Interior AI is an AI-powered tool that transforms users' interior photos into new styles, inspiring home decoration.",
     "rank": "419"
+  },
+  {
+    "slug": "upscalepics",
+    "detail_url": "https://www.toolify.ai/tool/upscalepics",
+    "name": "Upscalepics",
+    "website": "https://upscalepics.com",
+    "snapshot": "https://cdn-images.toolify.ai/168637725110421756.jpg",
+    "description": "Upscalepics is a free online tool for enhancing and manipulating images effectively.",
+    "rank": "420"
   }
 ]
