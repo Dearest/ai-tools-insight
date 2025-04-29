@@ -4003,5 +4003,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349985893421827.jpg",
     "description": "Pick the best stocks and optimize portfolios with explainable AI-powered insights.",
     "rank": "447"
+  },
+  {
+    "slug": "mokker",
+    "detail_url": "https://www.toolify.ai/tool/mokker",
+    "name": "Mokker AI",
+    "website": "https://mokker.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/b7d055a8b5c5d4a82cabcfaaaffcf829.jpeg",
+    "description": "Mokker AI provides instant AI background replacement for product photos, eliminating manual editing.",
+    "rank": "448"
   }
 ]
