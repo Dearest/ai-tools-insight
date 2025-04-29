@@ -3256,5 +3256,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168346938539022892.jpg",
     "description": "Lightweight, customizable CRM powered by AI.",
     "rank": "364"
+  },
+  {
+    "slug": "doctranslator-com",
+    "detail_url": "https://www.toolify.ai/tool/doctranslator-com",
+    "name": "Free Doc Translator",
+    "website": "https://doctranslator.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350407243015868.jpg",
+    "description": "Translate PDF Documents Online",
+    "rank": "365"
   }
 ]
