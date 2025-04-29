@@ -4381,5 +4381,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/6020bb0cd22b73b215de936498ac3df8.jpeg",
     "description": "Real Fake uses AI to create realistic headshots from your selfies, upgrading your professional appearance.",
     "rank": "489"
+  },
+  {
+    "slug": "taja-ai",
+    "detail_url": "https://www.toolify.ai/tool/taja-ai",
+    "name": "Taja AI",
+    "website": "https://taja.ai",
+    "snapshot": "https://cdn-images.toolify.ai/169116424443182828.jpg",
+    "description": "AI-powered Taja helps YouTube creators optimize metadata for better engagement and viewership.",
+    "rank": "490"
   }
 ]
