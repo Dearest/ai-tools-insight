@@ -3895,5 +3895,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349986692487615.jpg",
     "description": "The #1 AI-powered deal sourcing platform for finding acquisition opportunities, private investments, and funding sources.",
     "rank": "435"
+  },
+  {
+    "slug": "tripplanner-ai",
+    "detail_url": "https://www.toolify.ai/tool/tripplanner-ai",
+    "name": "Trip Planner AI",
+    "website": "https://tripplanner.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349853945206038.jpg",
+    "description": "Seamless itinerary planning with AI-optimized itineraries.",
+    "rank": "436"
   }
 ]
