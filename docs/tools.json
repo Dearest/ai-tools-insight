@@ -3031,5 +3031,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/098c16c758ace3723c3a9852f80aaf8e.jpeg",
     "description": "Create stunning photos with Photo AI, no camera needed. AI generates realistic images, saving on photographer expenses.",
     "rank": "338"
+  },
+  {
+    "slug": "lazyapply-com",
+    "detail_url": "https://www.toolify.ai/tool/lazyapply-com",
+    "name": "LazyApply",
+    "website": "https://www.lazyapply.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349967798748566.jpg",
+    "description": "Automate job search with AI-powered application automation.",
+    "rank": "339"
   }
 ]
