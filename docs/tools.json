@@ -3319,5 +3319,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/d5d38e094ef36784624bb2fdb9a9fc46.jpeg",
     "description": "A minimalistic note-taking app that mirrors your thoughts seamlessly.",
     "rank": "371"
+  },
+  {
+    "slug": "pebblely",
+    "detail_url": "https://www.toolify.ai/tool/pebblely",
+    "name": "Pebblely AI Product Photography",
+    "website": "https://pebblely.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/0de3312e07e8c6f2d0889a0cf0c12d41.jpeg",
+    "description": "Create stunning product photos in seconds with Pebblely AI Product Photography.",
+    "rank": "372"
   }
 ]
