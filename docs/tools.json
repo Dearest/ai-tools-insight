@@ -3301,5 +3301,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/681a1d7c7c722171e26eb7adec5695f8.jpeg",
     "description": "No-code platform Pickaxe enables prompt engineers to build and manage AI apps easily.",
     "rank": "369"
+  },
+  {
+    "slug": "fables-gg",
+    "detail_url": "https://www.toolify.ai/tool/fables-gg",
+    "name": "Friends & Fables - AI RPG Dungeon Master for D&D 5e",
+    "website": "https://fables.gg",
+    "snapshot": "https://cdn-images.toolify.ai/170349995561172720.jpg",
+    "description": "Play D&D 5e with AI dungeon master. Solo or multiplayer. Anytime, anywhere.",
+    "rank": "370"
   }
 ]
