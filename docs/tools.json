@@ -2950,5 +2950,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349900454573506.jpg",
     "description": "AI-enabled service for beating the market.",
     "rank": "329"
+  },
+  {
+    "slug": "seo-ai",
+    "detail_url": "https://www.toolify.ai/tool/seo-ai",
+    "name": "SEO.ai",
+    "website": "https://seo.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/53f25f38acaa3a465c68e38db4fa4bd5.jpeg",
+    "description": "SEO.ai is the top AI Writer for SEO, generating high-quality SEO keyword research and copywriting.",
+    "rank": "330"
   }
 ]
