@@ -3805,5 +3805,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/e1e5befdab80d34970d29270992d630a.jpeg",
     "description": "Mem is an AI-powered productivity platform that helps optimize team work.",
     "rank": "425"
+  },
+  {
+    "slug": "adminer-pro",
+    "detail_url": "https://www.toolify.ai/tool/adminer-pro",
+    "name": "Adminer",
+    "website": "https://adminer.pro",
+    "snapshot": "https://cdn-images.toolify.ai/170350448915323216.jpg",
+    "description": "Plataforma de pesquisa e análise de produtos para alavancar negócios digitais.",
+    "rank": "426"
   }
 ]
