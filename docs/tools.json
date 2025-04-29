@@ -4471,5 +4471,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350402275239387.jpg",
     "description": "Curated list of best tools and startups.",
     "rank": "499"
+  },
+  {
+    "slug": "chatgpt-writer",
+    "detail_url": "https://www.toolify.ai/tool/chatgpt-writer",
+    "name": "ChatGPT Writer",
+    "website": "https://chatgptwriter.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/78db4dc7945e52ed2055faab8c46a6a4.jpeg",
+    "description": "AI-powered ChatGPT Writer helps users write effortlessly and improve their text effectively.",
+    "rank": "500"
   }
 ]
