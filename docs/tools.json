@@ -3940,5 +3940,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349973437555768.jpg",
     "description": "Master social influence with LunarCrush.",
     "rank": "440"
+  },
+  {
+    "slug": "paraphraser",
+    "detail_url": "https://www.toolify.ai/tool/paraphraser",
+    "name": "Paraphrase Tool",
+    "website": "https://paraphrasetool.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/baae8610bb9abb3e3d392ee5f4912c7a.jpeg",
+    "description": "Paraphrase Tool offers free online paraphrasing, grammar check, and plagiarism elimination for 100+ languages.",
+    "rank": "441"
   }
 ]
