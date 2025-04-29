@@ -2860,5 +2860,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168258786910525885.png",
     "description": "DreamStudio is an AI-powered online tool for generating images using Stability.ai's advanced technology.",
     "rank": "319"
+  },
+  {
+    "slug": "bigvu",
+    "detail_url": "https://www.toolify.ai/tool/bigvu",
+    "name": "BIGVU Website",
+    "website": "https://bigvu.tv",
+    "snapshot": "https://cdn-images.toolify.ai/168264849901471132.jpg",
+    "description": "BIGVU is a versatile tool for creating professional videos with teleprompter, captioning, and video editing features.",
+    "rank": "320"
   }
 ]
