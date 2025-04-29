@@ -4489,5 +4489,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169454160671335877.jpg",
     "description": "AI-powered SEO content optimization platform.",
     "rank": "501"
+  },
+  {
+    "slug": "yourteacher-ai",
+    "detail_url": "https://www.toolify.ai/tool/yourteacher-ai",
+    "name": "Teacher AI",
+    "website": "https://yourteacher.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349874881309109.jpg",
+    "description": "Your personal AI language teacher on the go!",
+    "rank": "502"
   }
 ]
