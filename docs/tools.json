@@ -3409,5 +3409,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/c65f80f26653903f4ded1e5f530c783b.jpeg",
     "description": "AI platform summarizes long YouTube videos using ChatGPT.",
     "rank": "381"
+  },
+  {
+    "slug": "koalawriter",
+    "detail_url": "https://www.toolify.ai/tool/koalawriter",
+    "name": "Koala",
+    "website": "https://koala.sh",
+    "snapshot": "https://cdn-images.toolify.ai/168545657162071126.jpg",
+    "description": "Koala offers AI-powered writing and chatbot for SEO and content creators.",
+    "rank": "382"
   }
 ]
