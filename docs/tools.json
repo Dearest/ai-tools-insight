@@ -2734,5 +2734,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/756818854fdc9c0488e7c8908e990d1e.jpeg",
     "description": "StealthGPT generates undetectable AI text, beating AI detectors reliably and securely.",
     "rank": "305"
+  },
+  {
+    "slug": "scholarcy",
+    "detail_url": "https://www.toolify.ai/tool/scholarcy",
+    "name": "https://www.scholarcy.com/",
+    "website": "https://www.scholarcy.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/cc504b70ea8993dbf82a825445e35e11.jpeg",
+    "description": "Scholarcy is an AI tool that converts articles into summarized flashcards for quick assessment.",
+    "rank": "306"
   }
 ]
