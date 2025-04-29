@@ -2815,5 +2815,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/e7cd8b8a2fd919f77486e3a715a1416e.jpeg",
     "description": "Mubert: AI-based music platform combines human creativity with technology for high-quality tracks.",
     "rank": "314"
+  },
+  {
+    "slug": "browse-ai",
+    "detail_url": "https://www.toolify.ai/tool/browse-ai",
+    "name": "Browse AI",
+    "website": "https://browse.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/a2fe4756ed15fb8725b4ba8492f1f840.jpeg",
+    "description": "Browse AI is a user-friendly web automation tool for data scraping and monitoring.",
+    "rank": "315"
   }
 ]
