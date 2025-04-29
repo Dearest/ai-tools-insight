@@ -2770,5 +2770,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168329675120440866.jpg",
     "description": "HeadshotPro uses AI to quickly create high-quality headshots without a physical photo shoot.",
     "rank": "309"
+  },
+  {
+    "slug": "swooped-co",
+    "detail_url": "https://www.toolify.ai/tool/swooped-co",
+    "name": "Swooped",
+    "website": "https://swooped.co",
+    "snapshot": "https://cdn-images.toolify.ai/170349904293781390.jpg",
+    "description": "Job board and AI-powered resume and cover letter generator.",
+    "rank": "310"
   }
 ]
