@@ -3391,5 +3391,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349931888155480.jpg",
     "description": "A chatbot for Italy similar to ChatGPT.",
     "rank": "379"
+  },
+  {
+    "slug": "visla",
+    "detail_url": "https://www.toolify.ai/tool/visla",
+    "name": "Visla",
+    "website": "https://www.visla.us",
+    "snapshot": "https://cdn-images.toolify.ai/image/8879077ac115947726b2a2c69fdcee0e.jpeg",
+    "description": "Visla is an AI-powered platform for easy video recording, editing, and sharing.",
+    "rank": "380"
   }
 ]
