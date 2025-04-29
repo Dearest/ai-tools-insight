@@ -3697,5 +3697,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349949599273418.jpg",
     "description": "The #1 resource for small business funding and growth.",
     "rank": "413"
+  },
+  {
+    "slug": "maker-ai",
+    "detail_url": "https://www.toolify.ai/tool/maker-ai",
+    "name": "Draft AI",
+    "website": "https://maker.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349905889073320.jpg",
+    "description": "Generate written & visual content in seconds.",
+    "rank": "414"
   }
 ]
