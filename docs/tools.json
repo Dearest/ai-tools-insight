@@ -4372,5 +4372,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349912118248022.jpg",
     "description": "Instantly turn sketches into realistic images.",
     "rank": "488"
+  },
+  {
+    "slug": "realfake",
+    "detail_url": "https://www.toolify.ai/tool/realfake",
+    "name": "Real Fake",
+    "website": "https://www.realfakephotos.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/6020bb0cd22b73b215de936498ac3df8.jpeg",
+    "description": "Real Fake uses AI to create realistic headshots from your selfies, upgrading your professional appearance.",
+    "rank": "489"
   }
 ]
