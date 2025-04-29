@@ -2788,5 +2788,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/c2a06edf3ce4d9e58ba06c046675475a.jpeg",
     "description": "Stockimg AI is an AI-powered platform for creating logos, book covers, and posters.",
     "rank": "311"
+  },
+  {
+    "slug": "beautyplus-com",
+    "detail_url": "https://www.toolify.ai/tool/beautyplus-com",
+    "name": "BeautyPlus",
+    "website": "https://beautyplus.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350461078918762.jpg",
+    "description": "Photo and video editor with intuitive tools",
+    "rank": "312"
   }
 ]
