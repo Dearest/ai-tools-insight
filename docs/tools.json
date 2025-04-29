@@ -3445,5 +3445,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350412692325605.jpg",
     "description": "Advanced CRM with automation.",
     "rank": "385"
+  },
+  {
+    "slug": "imagecolorizer",
+    "detail_url": "https://www.toolify.ai/tool/imagecolorizer",
+    "name": "ImageColorizer",
+    "website": "https://imagecolorizer.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/580dd9e952280b23b53f57e4456c6319.jpeg",
+    "description": "An online tool, ImageColorizer uses AI to colorize and restore old photos accurately.",
+    "rank": "386"
   }
 ]
