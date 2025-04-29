@@ -2869,5 +2869,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168264849901471132.jpg",
     "description": "BIGVU is a versatile tool for creating professional videos with teleprompter, captioning, and video editing features.",
     "rank": "320"
+  },
+  {
+    "slug": "videoask-com",
+    "detail_url": "https://www.toolify.ai/tool/videoask-com",
+    "name": "VideoAsk by Typeform Official | Interactive Video Platform",
+    "website": "https://videoask.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349864538536820.jpg",
+    "description": "Enhance conversations with video forms and chatbots.",
+    "rank": "321"
   }
 ]
