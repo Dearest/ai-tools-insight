@@ -3715,5 +3715,14 @@
     "snapshot": "https://cdn-images.toolify.ai/167930397552566969.png",
     "description": "vidyo.ai helps repurpose podcasts and videos into shareable clips for social media.",
     "rank": "415"
+  },
+  {
+    "slug": "chatdaddy-tech",
+    "detail_url": "https://www.toolify.ai/tool/chatdaddy-tech",
+    "name": "ChatDaddy",
+    "website": "https://chatdaddy.tech",
+    "snapshot": "https://cdn-images.toolify.ai/170350397721614270.jpg",
+    "description": "Powerful WhatsApp automation tool for saving time and boosting business.",
+    "rank": "416"
   }
 ]
