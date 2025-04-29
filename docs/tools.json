@@ -4246,5 +4246,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170100124839666284.jpg",
     "description": "Tailored business plans using AI.",
     "rank": "474"
+  },
+  {
+    "slug": "tutorai",
+    "detail_url": "https://www.toolify.ai/tool/tutorai",
+    "name": "Learn Anything",
+    "website": "https://www.tutorai.me",
+    "snapshot": "https://cdn-images.toolify.ai/image/e1d8ebaf3ad2dd1b3f60508546b0fde5.jpeg",
+    "description": "Instantly learn any topic with Learn Anything, powered by TutorAI and artificial intelligence.",
+    "rank": "475"
   }
 ]
