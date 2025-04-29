@@ -3058,5 +3058,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349883214810818.jpg",
     "description": "AI-powered retouching for natural-looking photos.",
     "rank": "341"
+  },
+  {
+    "slug": "plagiarismcheck-org",
+    "detail_url": "https://www.toolify.ai/tool/plagiarismcheck-org",
+    "name": "PlagiarismCheck",
+    "website": "https://plagiarismcheck.org",
+    "snapshot": "https://cdn-images.toolify.ai/170349931815854136.jpg",
+    "description": "An accurate plagiarism checker for teachers and students.",
+    "rank": "342"
   }
 ]
