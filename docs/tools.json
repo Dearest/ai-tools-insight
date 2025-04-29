@@ -2905,5 +2905,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349865697213001.jpg",
     "description": "Generate AI voice covers for songs.",
     "rank": "324"
+  },
+  {
+    "slug": "blackink-ai",
+    "detail_url": "https://www.toolify.ai/tool/blackink-ai",
+    "name": "BlackInk",
+    "website": "https://blackink.ai",
+    "snapshot": "https://cdn-images.toolify.ai/16825871643586747.jpg",
+    "description": "AI-powered tattoo designer creating unique flash tattoo ideas.",
+    "rank": "325"
   }
 ]
