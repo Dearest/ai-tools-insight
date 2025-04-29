@@ -4291,5 +4291,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168580644680925434.jpg",
     "description": "ReRoom AI enables users to create photorealistic renders for interior design projects on SketchUp.",
     "rank": "479"
+  },
+  {
+    "slug": "kive",
+    "detail_url": "https://www.toolify.ai/tool/kive",
+    "name": "Kive",
+    "website": "https://kive.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168258028615256660.jpg",
+    "description": "Kive is an AI platform for creative asset management, inspiration, and collaboration.",
+    "rank": "480"
   }
 ]
