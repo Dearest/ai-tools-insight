@@ -3436,5 +3436,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/32e4b5ef5a82efbbe08efc237d421063.jpeg",
     "description": "RightBlogger is an AI-powered tool platform for bloggers with over 40 tools to create great content faster.",
     "rank": "384"
+  },
+  {
+    "slug": "salesmate-io",
+    "detail_url": "https://www.toolify.ai/tool/salesmate-io",
+    "name": "Salesmate CRM",
+    "website": "https://salesmate.io",
+    "snapshot": "https://cdn-images.toolify.ai/170350412692325605.jpg",
+    "description": "Advanced CRM with automation.",
+    "rank": "385"
   }
 ]
