@@ -3472,5 +3472,14 @@
     "snapshot": "https://cdn-images.toolify.ai/169857327164850306.jpg",
     "description": "Customizable AI studio with lifelike characters and spoken conversations.",
     "rank": "388"
+  },
+  {
+    "slug": "roomgpt-io",
+    "detail_url": "https://www.toolify.ai/tool/roomgpt-io",
+    "name": "RoomGPT",
+    "website": "https://roomgpt.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349886548579681.jpg",
+    "description": "Design your dream room effortlessly.",
+    "rank": "389"
   }
 ]
