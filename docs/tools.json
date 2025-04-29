@@ -4120,5 +4120,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168632983303362205.jpg",
     "description": "Build next-gen AI products without maintaining GPUs",
     "rank": "460"
+  },
+  {
+    "slug": "splitter-ai",
+    "detail_url": "https://www.toolify.ai/tool/splitter-ai",
+    "name": "Splitter.ai",
+    "website": "https://splitter.ai",
+    "snapshot": "https://cdn-images.toolify.ai/170349899532985767.jpg",
+    "description": "AI audio processing for music separation.",
+    "rank": "461"
   }
 ]
