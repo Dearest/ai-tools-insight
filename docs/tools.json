@@ -3553,5 +3553,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/0bc16e396597f642c58b7808a22c442e.jpeg",
     "description": "Dust is an AI assistant that helps teams improve content creation and decision-making.",
     "rank": "397"
+  },
+  {
+    "slug": "voil-chatgpt-browser-assistant",
+    "detail_url": "https://www.toolify.ai/tool/voil-chatgpt-browser-assistant",
+    "name": "VoilÃ",
+    "website": "https://www.getvoila.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168510608740349183.jpg",
+    "description": "Voilà is a powerful AI browser assistant for productivity and virtual assistance.",
+    "rank": "398"
   }
 ]
