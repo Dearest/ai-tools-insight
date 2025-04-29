@@ -2779,5 +2779,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349904293781390.jpg",
     "description": "Job board and AI-powered resume and cover letter generator.",
     "rank": "310"
+  },
+  {
+    "slug": "stockimg-ai",
+    "detail_url": "https://www.toolify.ai/tool/stockimg-ai",
+    "name": "Stockimg AI",
+    "website": "https://stockimg.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/c2a06edf3ce4d9e58ba06c046675475a.jpeg",
+    "description": "Stockimg AI is an AI-powered platform for creating logos, book covers, and posters.",
+    "rank": "311"
   }
 ]
