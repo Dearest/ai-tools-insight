@@ -2878,5 +2878,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349864538536820.jpg",
     "description": "Enhance conversations with video forms and chatbots.",
     "rank": "321"
+  },
+  {
+    "slug": "boords-com",
+    "detail_url": "https://www.toolify.ai/tool/boords-com",
+    "name": "Boords",
+    "website": "https://boords.com",
+    "snapshot": "https://cdn-images.toolify.ai/170350462897835497.jpg",
+    "description": "An easy-to-use storyboarding tool for creative projects.",
+    "rank": "322"
   }
 ]
