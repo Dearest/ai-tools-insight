@@ -4264,5 +4264,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349911079154079.jpg",
     "description": "AI-powered inspiration for your yard.",
     "rank": "476"
+  },
+  {
+    "slug": "texts-com",
+    "detail_url": "https://www.toolify.ai/tool/texts-com",
+    "name": "Texts",
+    "website": "https://texts.com",
+    "snapshot": "https://cdn-images.toolify.ai/168485711681505404.jpg",
+    "description": "Texts is a messaging app that combines multiple platforms and prioritizes privacy.",
+    "rank": "477"
   }
 ]
