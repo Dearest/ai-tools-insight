@@ -2941,5 +2941,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349888587609208.jpg",
     "description": "Take full control over your Amazon PPC campaigns with AI automation.",
     "rank": "328"
+  },
+  {
+    "slug": "stockstory-org",
+    "detail_url": "https://www.toolify.ai/tool/stockstory-org",
+    "name": "StockStory",
+    "website": "https://stockstory.org",
+    "snapshot": "https://cdn-images.toolify.ai/170349900454573506.jpg",
+    "description": "AI-enabled service for beating the market.",
+    "rank": "329"
   }
 ]
