@@ -2851,5 +2851,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168387142431622546.png",
     "description": "Summary: PDF.ai is a ChatPDF app that enables users to chat with PDFs, ask questions, get summaries, and find information easily.",
     "rank": "318"
+  },
+  {
+    "slug": "dreamstudio",
+    "detail_url": "https://www.toolify.ai/tool/dreamstudio",
+    "name": "DreamStudio",
+    "website": "https://dreamstudio.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168258786910525885.png",
+    "description": "DreamStudio is an AI-powered online tool for generating images using Stability.ai's advanced technology.",
+    "rank": "319"
   }
 ]
