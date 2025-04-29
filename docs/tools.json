@@ -3364,5 +3364,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350440987277611.jpg",
     "description": "The largest marketplace for ethical AI training data.",
     "rank": "376"
+  },
+  {
+    "slug": "elai-io",
+    "detail_url": "https://www.toolify.ai/tool/elai-io",
+    "name": "Elai.io - Automated AI Video Generation Platform",
+    "website": "https://elai.io",
+    "snapshot": "https://cdn-images.toolify.ai/168249024710415120.jpg",
+    "description": "Create personalized videos easily using Elai.io's AI video generation platform.",
+    "rank": "377"
   }
 ]
