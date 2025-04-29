@@ -3922,5 +3922,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350396882592032.jpg",
     "description": "An all-in-one platform for chat with AI language models and creating AI images.",
     "rank": "438"
+  },
+  {
+    "slug": "indexbox-io",
+    "detail_url": "https://www.toolify.ai/tool/indexbox-io",
+    "name": "IndexBox",
+    "website": "https://indexbox.io",
+    "snapshot": "https://cdn-images.toolify.ai/170349955592539998.jpg",
+    "description": "Ai-driven market intelligence platform.",
+    "rank": "439"
   }
 ]
