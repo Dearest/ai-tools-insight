@@ -3346,5 +3346,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168353947885555174.jpg",
     "description": "Dictanote is a speech recognition app for taking notes in multiple languages.",
     "rank": "374"
+  },
+  {
+    "slug": "tradytics-com",
+    "detail_url": "https://www.toolify.ai/tool/tradytics-com",
+    "name": "Tradytics",
+    "website": "https://tradytics.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349851740227169.jpg",
+    "description": "Premium options flow data turned into profitable trading strategies.",
+    "rank": "375"
   }
 ]
