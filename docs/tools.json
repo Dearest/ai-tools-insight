@@ -3670,5 +3670,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/9f6648d66de7900c8ee686f235dad989.jpeg",
     "description": "Cloud-based image creation platform.",
     "rank": "410"
+  },
+  {
+    "slug": "studyable-app",
+    "detail_url": "https://www.toolify.ai/tool/studyable-app",
+    "name": "Studyable - AI Learning Tools & Flash Cards",
+    "website": "https://studyable.app",
+    "snapshot": "https://cdn-images.toolify.ai/170349901639753385.jpg",
+    "description": "AI-powered learning platform for studying with chat assistants and essay feedback.",
+    "rank": "411"
   }
 ]
