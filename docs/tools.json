@@ -3229,5 +3229,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168543976428785864.jpg",
     "description": "Learn languages through watching YouTube and Netflix with Trancy, improving skills realistically.",
     "rank": "361"
+  },
+  {
+    "slug": "vocai",
+    "detail_url": "https://www.toolify.ai/tool/vocai",
+    "name": "Shulex VOC",
+    "website": "https://www.voc.ai",
+    "snapshot": "https://cdn-images.toolify.ai/image/bb93ccde00de7467128422c671959682.jpeg",
+    "description": "Shulex VOC is a SaaS platform using AI chatbot to analyze customer feedback for e-commerce.",
+    "rank": "362"
   }
 ]

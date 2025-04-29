@@ -357,3 +357,4 @@ https://this-person-does-not-exist.com
 https://www.neuralframes.com
 https://magai.co
 https://www.trancy.org
+https://www.voc.ai
