@@ -3337,5 +3337,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350396632193936.jpg",
     "description": "Chat with virtual AI characters",
     "rank": "373"
+  },
+  {
+    "slug": "dictanote",
+    "detail_url": "https://www.toolify.ai/tool/dictanote",
+    "name": "Dictanote",
+    "website": "https://dictanote.co",
+    "snapshot": "https://cdn-images.toolify.ai/168353947885555174.jpg",
+    "description": "Dictanote is a speech recognition app for taking notes in multiple languages.",
+    "rank": "374"
   }
 ]
