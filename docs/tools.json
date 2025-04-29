@@ -3022,5 +3022,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/6e23438bfdbc6242696c7ae657cdef8f.jpeg",
     "description": "Typli.AI is an AI-powered tool for digital marketers and content creators, offering easy content generation and optimization.",
     "rank": "337"
+  },
+  {
+    "slug": "photo-ai",
+    "detail_url": "https://www.toolify.ai/tool/photo-ai",
+    "name": "Photo AI",
+    "website": "https://photoai.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/098c16c758ace3723c3a9852f80aaf8e.jpeg",
+    "description": "Create stunning photos with Photo AI, no camera needed. AI generates realistic images, saving on photographer expenses.",
+    "rank": "338"
   }
 ]
