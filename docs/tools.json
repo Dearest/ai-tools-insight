@@ -3454,5 +3454,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/580dd9e952280b23b53f57e4456c6319.jpeg",
     "description": "An online tool, ImageColorizer uses AI to colorize and restore old photos accurately.",
     "rank": "386"
+  },
+  {
+    "slug": "good-ai",
+    "detail_url": "https://www.toolify.ai/tool/good-ai",
+    "name": "The Good AI",
+    "website": "https://www.the-good-ai.com",
+    "snapshot": "https://cdn-images.toolify.ai/168335377011488749.png",
+    "description": "The Good AI is an AI-powered platform that writes essays accurately and efficiently.",
+    "rank": "387"
   }
 ]
