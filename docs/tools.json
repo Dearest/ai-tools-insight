@@ -3382,5 +3382,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350454023055822.jpg",
     "description": "Transform 2D images into 3D assets with generative AI.",
     "rank": "378"
+  },
+  {
+    "slug": "pizzagpt-it",
+    "detail_url": "https://www.toolify.ai/tool/pizzagpt-it",
+    "name": "PizzaGPT - ChatGPT for Italy",
+    "website": "https://pizzagpt.it",
+    "snapshot": "https://cdn-images.toolify.ai/170349931888155480.jpg",
+    "description": "A chatbot for Italy similar to ChatGPT.",
+    "rank": "379"
   }
 ]
