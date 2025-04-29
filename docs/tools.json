@@ -2806,5 +2806,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349892595503889.jpg",
     "description": "MLB The Show Tools & Resources for Gamers",
     "rank": "313"
+  },
+  {
+    "slug": "mubert",
+    "detail_url": "https://www.toolify.ai/tool/mubert",
+    "name": "Mubert",
+    "website": "https://mubert.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/e7cd8b8a2fd919f77486e3a715a1416e.jpeg",
+    "description": "Mubert: AI-based music platform combines human creativity with technology for high-quality tracks.",
+    "rank": "314"
   }
 ]
