@@ -3580,5 +3580,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349886312294758.jpg",
     "description": "Virtual companionship and conversations with your AI-powered girlfriend.",
     "rank": "400"
+  },
+  {
+    "slug": "scenario-com",
+    "detail_url": "https://www.toolify.ai/tool/scenario-com",
+    "name": "Scenario",
+    "website": "https://scenario.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349888783704129.jpg",
+    "description": "AI-powered tool for generating game assets.",
+    "rank": "401"
   }
 ]
