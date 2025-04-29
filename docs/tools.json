@@ -2716,5 +2716,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349888762725634.jpg",
     "description": "Attract leads, gain insights, increase sales.",
     "rank": "303"
+  },
+  {
+    "slug": "carter-chat",
+    "detail_url": "https://www.toolify.ai/tool/carter-chat",
+    "name": "Carter Chat",
+    "website": "https://www.carter.chat",
+    "snapshot": "https://cdn-images.toolify.ai/170350466832114202.jpg",
+    "description": "Meet, create, and have fun with AI characters.",
+    "rank": "304"
   }
 ]
