@@ -4525,5 +4525,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349966894238274.jpg",
     "description": "AI-powered games for creative freedom.",
     "rank": "505"
+  },
+  {
+    "slug": "hotelincloud-com",
+    "detail_url": "https://www.toolify.ai/tool/hotelincloud-com",
+    "name": "Hotel in Cloud",
+    "website": "https://hotelincloud.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349950775114550.jpg",
+    "description": "Intelligent all-in-one hotel management software.",
+    "rank": "506"
   }
 ]
