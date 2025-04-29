@@ -3526,5 +3526,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349884789975536.jpg",
     "description": "AI Agents for web data extraction.",
     "rank": "394"
+  },
+  {
+    "slug": "simpleanalytics-com",
+    "detail_url": "https://www.toolify.ai/tool/simpleanalytics-com",
+    "name": "Simple Analytics",
+    "website": "https://www.simpleanalytics.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349893424014427.jpg",
+    "description": "Privacy-first Google Analytics alternative",
+    "rank": "395"
   }
 ]
