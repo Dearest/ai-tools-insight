@@ -3310,5 +3310,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349995561172720.jpg",
     "description": "Play D&D 5e with AI dungeon master. Solo or multiplayer. Anytime, anywhere.",
     "rank": "370"
+  },
+  {
+    "slug": "reflect-ai",
+    "detail_url": "https://www.toolify.ai/tool/reflect-ai",
+    "name": "Reflect Notes",
+    "website": "https://reflect.app",
+    "snapshot": "https://cdn-images.toolify.ai/image/d5d38e094ef36784624bb2fdb9a9fc46.jpeg",
+    "description": "A minimalistic note-taking app that mirrors your thoughts seamlessly.",
+    "rank": "371"
   }
 ]
