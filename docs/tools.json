@@ -3643,5 +3643,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349909315173642.jpg",
     "description": "AI-powered writing assistant mimicking your style.",
     "rank": "407"
+  },
+  {
+    "slug": "frase",
+    "detail_url": "https://www.toolify.ai/tool/frase",
+    "name": "Frase",
+    "website": "https://www.frase.io",
+    "snapshot": "https://cdn-images.toolify.ai/169150730377437974.jpg",
+    "description": "Frase is a powerful SEO tool that helps users create content that ranks on Google.",
+    "rank": "408"
   }
 ]
