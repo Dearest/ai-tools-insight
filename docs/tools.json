@@ -4075,5 +4075,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349974018168456.jpg",
     "description": "Overcome writer's block with unique lyric ideas.",
     "rank": "455"
+  },
+  {
+    "slug": "publer",
+    "detail_url": "https://www.toolify.ai/tool/publer",
+    "name": "Publer",
+    "website": "https://publer.io",
+    "snapshot": "https://cdn-images.toolify.ai/168248183055690900.jpg",
+    "description": "Publer is a convenient tool for scheduling and analyzing social media posts on multiple platforms.",
+    "rank": "456"
   }
 ]
