@@ -3958,5 +3958,14 @@
     "snapshot": "https://cdn-images.toolify.ai/168248895342035238.jpg",
     "description": "Morgen is a versatile platform for managing calendars, tasks, and scheduling across multiple devices.",
     "rank": "442"
+  },
+  {
+    "slug": "vendasta-com",
+    "detail_url": "https://www.toolify.ai/tool/vendasta-com",
+    "name": "Vendasta",
+    "website": "https://vendasta.com",
+    "snapshot": "https://cdn-images.toolify.ai/170349862935476636.jpg",
+    "description": "An AI-powered SaaS platform for scaling digital product sales.",
+    "rank": "443"
   }
 ]
