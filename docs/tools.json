@@ -4453,5 +4453,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/d059e8adde94d9d424a947d21a7c7518.jpeg",
     "description": "AI-powered SEO and Content Marketing Platform.",
     "rank": "497"
+  },
+  {
+    "slug": "sitegpt",
+    "detail_url": "https://www.toolify.ai/tool/sitegpt",
+    "name": "SiteGPT",
+    "website": "https://sitegpt.ai",
+    "snapshot": "https://cdn-images.toolify.ai/168577836239544497.jpg",
+    "description": "SiteGPT is a platform for website owners to create AI chatbots trained on their content.",
+    "rank": "498"
   }
 ]
