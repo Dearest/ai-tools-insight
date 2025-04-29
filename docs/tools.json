@@ -3949,5 +3949,14 @@
     "snapshot": "https://cdn-images.toolify.ai/image/baae8610bb9abb3e3d392ee5f4912c7a.jpeg",
     "description": "Paraphrase Tool offers free online paraphrasing, grammar check, and plagiarism elimination for 100+ languages.",
     "rank": "441"
+  },
+  {
+    "slug": "morgen",
+    "detail_url": "https://www.toolify.ai/tool/morgen",
+    "name": "Morgen",
+    "website": "https://www.morgen.so",
+    "snapshot": "https://cdn-images.toolify.ai/168248895342035238.jpg",
+    "description": "Morgen is a versatile platform for managing calendars, tasks, and scheduling across multiple devices.",
+    "rank": "442"
   }
 ]
