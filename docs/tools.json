@@ -3292,5 +3292,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349860347861803.jpg",
     "description": "AI-powered platform for mental health professionals.",
     "rank": "368"
+  },
+  {
+    "slug": "pickaxe",
+    "detail_url": "https://www.toolify.ai/tool/pickaxe",
+    "name": "Pickaxe",
+    "website": "https://www.pickaxeproject.com",
+    "snapshot": "https://cdn-images.toolify.ai/image/681a1d7c7c722171e26eb7adec5695f8.jpeg",
+    "description": "No-code platform Pickaxe enables prompt engineers to build and manage AI apps easily.",
+    "rank": "369"
   }
 ]
