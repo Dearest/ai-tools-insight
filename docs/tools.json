@@ -3265,5 +3265,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170350407243015868.jpg",
     "description": "Translate PDF Documents Online",
     "rank": "365"
+  },
+  {
+    "slug": "syllaby",
+    "detail_url": "https://www.toolify.ai/tool/syllaby",
+    "name": "Syllaby.io",
+    "website": "https://syllaby.io",
+    "snapshot": "https://cdn-images.toolify.ai/169798061981936184.jpg",
+    "description": "Streamline video creation with AI-powered tool.",
+    "rank": "366"
   }
 ]
