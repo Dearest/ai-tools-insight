@@ -3769,5 +3769,14 @@
     "snapshot": "https://cdn-images.toolify.ai/170349873845114990.jpg",
     "description": "Automated writing and proofreading for academics.",
     "rank": "421"
+  },
+  {
+    "slug": "chaindesk-ai",
+    "detail_url": "https://www.toolify.ai/tool/chaindesk-ai",
+    "name": "Chaindesk",
+    "website": "https://www.chaindesk.ai",
+    "snapshot": "https://cdn-images.toolify.ai/169184948725578198.jpg",
+    "description": "Create custom AI chatbots with Chaindesk for streamlined customer support.",
+    "rank": "422"
   }
 ]
